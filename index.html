@@ -358,6 +358,19 @@
   .ref-copy svg { width: 13px; height: 13px; flex-shrink: 0; }
   .ref-copy.copied { color: var(--gold); }
 
+  .ref-open {
+    flex-shrink: 0;
+    display: inline-flex; align-items: center; gap: 5px;
+    font-size: .74rem;
+    color: var(--indigo);
+    text-decoration: none;
+    border-right: 1px solid var(--hairline-strong);
+    padding: 4px 8px;
+    margin-right: -1px;
+  }
+  .ref-open:hover { background: var(--quote-bg); }
+  .ref-open svg { width: 13px; height: 13px; flex-shrink: 0; }
+
   .day-divider {
     display: flex; align-items: center; gap: 10px;
     padding: 18px 20px 4px;
@@ -459,6 +472,7 @@ function render(text) {
 
 const NOTE_ICON = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M9 13h6M9 17h6"/></svg>`;
 const COPY_ICON = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1"/></svg>`;
+const OPEN_ICON = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6M10 14L21 3"/></svg>`;
 const CHECK_ICON = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>`;
 const COPY_LABEL = `${COPY_ICON}コピー`;
 
@@ -864,6 +878,7 @@ posts.forEach((p, i) => {
       <div class="ref-row">
         <span class="ref-icon">${NOTE_ICON}</span>
         <input type="text" class="ref-input" readonly value="${obsidianUrl(p.ref).replace(/&/g, '&amp;').replace(/"/g, '&quot;')}">
+        <a class="ref-open" href="${obsidianUrl(p.ref).replace(/&/g, '&amp;')}">${OPEN_ICON}開く</a>
         <button type="button" class="ref-copy">${COPY_LABEL}</button>
       </div>
       <div class="engage-row">
