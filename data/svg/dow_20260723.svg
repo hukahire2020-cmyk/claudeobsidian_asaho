@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 290" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="288" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">米ダウ・ケミカル「Transform to Outperform」（2026/1/29発表）— 化学業界のもう一つのAI活用法</text>
+
+  <rect x="28" y="58" width="204" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">AI・自動化を含む施策による</text>
+  <text x="130" y="98" font-size="12" fill="#52514e" text-anchor="middle">近未来のEBITDA押し上げ目標</text>
+  <text x="130" y="140" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">20億ドル</text>
+  <text x="130" y="160" font-size="10.5" fill="#898781" text-anchor="middle">2026年内500百万ドル実現見込み</text>
+
+  <rect x="248" y="58" width="204" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="350" y="82" font-size="12" fill="#52514e" text-anchor="middle">同時に発表した</text>
+  <text x="350" y="98" font-size="12" fill="#52514e" text-anchor="middle">世界人員削減</text>
+  <text x="350" y="140" font-size="30" font-weight="700" fill="#d03b3b" text-anchor="middle">4,500人</text>
+  <text x="350" y="160" font-size="10.5" fill="#898781" text-anchor="middle">AI・自動化が業務の一部を代替</text>
+
+  <rect x="468" y="58" width="224" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="580" y="82" font-size="12" fill="#52514e" text-anchor="middle">手法</text>
+  <text x="580" y="106" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">C3 AIの</text>
+  <text x="580" y="126" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">デジタルツイン技術</text>
+  <text x="580" y="152" font-size="10.5" fill="#898781" text-anchor="middle">組織・人・製品・工程を</text>
+  <text x="580" y="166" font-size="10.5" fill="#898781" text-anchor="middle">仮想空間で再現し非効率を発見</text>
+
+  <rect x="28" y="192" width="664" height="76" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="216" font-size="12.5" font-weight="700" fill="#0b0b0b">対照的な2つの化学業界AI活用</text>
+  <text x="42" y="238" font-size="12" fill="#52514e">レゾナック（日本）: 現場発のAIエージェントを"標準化して広げる"ボトムアップ型</text>
+  <text x="42" y="256" font-size="12" fill="#52514e">ダウ（米国）: AI・自動化で組織を"再設計して絞る"トップダウン型（人員削減を伴う）</text>
+</svg>

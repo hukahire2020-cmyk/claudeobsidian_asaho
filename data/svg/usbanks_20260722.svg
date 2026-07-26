@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">米メガバンク2026年Q2決算 — AI活用が数字で語られる時代に</text>
+  <rect x="28" y="60" width="205" height="192" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="46" y="86" font-size="12.5" font-weight="700" fill="#0b0b0b">Bank of America</text>
+  <text x="46" y="126" font-size="24" font-weight="700" fill="#2a78d6">20万人超</text>
+  <text x="46" y="144" font-size="10.5" fill="#52514e">がAI機能を利用</text>
+  <text x="46" y="176" font-size="20" font-weight="700" fill="#2a78d6">40万件超</text>
+  <text x="46" y="194" font-size="10.5" fill="#52514e">日々のプロンプト数</text>
+  <text x="46" y="222" font-size="10.5" fill="#52514e">承認済みユースケース300件超</text>
+  <text x="46" y="236" font-size="10.5" fill="#898781">（生成AI114件・完全実装34件）</text>
+  <rect x="257" y="60" width="205" height="192" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="275" y="86" font-size="12.5" font-weight="700" fill="#0b0b0b">Citigroup</text>
+  <circle cx="359" cy="165" r="60" fill="none" stroke="#e1e0d9" stroke-width="14"/>
+  <path d="M359 105 a60 60 0 1 1 -57 78.5" fill="none" stroke="#008300" stroke-width="14"/>
+  <text x="359" y="160" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">9割</text>
+  <text x="359" y="180" font-size="10.5" fill="#52514e" text-anchor="middle">の従業員がAI使用</text>
+  <rect x="486" y="60" width="206" height="192" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="504" y="86" font-size="12.5" font-weight="700" fill="#0b0b0b">JPMorgan Chase</text>
+  <text x="504" y="140" font-size="24" font-weight="700" fill="#2a78d6">約1,000件</text>
+  <text x="504" y="158" font-size="10.5" fill="#52514e">のAIユースケースが稼働中</text>
+  <text x="504" y="200" font-size="10.5" fill="#52514e">CEOダイモン氏:</text>
+  <text x="504" y="216" font-size="10.5" fill="#52514e">「最大の恩恵者は顧客」</text>
+  <text x="28" y="264" font-size="10.5" fill="#898781">各行の2026年第2四半期決算発表（7/14〜7/20）より</text>
+</svg>

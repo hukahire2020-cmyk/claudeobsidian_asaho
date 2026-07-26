@@ -1,0 +1,20 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">イトーキ — CAIO新設までの道のり</text>
+  <line x1="60" y1="70" x2="660" y2="70" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="90" cy="70" r="5" fill="#898781"/>
+  <text x="90" y="98" font-size="11.5" fill="#0b0b0b" text-anchor="middle">2023/10</text>
+  <text x="90" y="114" font-size="10.5" fill="#52514e" text-anchor="middle">竹内氏入社</text>
+  <text x="90" y="128" font-size="10.5" fill="#898781" text-anchor="middle">DX本部長</text>
+  <circle cx="300" cy="70" r="5" fill="#898781"/>
+  <text x="300" y="98" font-size="11.5" fill="#0b0b0b" text-anchor="middle">2026/1</text>
+  <text x="300" y="114" font-size="10.5" fill="#52514e" text-anchor="middle">「AIを経営の中核に」</text>
+  <text x="300" y="128" font-size="10.5" fill="#898781" text-anchor="middle">経営方針を発表</text>
+  <circle cx="500" cy="70" r="6" fill="#2a78d6"/>
+  <text x="500" y="98" font-size="12.5" font-weight="700" fill="#2a78d6" text-anchor="middle">2026/7/1</text>
+  <text x="500" y="115" font-size="11" font-weight="700" fill="#0b0b0b" text-anchor="middle">CAIO新設・竹内氏就任</text>
+  <rect x="46" y="160" width="628" height="76" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="66" y="184" font-size="12.5" font-weight="700" fill="#0b0b0b">CAIOの役割</text>
+  <text x="66" y="208" font-size="11" fill="#52514e">全社AI戦略の策定・AIガバナンス整備・生成AIの社内実装・エンジニア100名超のAI人材育成</text>
+  <text x="66" y="224" font-size="10.5" fill="#898781">竹内氏: 日本オラクル等でSaaS歴20年以上、常務執行役員に昇任</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">Kimi K3ショック — 「安くて賢い中国AI」が米半導体株を直撃</text>
+  <!-- left: cause chain -->
+  <rect x="28" y="60" width="330" height="212" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="86" font-size="13" font-weight="700" fill="#0b0b0b">因果</text>
+  <rect x="48" y="98" width="290" height="42" rx="6" fill="#fcfcfb" stroke="#2a78d6"/>
+  <text x="58" y="116" font-size="11.5" font-weight="700" fill="#0b0b0b">7/16 Moonshot AIが「Kimi K3」公開</text>
+  <text x="58" y="132" font-size="10.5" fill="#52514e">2.8兆パラメータ・オープンウェイト・低価格</text>
+  <path d="M193 140 v14 m-6 -6 6 6 6 -6" stroke="#898781" stroke-width="2" fill="none"/>
+  <rect x="48" y="158" width="290" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="58" y="176" font-size="11.5" font-weight="700" fill="#0b0b0b">「米国製の投資は妥当か」に疑問</text>
+  <text x="58" y="192" font-size="10.5" fill="#52514e">2025年DeepSeekモーメントの再来と市場が反応</text>
+  <path d="M193 200 v14 m-6 -6 6 6 6 -6" stroke="#898781" stroke-width="2" fill="none"/>
+  <rect x="48" y="218" width="290" height="42" rx="6" fill="#fcfcfb" stroke="#d03b3b"/>
+  <text x="58" y="236" font-size="11.5" font-weight="700" fill="#d03b3b">半導体株が売られる</text>
+  <text x="58" y="252" font-size="10.5" fill="#52514e">7/17 ナスダック100 -1.5%</text>
+  <!-- right: stat -->
+  <rect x="374" y="60" width="318" height="212" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="394" y="86" font-size="12.5" font-weight="700" fill="#0b0b0b">SOX半導体株指数の下落幅</text>
+  <text x="394" y="86" font-size="12.5" font-weight="700" fill="#0b0b0b"></text>
+  <circle cx="470" cy="175" r="70" fill="none" stroke="#e1e0d9" stroke-width="16"/>
+  <path d="M470 105 a70 70 0 1 1 -66.6 91.4" fill="none" stroke="#d03b3b" stroke-width="16"/>
+  <text x="470" y="168" font-size="30" font-weight="700" fill="#d03b3b" text-anchor="middle">20%</text>
+  <text x="470" y="188" font-size="11" fill="#52514e" text-anchor="middle">6月最高値比</text>
+  <text x="394" y="252" font-size="11" fill="#52514e">6月の最高値から下落し「弱気相場入り」（7/18時点）</text>
+  <text x="394" y="266" font-size="10.5" fill="#898781">Kimi K3価格: 入力100万トークン3ドル</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">国内AIベンダーの動き — 「Noetra」始動（2026/7/16）</text>
+  <rect x="28" y="60" width="322" height="180" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="86" font-size="13" font-weight="700" fill="#0b0b0b">国産マルチモーダル基盤モデル連合</text>
+  <text x="189" y="145" font-size="34" font-weight="700" fill="#2a78d6" text-anchor="middle">44社</text>
+  <text x="189" y="166" font-size="12" fill="#52514e" text-anchor="middle">が出資（ソフトバンク・ソニー・NEC・ホンダ 他）</text>
+  <text x="48" y="202" font-size="11" fill="#52514e">国が1兆円規模で支援</text>
+  <text x="48" y="218" font-size="10.5" fill="#898781">目的: ロボット等「フィジカルAI」を支える国産基盤</text>
+  <rect x="370" y="60" width="322" height="180" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="390" y="86" font-size="13" font-weight="700" fill="#0b0b0b">NTTデータ LITRON展開状況</text>
+  <rect x="390" y="104" width="280" height="30" rx="6" fill="#2a78d6"/>
+  <text x="530" y="124" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">京都銀行（2026/7〜提供開始）</text>
+  <rect x="390" y="146" width="280" height="30" rx="6" fill="#9ec5f4"/>
+  <text x="530" y="166" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">あいち銀行（2026/7/9〜提供決定）</text>
+  <text x="390" y="200" font-size="10.5" fill="#898781">地銀共同センター参加行への展開を継続予定</text>
+</svg>

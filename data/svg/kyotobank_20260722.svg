@@ -1,0 +1,21 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">京都銀行×NTTデータ — 融資稟議書AIの効果（2026/2/25発表）</text>
+  <!-- left: pass rate bar -->
+  <rect x="28" y="60" width="322" height="212" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="88" font-size="13" font-weight="700" fill="#0b0b0b">審査役評価の合格ライン到達率</text>
+  <text x="48" y="128" font-size="12" fill="#52514e">従来（人による稟議書作成）</text>
+  <rect x="48" y="138" width="90" height="26" rx="4" fill="#c3c2b7"/>
+  <text x="146" y="156" font-size="12" font-weight="700" fill="#0b0b0b">約30%</text>
+  <text x="48" y="194" font-size="12" fill="#52514e">LITRON Generative Assistant</text>
+  <rect x="48" y="204" width="280" height="26" rx="4" fill="#2a78d6"/>
+  <text x="336" y="222" font-size="12" font-weight="700" fill="#0b0b0b">約95%</text>
+  <text x="48" y="258" font-size="10.5" fill="#898781">作成時間も約半減。あいち銀行にも7/9展開開始</text>
+  <!-- right: hours stat -->
+  <rect x="370" y="60" width="322" height="212" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="390" y="88" font-size="13" font-weight="700" fill="#0b0b0b">年間の業務削減効果</text>
+  <text x="531" y="175" font-size="34" font-weight="700" fill="#2a78d6" text-anchor="middle">11,700</text>
+  <text x="531" y="198" font-size="14" fill="#52514e" text-anchor="middle">時間／年（最大）</text>
+  <text x="390" y="240" font-size="11" fill="#52514e">2026年7月から京都銀行で提供開始</text>
+  <text x="390" y="256" font-size="10.5" fill="#898781">FISC安全対策基準対応の「finposs」基盤上で稼働</text>
+</svg>

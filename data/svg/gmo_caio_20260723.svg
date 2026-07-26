@@ -1,0 +1,21 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">GMOインターネットグループ — 代表自らがグループCAIOを兼務（2026/7/13発表）</text>
+
+  <rect x="28" y="60" width="300" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="86" font-size="13" font-weight="700" fill="#0b0b0b">熊谷 正寿 氏</text>
+  <text x="48" y="106" font-size="11.5" fill="#52514e">グループ代表 会長兼社長執行役員CEO</text>
+  <text x="48" y="124" font-size="11.5" fill="#2a78d6" font-weight="700">＋ グループCAIO（AI変革最高責任者）を兼務</text>
+
+  <path d="M328 105 h30 m-9 -6 9 6 -9 6" stroke="#898781" stroke-width="2" fill="none"/>
+
+  <rect x="370" y="60" width="322" height="90" rx="8" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="390" y="86" font-size="13" font-weight="700" fill="#0b0b0b">2027年11月30日 目標</text>
+  <text x="390" y="108" font-size="12.5" fill="#52514e">「日本で最もハイパーオート</text>
+  <text x="390" y="126" font-size="12.5" fill="#52514e">メーション化された企業グループ」</text>
+
+  <text x="28" y="178" font-size="13" font-weight="700" fill="#0b0b0b">狙い</text>
+  <text x="28" y="200" font-size="12" fill="#52514e">AI戦略・導入推進・ガバナンス・人財育成・業務変革を一元統括。トップ自らが陣頭指揮を執ることで</text>
+  <text x="28" y="218" font-size="12" fill="#52514e">全社員がAIエージェントをフル活用する組織体制への転換を加速させる狙い。</text>
+  <text x="28" y="240" font-size="10.5" fill="#898781">CAIO設置は世界の組織の76%に到達（IBM調査・2026年5月）——「兼務」で最速実行するのがGMO流</text>
+</svg>

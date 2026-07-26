@@ -1,0 +1,22 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">国内AIベンダー・企業の動き（7月中旬〜下旬）</text>
+
+  <rect x="28" y="58" width="322" height="170" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="84" font-size="13" font-weight="700" fill="#0b0b0b">みずほFG × NVIDIA</text>
+  <text x="48" y="102" font-size="11" fill="#898781">2026年7月15日発表</text>
+  <text x="48" y="128" font-size="12" fill="#52514e">生成AIを動かす高度な計算</text>
+  <text x="48" y="146" font-size="12" fill="#52514e">基盤を自前で整備</text>
+  <text x="48" y="172" font-size="11.5" fill="#0b0b0b" font-weight="700">狙い：顧客情報を外部に</text>
+  <text x="48" y="190" font-size="11.5" fill="#0b0b0b" font-weight="700">出さずにAI活用＋コスト抑制</text>
+  <text x="48" y="212" font-size="10.5" fill="#898781">金融機関の「AI内製化」の一例</text>
+
+  <rect x="370" y="58" width="322" height="170" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="390" y="84" font-size="13" font-weight="700" fill="#0b0b0b">AI World 2026 夏 東京</text>
+  <text x="390" y="102" font-size="11" fill="#898781">2026年7月22日〜24日</text>
+  <text x="390" y="128" font-size="12" fill="#52514e">幕張メッセで開幕。国内外の</text>
+  <text x="390" y="146" font-size="12" fill="#52514e">AIベンダーが多数出展</text>
+  <text x="390" y="172" font-size="11.5" fill="#0b0b0b" font-weight="700">Allganize Japan等が</text>
+  <text x="390" y="190" font-size="11.5" fill="#0b0b0b" font-weight="700">導入事例・新機能を展示</text>
+  <text x="390" y="212" font-size="10.5" fill="#898781">商談前の最新動向チェックに使える場</text>
+</svg>

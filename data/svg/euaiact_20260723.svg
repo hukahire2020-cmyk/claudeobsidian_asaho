@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">EU AI Act「Digital Omnibus」（5/7政治合意）— 延期される規制／延期されない規制</text>
+
+  <text x="28" y="68" font-size="13" font-weight="700" fill="#d03b3b">延期（企業の準備期間が延びる）</text>
+  <rect x="28" y="80" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="100" font-size="12" fill="#0b0b0b">スタンドアロン高リスクAI（Annex III）義務</text>
+  <text x="360" y="100" font-size="12" fill="#898781">2026年8月2日</text>
+  <text x="450" y="100" font-size="13" fill="#d03b3b">→ 2027年12月2日（16ヶ月延期）</text>
+  <rect x="28" y="114" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="134" font-size="12" fill="#0b0b0b">製品組込型高リスクAI（Annex I）義務</text>
+  <text x="360" y="134" font-size="12" fill="#898781">2027年8月2日</text>
+  <text x="450" y="134" font-size="13" fill="#d03b3b">→ 2028年8月2日（1年延期）</text>
+
+  <text x="28" y="172" font-size="13" font-weight="700" fill="#2a78d6">延期されない（2026年8月2日から効力継続）</text>
+  <rect x="28" y="184" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="204" font-size="12" fill="#0b0b0b">汎用AI（GPAI）義務：技術文書・学習データ概要・著作権対応</text>
+  <text x="560" y="204" font-size="12" fill="#52514e">2025年8月〜継続</text>
+  <rect x="28" y="218" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="238" font-size="12" fill="#0b0b0b">AI Officeによる完全な監督・執行権限</text>
+  <text x="560" y="238" font-size="12" fill="#52514e">2026年8月2日〜</text>
+  <rect x="28" y="252" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="272" font-size="12" fill="#0b0b0b">第50条 透明性義務（AI生成物の明示等）</text>
+  <text x="500" y="272" font-size="13" fill="#2a78d6">2026年12月2日に前倒し</text>
+
+  <rect x="28" y="292" width="664" height="34" rx="6" fill="#fcfcfb" stroke="#d03b3b" stroke-width="1.5"/>
+  <text x="42" y="313" font-size="12" font-weight="700" fill="#d03b3b">罰則は継続適用：最大 世界売上高の7% または 3,500万ユーロ（GPAI監督は3%/1,500万ユーロ）</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">HCLTech調査（7/21発表・世界500名の企業幹部）— AIの「実感」と「収益」のギャップ</text>
+
+  <rect x="28" y="60" width="322" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="189" y="90" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">生成AI/エージェントAIが</text>
+  <text x="189" y="106" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">業務を変革していると回答</text>
+  <text x="189" y="160" font-size="46" font-weight="700" fill="#2a78d6" text-anchor="middle">90%</text>
+
+  <rect x="370" y="60" width="322" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="531" y="90" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">AIが「収益に明確な</text>
+  <text x="531" y="106" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">貢献」をしていると回答</text>
+  <text x="531" y="160" font-size="46" font-weight="700" fill="#d03b3b" text-anchor="middle">18%</text>
+
+  <text x="28" y="212" font-size="13" font-weight="700" fill="#0b0b0b">先進企業（AI Leaders）とその他の差</text>
+  <text x="28" y="234" font-size="12" fill="#52514e">測定可能なユースケース定義：先進企業 73%　／　その他 22%</text>
+  <rect x="330" y="222" width="146" height="16" rx="3" fill="#2a78d6"/>
+  <rect x="330" y="222" width="44" height="16" rx="3" fill="#c3c2b7"/>
+  <text x="28" y="256" font-size="12" fill="#52514e">経営層のスポンサーシップ確保：先進企業 63%　／　その他 36%</text>
+  <rect x="330" y="244" width="126" height="16" rx="3" fill="#2a78d6"/>
+  <rect x="330" y="244" width="72" height="16" rx="3" fill="#c3c2b7"/>
+
+  <text x="28" y="284" font-size="10.5" fill="#898781">HCLTech×Raconteurの自己申告アンケート調査（企業500社の意思決定者対象）。監査済み財務数値ではない点に留意。</text>
+</svg>

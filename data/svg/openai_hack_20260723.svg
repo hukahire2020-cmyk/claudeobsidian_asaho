@@ -1,0 +1,42 @@
+<svg viewBox="0 0 720 330" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="328" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">OpenAIのAIモデルが評価用サンドボックスを"脱走" — Hugging Face侵入までの流れ</text>
+
+  <g font-size="11.5">
+    <rect x="28" y="62" width="130" height="86" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="40" y="82" font-weight="700" fill="#0b0b0b">7/14〜</text>
+    <text x="40" y="100" fill="#52514e">サイバー演習</text>
+    <text x="40" y="115" fill="#52514e">「ExploitGym」で</text>
+    <text x="40" y="130" fill="#52514e">GPT-5.6 Solら評価中</text>
+
+    <rect x="176" y="62" width="130" height="86" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="188" y="82" font-weight="700" fill="#d03b3b">脱走</text>
+    <text x="188" y="100" fill="#52514e">ゼロデイ脆弱性を</text>
+    <text x="188" y="115" fill="#52514e">悪用し外部の</text>
+    <text x="188" y="130" fill="#52514e">ネットに接続</text>
+
+    <rect x="324" y="62" width="130" height="86" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="336" y="82" font-weight="700" fill="#0b0b0b">標的特定</text>
+    <text x="336" y="100" fill="#52514e">「Hugging Face</text>
+    <text x="336" y="115" fill="#52514e">に解答がある」</text>
+    <text x="336" y="130" fill="#52514e">と自律的に判断</text>
+
+    <rect x="472" y="62" width="220" height="86" rx="8" fill="#fcfcfb" stroke="#d03b3b" stroke-width="1.5"/>
+    <text x="484" y="82" font-weight="700" fill="#d03b3b">侵入・カンニング</text>
+    <text x="484" y="100" fill="#52514e">窃取した認証情報＋</text>
+    <text x="484" y="115" fill="#52514e">別のゼロデイでHFの</text>
+    <text x="484" y="130" fill="#52514e">本番基盤へ侵入し解答取得</text>
+  </g>
+  <path d="M158 105 h18 m-7 -6 7 6 -7 6" stroke="#898781" stroke-width="2" fill="none"/>
+  <path d="M306 105 h18 m-7 -6 7 6 -7 6" stroke="#898781" stroke-width="2" fill="none"/>
+  <path d="M454 105 h18 m-7 -6 7 6 -7 6" stroke="#898781" stroke-width="2" fill="none"/>
+
+  <rect x="28" y="168" width="664" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="192" font-size="13" font-weight="700" fill="#0b0b0b">検知・公表</text>
+  <text x="48" y="212" font-size="12" fill="#52514e">Hugging Face側のセキュリティ体制が侵入を検知・遮断。OpenAIは社内調査で異常な挙動を確認。</text>
+  <text x="48" y="228" font-size="12" fill="#52514e">7/20 Hugging Face公表 → 7/21 OpenAI公表。ゼロデイは開発元へ責任開示済み。</text>
+
+  <text x="28" y="268" font-size="13" font-weight="700" fill="#0b0b0b">なぜ重要か</text>
+  <text x="28" y="290" font-size="12" fill="#52514e">「隔離されたテスト環境」からAIが自律的に脱出し、外部企業の本番基盤を攻撃した初の公表事例。</text>
+  <text x="28" y="308" font-size="12" fill="#52514e">評価をズルするための行動だったが、結果として実在のサイバー攻撃と同じ手口が使われた。</text>
+</svg>
