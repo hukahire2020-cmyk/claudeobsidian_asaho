@@ -1187,57 +1187,69 @@ const posts = [
 // 次の日の分はここに ...withDate("YYYY-MM-DD", [ { ... }, ... ]), を追記していく
 ];
 
+// Group posts by date (each date's internal order stays as authored, since
+// thread start/mid/end must read top-to-bottom within a day). Days themselves
+// are then rendered newest-first, so the top of the timeline is always today's
+// digest and older digests scroll below it.
 const feed = document.getElementById("feed");
-let lastDate = null;
-posts.forEach((p, i) => {
-  if (p.date !== lastDate) {
-    const div = document.createElement("div");
-    div.className = "day-divider";
-    div.textContent = formatJPDate(p.date);
-    feed.appendChild(div);
-    lastDate = p.date;
-  }
-  const el = document.createElement("div");
-  el.className = "post" + (p.thread ? " thread-" + p.thread : "");
-  const [reply, repost, like, view] = p.eng;
-  const refUrl = obsidianUrl(p.date, p.ref).replace(/&/g, '&amp;');
-  el.innerHTML = `
-    <div class="rail">
-      <div class="mini-avatar">${ava()}</div>
-      ${p.thread === "start" || p.thread === "mid" ? '<div class="thread-line"></div>' : ''}
-    </div>
-    <div class="post-body">
-      <div class="post-head">
-        <span class="pname">朝報AI</span>
-        <span class="phandle">@ai_asaho</span>
-        <span class="ptime">・${p.date} ${p.t}</span>
-        ${p.tag ? `<span class="thread-tag">${p.tag}</span>` : ''}
+const byDate = new Map();
+posts.forEach((p) => {
+  if (!byDate.has(p.date)) byDate.set(p.date, []);
+  byDate.get(p.date).push(p);
+});
+const datesDesc = [...byDate.keys()].sort().reverse();
+
+let i = 0;
+datesDesc.forEach((date) => {
+  const div = document.createElement("div");
+  div.className = "day-divider";
+  div.textContent = formatJPDate(date);
+  feed.appendChild(div);
+
+  byDate.get(date).forEach((p) => {
+    const el = document.createElement("div");
+    el.className = "post" + (p.thread ? " thread-" + p.thread : "");
+    const [reply, repost, like, view] = p.eng;
+    const refUrl = obsidianUrl(p.date, p.ref).replace(/&/g, '&amp;');
+    el.innerHTML = `
+      <div class="rail">
+        <div class="mini-avatar">${ava()}</div>
+        ${p.thread === "start" || p.thread === "mid" ? '<div class="thread-line"></div>' : ''}
       </div>
-      <div class="post-text">${render(p.text)}</div>
-      ${p.talk ? `<div class="talk-card"><span class="talk-label">💬 商談トーク例</span>${render(p.text)}</div>` : ''}
-      ${p.svg ? `<div class="media-card">${SVGS[p.svg]}</div>` : ''}
-      <div class="ref-row">
-        <span class="ref-icon">${NOTE_ICON}</span>
-        <input type="text" class="ref-input" readonly value="${refUrl.replace(/"/g, '&quot;')}">
-        <a class="ref-open" href="${refUrl}">${OPEN_ICON}開く</a>
-        <button type="button" class="ref-copy">${COPY_LABEL}</button>
-      </div>
-      <div class="engage-row">
-        <span>${icon('reply')}${reply}</span>
-        <span>${icon('repost')}${repost}</span>
-        <span>${icon('like')}${like}</span>
-        <span>${icon('view')}${view.toLocaleString()}</span>
-      </div>
-    </div>`;
-  if (p.talk) {
-    el.querySelector('.post-text').remove();
-  }
-  el.style.animationDelay = (Math.min(i, 40) * 0.02) + "s";
-  feed.appendChild(el);
+      <div class="post-body">
+        <div class="post-head">
+          <span class="pname">朝報AI</span>
+          <span class="phandle">@ai_asaho</span>
+          <span class="ptime">・${p.date} ${p.t}</span>
+          ${p.tag ? `<span class="thread-tag">${p.tag}</span>` : ''}
+        </div>
+        <div class="post-text">${render(p.text)}</div>
+        ${p.talk ? `<div class="talk-card"><span class="talk-label">💬 商談トーク例</span>${render(p.text)}</div>` : ''}
+        ${p.svg ? `<div class="media-card">${SVGS[p.svg]}</div>` : ''}
+        <div class="ref-row">
+          <span class="ref-icon">${NOTE_ICON}</span>
+          <input type="text" class="ref-input" readonly value="${refUrl.replace(/"/g, '&quot;')}">
+          <a class="ref-open" href="${refUrl}">${OPEN_ICON}開く</a>
+          <button type="button" class="ref-copy">${COPY_LABEL}</button>
+        </div>
+        <div class="engage-row">
+          <span>${icon('reply')}${reply}</span>
+          <span>${icon('repost')}${repost}</span>
+          <span>${icon('like')}${like}</span>
+          <span>${icon('view')}${view.toLocaleString()}</span>
+        </div>
+      </div>`;
+    if (p.talk) {
+      el.querySelector('.post-text').remove();
+    }
+    el.style.animationDelay = (Math.min(i, 40) * 0.02) + "s";
+    feed.appendChild(el);
+    i++;
+  });
 });
 
 const tabDate = document.querySelector(".tab-label span");
-if (tabDate && posts.length) tabDate.textContent = formatJPDate(posts[posts.length - 1].date);
+if (tabDate && datesDesc.length) tabDate.textContent = formatJPDate(datesDesc[0]);
 wireRefRows();
 
 if ("serviceWorker" in navigator) {
