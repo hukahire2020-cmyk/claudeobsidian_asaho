@@ -1,0 +1,29 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">海外保険大手のAIエージェント活用状況（業界報道集計）</text>
+
+  <rect x="28" y="58" width="205" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="80" font-size="12" fill="#52514e" text-anchor="middle">Allstate: 日次作成件数</text>
+  <text x="130" y="118" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">約5万件/日</text>
+  <text x="130" y="138" font-size="10.5" fill="#898781" text-anchor="middle">GPTベースのクレーム対応文書</text>
+
+  <rect x="245" y="58" width="205" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="347" y="80" font-size="12" fill="#52514e" text-anchor="middle">対話型AI「ABIE」</text>
+  <text x="347" y="118" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">2.5万件/月</text>
+  <text x="347" y="138" font-size="10.5" fill="#898781" text-anchor="middle">問い合わせ対応件数</text>
+
+  <rect x="462" y="58" width="230" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="577" y="80" font-size="12" fill="#52514e" text-anchor="middle">業界平均クレーム処理コスト</text>
+  <text x="577" y="118" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">30〜40%減</text>
+  <text x="577" y="138" font-size="10.5" fill="#898781" text-anchor="middle">AIエージェント活用時</text>
+
+  <text x="28" y="180" font-size="13" font-weight="700" fill="#0b0b0b">上位企業のクレーム処理期間</text>
+  <rect x="28" y="192" width="300" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="212" font-size="12" fill="#52514e">従来: 10日間</text>
+  <path d="M330 207 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
+  <rect x="366" y="192" width="300" height="30" rx="6" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="380" y="212" font-size="12" font-weight="700" fill="#2a78d6">現在: 36時間（単純案件は5分未満）</text>
+
+  <rect x="28" y="234" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="253" font-size="11" fill="#898781">出典: Perspective AI 業界レポート（Allstate公式発表等の集計）／個別数値は各社公式資料での確認を推奨</text>
+</svg>

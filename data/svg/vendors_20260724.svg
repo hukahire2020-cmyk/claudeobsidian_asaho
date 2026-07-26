@@ -1,0 +1,27 @@
+<svg viewBox="0 0 720 290" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="288" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">みずほFG「Dify Enterprise」実証実験の成果（2026/5/25発表）</text>
+
+  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">全体の業務時間短縮</text>
+  <text x="130" y="122" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">41.8%</text>
+  <text x="130" y="142" font-size="10.5" fill="#898781" text-anchor="middle">60分 → 35分</text>
+
+  <rect x="245" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="347" y="82" font-size="12" fill="#52514e" text-anchor="middle">若手層の業務時間短縮</text>
+  <text x="347" y="122" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">52.2%</text>
+  <text x="347" y="142" font-size="10.5" fill="#898781" text-anchor="middle">62分 → 29分</text>
+
+  <rect x="462" y="58" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="577" y="82" font-size="12" fill="#52514e" text-anchor="middle">エージェント開発期間</text>
+  <text x="577" y="120" font-size="22" font-weight="700" fill="#2a78d6" text-anchor="middle">2週間→数日</text>
+  <text x="577" y="142" font-size="10.5" fill="#898781" text-anchor="middle">最大70%短縮</text>
+
+  <text x="28" y="186" font-size="13" font-weight="700" fill="#0b0b0b">国内AIベンダーの他の動き</text>
+  <rect x="28" y="198" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="218" font-size="11.5" fill="#0b0b0b">7/23〜24 「AI Agent Day 2026 Summer」開催— みずほ銀行・メルカリ(CHRO兼CAIO)登壇、クレディセゾンは300万時間削減目標</text>
+  <rect x="28" y="232" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="252" font-size="11.5" fill="#0b0b0b">7/31提供開始予定 ベリサーブ「SBOM.JP」にAIエージェント機能追加— 脆弱性影響調査を約70%削減見込み</text>
+
+  <rect x="28" y="266" width="664" height="16" rx="4" fill="none"/>
+</svg>

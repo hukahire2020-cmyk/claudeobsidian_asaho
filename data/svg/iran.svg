@@ -1,0 +1,32 @@
+<svg viewBox="0 0 720 330" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="328" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">米イラン戦争 2026年の経緯 — 停戦は2度目の崩壊へ</text>
+  <line x1="60" y1="150" x2="660" y2="150" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="90" cy="150" r="9" fill="#d03b3b"/>
+  <text x="90" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">2/28</text>
+  <text x="90" y="128" font-size="11.5" fill="#52514e" text-anchor="middle">開戦</text>
+  <text x="90" y="180" font-size="10.5" fill="#898781" text-anchor="middle">米・イスラエルが</text>
+  <text x="90" y="194" font-size="10.5" fill="#898781" text-anchor="middle">イラン攻撃</text>
+  <circle cx="230" cy="150" r="9" fill="#2a78d6"/>
+  <text x="230" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">4/8</text>
+  <text x="230" y="128" font-size="11.5" fill="#52514e" text-anchor="middle">一時停戦</text>
+  <circle cx="370" cy="150" r="9" fill="#2a78d6"/>
+  <text x="370" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">6/17</text>
+  <text x="370" y="128" font-size="11.5" fill="#52514e" text-anchor="middle">イスラマバード覚書</text>
+  <text x="370" y="180" font-size="10.5" fill="#898781" text-anchor="middle">60日以内の</text>
+  <text x="370" y="194" font-size="10.5" fill="#898781" text-anchor="middle">最終合意を約束</text>
+  <circle cx="510" cy="150" r="9" fill="#d03b3b"/>
+  <text x="510" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">7/8</text>
+  <text x="510" y="128" font-size="11.5" fill="#52514e" text-anchor="middle">停戦崩壊</text>
+  <text x="510" y="180" font-size="10.5" fill="#898781" text-anchor="middle">米兵2名死亡→</text>
+  <text x="510" y="194" font-size="10.5" fill="#898781" text-anchor="middle">米が連夜空爆</text>
+  <circle cx="640" cy="150" r="9" fill="#d03b3b"/>
+  <text x="640" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">7/13</text>
+  <text x="640" y="128" font-size="11.5" fill="#52514e" text-anchor="middle">タンカー攻撃</text>
+  <text x="640" y="180" font-size="10.5" fill="#898781" text-anchor="middle">商業船を標的に</text>
+  <circle cx="30" cy="228" r="5" fill="#d03b3b"/><text x="42" y="232" font-size="11" fill="#52514e">戦闘の激化</text>
+  <circle cx="130" cy="228" r="5" fill="#2a78d6"/><text x="142" y="232" font-size="11" fill="#52514e">停戦の動き</text>
+  <rect x="28" y="252" width="664" height="52" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="274" font-size="12.5" font-weight="700" fill="#0b0b0b">なぜ日本に効くのか</text>
+  <text x="48" y="293" font-size="12" fill="#52514e">ホルムズ海峡＝世界の原油の約2割が通過。日本は原油の9割超を中東に依存 → 電気代・ガソリン代・物流費に直結</text>
+</svg>

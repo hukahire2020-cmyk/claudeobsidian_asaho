@@ -438,7 +438,7 @@
   <div id="feed"></div>
 
   <div class="footer-note">
-    <b>これはデモです。</b>Obsidianの「朝刊ニュース日報」1本（2026-07-20分）を、架空の人格「朝報AI」の実況ツイート形式に組み替えたプロトタイプ。本文の日付・数字・出典リンクは元の日報から変更していません。<br>
+    <b>これはデモです。</b>Obsidianの「朝刊ニュース日報」を、架空の人格「朝報AI」の実況ツイート形式に組み替えたプロトタイプ。本文の日付・数字・出典リンクは元の日報から変更していません。<br>
     エンゲージメント数値（返信・リポスト・いいね・表示回数）はレイアウト確認用のダミーです。
   </div>
 </div>
@@ -523,695 +523,46 @@ function formatJPDate(dateStr) {
   return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日（${wd}）`;
 }
 
-// Original SVG infographics from attachments/CN_2026-07-20_*.svg, embedded verbatim
-const SVGS = {
-  iran: `<svg viewBox="0 0 720 330" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="328" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">米イラン戦争 2026年の経緯 — 停戦は2度目の崩壊へ</text>
-  <line x1="60" y1="150" x2="660" y2="150" stroke="#c3c2b7" stroke-width="2"/>
-  <circle cx="90" cy="150" r="9" fill="#d03b3b"/>
-  <text x="90" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">2/28</text>
-  <text x="90" y="128" font-size="11.5" fill="#52514e" text-anchor="middle">開戦</text>
-  <text x="90" y="180" font-size="10.5" fill="#898781" text-anchor="middle">米・イスラエルが</text>
-  <text x="90" y="194" font-size="10.5" fill="#898781" text-anchor="middle">イラン攻撃</text>
-  <circle cx="230" cy="150" r="9" fill="#2a78d6"/>
-  <text x="230" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">4/8</text>
-  <text x="230" y="128" font-size="11.5" fill="#52514e" text-anchor="middle">一時停戦</text>
-  <circle cx="370" cy="150" r="9" fill="#2a78d6"/>
-  <text x="370" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">6/17</text>
-  <text x="370" y="128" font-size="11.5" fill="#52514e" text-anchor="middle">イスラマバード覚書</text>
-  <text x="370" y="180" font-size="10.5" fill="#898781" text-anchor="middle">60日以内の</text>
-  <text x="370" y="194" font-size="10.5" fill="#898781" text-anchor="middle">最終合意を約束</text>
-  <circle cx="510" cy="150" r="9" fill="#d03b3b"/>
-  <text x="510" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">7/8</text>
-  <text x="510" y="128" font-size="11.5" fill="#52514e" text-anchor="middle">停戦崩壊</text>
-  <text x="510" y="180" font-size="10.5" fill="#898781" text-anchor="middle">米兵2名死亡→</text>
-  <text x="510" y="194" font-size="10.5" fill="#898781" text-anchor="middle">米が連夜空爆</text>
-  <circle cx="640" cy="150" r="9" fill="#d03b3b"/>
-  <text x="640" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">7/13</text>
-  <text x="640" y="128" font-size="11.5" fill="#52514e" text-anchor="middle">タンカー攻撃</text>
-  <text x="640" y="180" font-size="10.5" fill="#898781" text-anchor="middle">商業船を標的に</text>
-  <circle cx="30" cy="228" r="5" fill="#d03b3b"/><text x="42" y="232" font-size="11" fill="#52514e">戦闘の激化</text>
-  <circle cx="130" cy="228" r="5" fill="#2a78d6"/><text x="142" y="232" font-size="11" fill="#52514e">停戦の動き</text>
-  <rect x="28" y="252" width="664" height="52" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="48" y="274" font-size="12.5" font-weight="700" fill="#0b0b0b">なぜ日本に効くのか</text>
-  <text x="48" y="293" font-size="12" fill="#52514e">ホルムズ海峡＝世界の原油の約2割が通過。日本は原油の9割超を中東に依存 → 電気代・ガソリン代・物流費に直結</text>
-</svg>`,
-  physicalai: `<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">フィジカルAI — 「デモ」から「生産実績」へ</text>
-  <rect x="28" y="60" width="322" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="48" y="88" font-size="12" fill="#52514e">BMW工場でFigure 02が生産支援（11カ月間）</text>
-  <text x="48" y="136" font-size="40" font-weight="700" fill="#2a78d6">3万台超</text>
-  <text x="48" y="162" font-size="11" fill="#898781">BMW X3／Figure社 2025/11/19公式発表</text>
-  <rect x="370" y="60" width="322" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="390" y="88" font-size="12" fill="#52514e">Agility「Digit」累計実稼働（9つの顧客施設）</text>
-  <text x="390" y="136" font-size="40" font-weight="700" fill="#2a78d6">65,000時間</text>
-  <text x="390" y="162" font-size="11" fill="#898781">顧客: GXO・Schaeffler・トヨタ加工場ほか 2026/7時点</text>
-  <text x="28" y="215" font-size="13" font-weight="700" fill="#0b0b0b">これからの展開</text>
-  <rect x="28" y="228" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-  <text x="48" y="252" font-size="12" font-weight="700" fill="#0b0b0b">2026年夏</text>
-  <text x="48" y="270" font-size="11.5" fill="#52514e">BMWライプツィヒ工場へ拡大</text>
-  <path d="M234 257 h20 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="1.6" fill="none"/>
-  <rect x="262" y="228" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-  <text x="282" y="252" font-size="12" font-weight="700" fill="#0b0b0b">2026/12〜27/6</text>
-  <text x="282" y="270" font-size="11.5" fill="#52514e">Schaeffler独2工場で本格導入</text>
-  <path d="M468 257 h20 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="1.6" fill="none"/>
-  <rect x="496" y="228" width="196" height="58" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-dasharray="4 3"/>
-  <text x="516" y="252" font-size="12" font-weight="700" fill="#2a78d6">2027（予測）</text>
-  <text x="516" y="270" font-size="11.5" fill="#52514e">効果数字が出そろう分岐点</text>
-</svg>`,
-  ipo: `<svg viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="268" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">AI2強のIPO競争 — 企業価値（非公開市場の評価額）</text>
-  <text x="28" y="60" font-size="11.5" fill="#898781">2026年7月上旬の報道ベース／両社ともIPO書類を非公開申請（コンフィデンシャル・フィリング）</text>
-  <text x="28" y="106" font-size="13" font-weight="700" fill="#0b0b0b">Anthropic</text>
-  <rect x="130" y="88" width="520" height="30" rx="4" fill="#2a78d6"/>
-  <text x="640" y="108" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">9,650億ドル</text>
-  <text x="130" y="136" font-size="11" fill="#52514e">≒145兆円／シリーズHで650億ドル調達済み・最短10月上場の観測</text>
-  <text x="28" y="186" font-size="13" font-weight="700" fill="#0b0b0b">OpenAI</text>
-  <rect x="130" y="168" width="393" height="30" rx="4" fill="#008300"/>
-  <text x="513" y="188" font-size="14" font-weight="700" fill="#ffffff" text-anchor="end">7,300億ドル</text>
-  <text x="130" y="216" font-size="11" fill="#52514e">≒110兆円超／Goldman Sachs・Morgan Stanley主幹事・最短9月上場の観測</text>
-  <text x="28" y="250" font-size="12" fill="#52514e">💡 上場後は四半期決算で「AIは儲かるのか」が数字で世界に晒される → ROI説明の文化が顧客企業にも波及</text>
-</svg>`,
-  panasonic: `<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">パナソニック コネクト — 汎用AIから「特化エージェント」へ</text>
-  <rect x="28" y="60" width="322" height="212" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="48" y="88" font-size="13" font-weight="700" fill="#0b0b0b">図面照合の作業時間（2026/2/19発表）</text>
-  <text x="48" y="130" font-size="12" fill="#52514e">従来（人の目視）</text>
-  <rect x="48" y="140" width="280" height="26" rx="4" fill="#c3c2b7"/>
-  <text x="320" y="158" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="end">100</text>
-  <text x="48" y="196" font-size="12" fill="#52514e">Manufacturing AIエージェント</text>
-  <rect x="48" y="206" width="9" height="26" rx="4" fill="#2a78d6"/>
-  <text x="66" y="224" font-size="13" font-weight="700" fill="#2a78d6">3（最大97%削減）</text>
-  <text x="48" y="258" font-size="10.5" fill="#898781">確認漏れ→後工程の手戻り・ブランド毀損リスクも低減</text>
-  <rect x="370" y="60" width="322" height="212" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="390" y="88" font-size="13" font-weight="700" fill="#0b0b0b">全社AI活用による年間業務時間削減</text>
-  <rect x="430" y="180" width="70" height="52" rx="4" fill="#9ec5f4"/>
-  <text x="465" y="250" font-size="12" fill="#52514e" text-anchor="middle">2023年</text>
-  <rect x="550" y="107" width="70" height="125" rx="4" fill="#2a78d6"/>
-  <text x="585" y="100" font-size="16" font-weight="700" fill="#0b0b0b" text-anchor="middle">44.8万時間</text>
-  <text x="585" y="250" font-size="12" fill="#52514e" text-anchor="middle">2024年</text>
-  <path d="M505 170 q30 -35 40 -45 m-14 2 14 -2 -2 14" stroke="#008300" stroke-width="2" fill="none"/>
-  <text x="500" y="135" font-size="14" font-weight="700" fill="#006300">2.4倍</text>
-  <text x="390" y="266" font-size="10.5" fill="#898781">2025/7/7公式発表。ConnectAIは2023年2月から全社展開</text>
-</svg>`,
-  toyota: `<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">トヨタ「O-Beya」— 熟練知見を継承する9体のAIエージェント</text>
-  <rect x="28" y="62" width="420" height="200" rx="10" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
-  <text x="48" y="88" font-size="13" font-weight="700" fill="#2a78d6">仮想の大部屋（O-Beya）＝ 9つの専門AIエージェント</text>
-  <g font-size="11.5" fill="#0b0b0b" text-anchor="middle">
-    <rect x="48" y="102" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="108" y="128">エンジン</text>
-    <rect x="178" y="102" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="238" y="128">バッテリー</text>
-    <rect x="308" y="102" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="368" y="128">振動</text>
-    <rect x="48" y="154" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="108" y="180">燃費性能</text>
-    <rect x="178" y="154" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="238" y="180" fill="#898781">…ほか</text>
-    <rect x="308" y="154" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="368" y="180" fill="#898781">計9分野</text>
-  </g>
-  <text x="48" y="222" font-size="11" fill="#898781">過去の設計データ・規制文書を学習</text>
-  <text x="48" y="240" font-size="11" fill="#898781">基盤: Azure OpenAI（GPT-4o）＋RAG</text>
-  <path d="M456 140 h44 m-12 -7 12 7 -12 7" stroke="#898781" stroke-width="2" fill="none"/>
-  <text x="478" y="126" font-size="10.5" fill="#898781" text-anchor="middle">24時間相談</text>
-  <path d="M500 190 h-44 m12 -7 -12 7 12 7" stroke="#898781" stroke-width="2" fill="none"/>
-  <text x="478" y="212" font-size="10.5" fill="#898781" text-anchor="middle">質問</text>
-  <rect x="508" y="102" width="184" height="126" rx="10" fill="#fcfcfb" stroke="#008300" stroke-width="1.5"/>
-  <text x="600" y="140" font-size="13" fill="#52514e" text-anchor="middle">パワートレーン開発部門</text>
-  <text x="600" y="176" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">約800名</text>
-  <text x="600" y="202" font-size="11.5" fill="#52514e" text-anchor="middle">2025年1月 本格導入</text>
-  <text x="28" y="284" font-size="11.5" fill="#898781">2024/11/20 Microsoftと共同公表。初期アンケートで「開発速度が向上した」の回答</text>
-</svg>`,
-  toshiba: `<svg viewBox="0 0 720 240" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="238" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">東芝 — ばら積みピッキングAI、今年度が実用化の勝負年</text>
-  <g transform="translate(120,140)">
-    <circle r="58" fill="none" stroke="#e1e0d9" stroke-width="14"/>
-    <circle r="58" fill="none" stroke="#2a78d6" stroke-width="14" stroke-linecap="round"
-      stroke-dasharray="344.5 364.4" transform="rotate(-90)"/>
-    <text y="2" font-size="27" font-weight="700" fill="#0b0b0b" text-anchor="middle">94.5%</text>
-    <text y="26" font-size="10.5" fill="#898781" text-anchor="middle">ピッキング成功率</text>
-  </g>
-  <text x="230" y="106" font-size="12.5" fill="#52514e">乱雑に積まれた多様な形状の物品を、複数の吸着パッドを持つ</text>
-  <text x="230" y="126" font-size="12.5" fill="#52514e">ロボットハンドで1個ずつ掴む——マテハン積年の難題（発表時点で世界最高水準）</text>
-  <rect x="230" y="150" width="210" height="56" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="250" y="174" font-size="12" font-weight="700" fill="#0b0b0b">2024/10/17</text>
-  <text x="250" y="192" font-size="11.5" fill="#52514e">AI開発を公式発表（IROS 2024）</text>
-  <path d="M446 178 h20 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="1.6" fill="none"/>
-  <rect x="472" y="150" width="220" height="56" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-dasharray="4 3"/>
-  <text x="492" y="174" font-size="12" font-weight="700" fill="#2a78d6">2026年度〜</text>
-  <text x="492" y="192" font-size="11.5" fill="#52514e">製品実用化の目標＝今年が勝負年</text>
-</svg>`,
-  power: `<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">電力 — AIが「大口顧客」であり「解決策」でもある</text>
-  <rect x="28" y="60" width="322" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="48" y="86" font-size="12" fill="#52514e">世界のデータセンター電力需要（2026年推計）</text>
-  <text x="48" y="128" font-size="34" font-weight="700" fill="#2a78d6">1,000TWh超</text>
-  <text x="48" y="154" font-size="11.5" fill="#898781">＝ 日本一国の全消費電力を上回る（Gartner・二次引用）</text>
-  <rect x="370" y="60" width="322" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="390" y="86" font-size="12" fill="#52514e">2027年までに電力不足で制約を受けるAI DC</text>
-  <text x="390" y="128" font-size="34" font-weight="700" fill="#d03b3b">40%</text>
-  <text x="390" y="154" font-size="11.5" fill="#898781">アナリスト予測。1サイトの要求は100〜750MW（中規模都市並み）</text>
-  <rect x="28" y="190" width="300" height="66" rx="8" fill="#fcfcfb" stroke="#d03b3b"/>
-  <text x="48" y="215" font-size="12.5" font-weight="700" fill="#d03b3b">問題: AIが電力を食う</text>
-  <text x="48" y="236" font-size="11.5" fill="#52514e">送電網がAI拡大のボトルネックに</text>
-  <path d="M334 223 h44 m-12 -7 12 7 -12 7" stroke="#898781" stroke-width="2" fill="none"/>
-  <rect x="386" y="190" width="306" height="66" rx="8" fill="#fcfcfb" stroke="#008300"/>
-  <text x="406" y="215" font-size="12.5" font-weight="700" fill="#006300">解決: AIで送電網を管理</text>
-  <text x="406" y="236" font-size="11.5" fill="#52514e">Xcel Energy × GE Vernova提携（2026年2月）</text>
-</svg>`,
-  pharma: `<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">AI創薬 — 承認第1号への道のり</text>
-  <rect x="28" y="70" width="440" height="44" rx="4" fill="#86b6ef"/>
-  <text x="48" y="97" font-size="13" font-weight="700" fill="#0b0b0b">臨床プログラム 173本（業界集計）</text>
-  <rect x="28" y="122" width="260" height="44" rx="4" fill="#3987e5"/>
-  <text x="48" y="149" font-size="13" font-weight="700" fill="#ffffff">最終段階の試験へ 15〜20本（2026年中）</text>
-  <rect x="28" y="174" width="120" height="44" rx="4" fill="#1c5cab"/>
-  <text x="48" y="201" font-size="13" font-weight="700" fill="#ffffff">承認 0本</text>
-  <text x="160" y="201" font-size="12" fill="#52514e">→ 第1号は2026年末〜27年との観測（※予測）</text>
-  <rect x="490" y="70" width="202" height="148" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="510" y="96" font-size="12.5" font-weight="700" fill="#0b0b0b">FDAのルールの線引き</text>
-  <text x="510" y="122" font-size="11.5" fill="#52514e">「分子をどう発明したかは</text>
-  <text x="510" y="139" font-size="11.5" fill="#52514e">問わない。安全性・有効性の</text>
-  <text x="510" y="156" font-size="11.5" fill="#52514e">主張へのAI利用を審査する」</text>
-  <text x="510" y="182" font-size="10.5" fill="#898781">草案: 2025年1月公表</text>
-  <text x="510" y="198" font-size="10.5" fill="#898781">最終版: 2026年半ば見込み</text>
-  <text x="28" y="252" font-size="12" fill="#52514e">💡 承認第1号が出れば、製薬業界のR&amp;D予算配分が一気にAIへ傾く転換点になる</text>
-</svg>`,
-  caio: `<svg viewBox="0 0 720 290" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="288" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">CAIO（最高AI責任者）設置率 — 1年で3倍に</text>
-  <text x="28" y="60" font-size="11.5" fill="#898781">IBM CEO調査（2026年5月発表・二次引用）</text>
-  <rect x="100" y="180" width="110" height="62" rx="4" fill="#9ec5f4"/>
-  <text x="155" y="170" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="middle">26%</text>
-  <text x="155" y="264" font-size="12.5" fill="#52514e" text-anchor="middle">2025年</text>
-  <rect x="280" y="61" width="110" height="181" rx="4" fill="#2a78d6"/>
-  <text x="335" y="100" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">76%</text>
-  <text x="335" y="264" font-size="12.5" fill="#52514e" text-anchor="middle">2026年</text>
-  <line x1="60" y1="242" x2="430" y2="242" stroke="#c3c2b7" stroke-width="1.5"/>
-  <rect x="470" y="70" width="222" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="490" y="96" font-size="12" font-weight="700" fill="#0b0b0b">後押しした規制</text>
-  <text x="490" y="118" font-size="11.5" fill="#52514e">EU AI Act: 2026年8月2日から</text>
-  <text x="490" y="135" font-size="11.5" fill="#52514e">高リスクAIに社内責任体制を義務化</text>
-  <rect x="470" y="162" width="222" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="490" y="188" font-size="12" font-weight="700" fill="#0b0b0b">2026年上半期の任命例</text>
-  <text x="490" y="210" font-size="11.5" fill="#52514e">Pfizer / NASA / Vanguard /</text>
-  <text x="490" y="227" font-size="11.5" fill="#52514e">Lionsgate（英FTSE100の約48%が設置）</text>
-</svg>`,
-  macro: `<svg viewBox="0 0 720 250" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="248" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">今週の因果チェーン — 中東からあなたの商談まで</text>
-  <g font-size="12.5" text-anchor="middle">
-    <rect x="28" y="66" width="200" height="56" rx="8" fill="#fcfcfb" stroke="#d03b3b"/>
-    <text x="128" y="90" font-weight="700" fill="#d03b3b">① 中東戦火</text>
-    <text x="128" y="110" font-size="11" fill="#52514e">7/8 停戦崩壊・7/13 タンカー攻撃</text>
-    <rect x="260" y="66" width="200" height="56" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-    <text x="360" y="90" font-weight="700" fill="#0b0b0b">② 原油高圧力</text>
-    <text x="360" y="110" font-size="11" fill="#52514e">海峡リスク・保険料上昇</text>
-    <rect x="492" y="66" width="200" height="56" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-    <text x="592" y="90" font-weight="700" fill="#0b0b0b">③ 米インフレ再燃</text>
-    <text x="592" y="110" font-size="11" fill="#52514e">コア財 年率+5%ペース</text>
-  </g>
-  <path d="M228 94 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
-  <path d="M460 94 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
-  <path d="M592 122 v14 h-464 v14 m-8 -10 8 10 8 -10" stroke="#898781" stroke-width="2" fill="none"/>
-  <g font-size="12.5" text-anchor="middle">
-    <rect x="28" y="158" width="200" height="56" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-    <text x="128" y="182" font-weight="700" fill="#0b0b0b">④ 米利上げ観測</text>
-    <text x="128" y="202" font-size="11" fill="#52514e">7/29 FOMC・織り込み約46%</text>
-    <rect x="260" y="158" width="200" height="56" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-    <text x="360" y="182" font-weight="700" fill="#0b0b0b">⑤ 円安圧力</text>
-    <text x="360" y="202" font-size="11" fill="#52514e">ドル円161円台（7月中旬）</text>
-    <rect x="492" y="158" width="200" height="56" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
-    <text x="592" y="182" font-weight="700" fill="#2a78d6">⑥ 日銀会合 7/31</text>
-    <text x="592" y="202" font-size="11" fill="#52514e">政策金利1.0%（31年ぶり水準）</text>
-  </g>
-  <path d="M228 186 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
-  <path d="M460 186 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
-  <text x="28" y="238" font-size="11.5" fill="#52514e">💬 役員との共通言語: 「金利1%時代、AI投資も回収期間とROIの説明が必須になった」</text>
-</svg>`,
-  genai: `<svg viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="268" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">2026年7月上旬 — 主要3社の新モデル集中投下</text>
-  <rect x="28" y="60" width="212" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="48" y="86" font-size="12" fill="#898781">OpenAI</text>
-  <text x="48" y="110" font-size="15" font-weight="700" fill="#0b0b0b">GPT-5.6ファミリー</text>
-  <text x="48" y="134" font-size="11.5" fill="#52514e">Luna / Terra / Sol の3サイズ</text>
-  <text x="48" y="152" font-size="11.5" fill="#52514e">全モデル100万トークン対応</text>
-  <text x="48" y="170" font-size="11.5" fill="#52514e">入力$1〜5/100万トークン</text>
-  <rect x="254" y="60" width="212" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="274" y="86" font-size="12" fill="#898781">Anthropic</text>
-  <text x="274" y="110" font-size="15" font-weight="700" fill="#0b0b0b">Claude Sonnet 5</text>
-  <text x="274" y="140" font-size="11.5" fill="#52514e">Karpathy氏の参画も報道</text>
-  <text x="274" y="158" font-size="11.5" fill="#52514e">（研究人材のシグナル）</text>
-  <rect x="480" y="60" width="212" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="500" y="86" font-size="12" font-weight="400" fill="#898781">Google</text>
-  <text x="500" y="110" font-size="15" font-weight="700" fill="#0b0b0b">Gemini Omni Flash</text>
-  <text x="500" y="140" font-size="11.5" fill="#52514e">エージェント統制基盤</text>
-  <text x="500" y="158" font-size="11.5" fill="#52514e">「Gemini Enterprise」も拡張</text>
-  <rect x="28" y="208" width="286" height="40" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-  <text x="171" y="233" font-size="12.5" fill="#52514e" text-anchor="middle">従来の競争軸: どのモデルが賢いか</text>
-  <path d="M320 228 h34 m-10 -7 10 7 -10 7" stroke="#898781" stroke-width="2" fill="none"/>
-  <rect x="360" y="208" width="332" height="40" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
-  <text x="526" y="233" font-size="12.5" font-weight="700" fill="#2a78d6" text-anchor="middle">これから: 価格 × どう統制して業務に組み込むか</text>
-</svg>`,
-  vendors: `<svg viewBox="0 0 720 250" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="248" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">国内AIベンダー 今週の動き — 共通項は「安全に業務へ組み込む」</text>
-  <g font-size="11.5">
-    <rect x="28" y="62" width="332" height="76" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-    <text x="48" y="86" font-size="12" font-weight="700" fill="#0b0b0b">7/14〜 ソフトバンク × SB OAI Japan</text>
-    <text x="48" y="106" fill="#52514e">SoftBank World 2026で「Patching as a Service」発表</text>
-    <text x="48" y="124" fill="#898781">脆弱性の検知→パッチ適用をAIが自動化</text>
-    <rect x="376" y="62" width="316" height="76" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-    <text x="396" y="86" font-size="12" font-weight="700" fill="#0b0b0b">7月報道 NTTデータ × 日経</text>
-    <text x="396" y="106" fill="#52514e">法人向け生成AI「NIKKEI KAI」販売契約</text>
-    <text x="396" y="124" fill="#898781">信頼できる日本語データをAIに接続</text>
-    <rect x="28" y="150" width="332" height="76" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-    <text x="48" y="174" font-size="12" font-weight="700" fill="#0b0b0b">7/13告知 日立</text>
-    <text x="48" y="194" fill="#52514e">KubeCon JapanでKeycloak×MCPの安全な</text>
-    <text x="48" y="212" fill="#52514e">AIエージェント連携を発表予定</text>
-    <rect x="376" y="150" width="316" height="76" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-    <text x="396" y="174" font-size="12" font-weight="700" fill="#0b0b0b">7/13 AIdeaLab</text>
-    <text x="396" y="194" fill="#52514e">アニメ特化動画生成AI「AnimeGen」を</text>
-    <text x="396" y="212" fill="#52514e">無償公開（商用利用可）</text>
-  </g>
-</svg>`,
-  redsea_20260724: `<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">紅海に戦線拡大——フーシ派のサウジタンカー攻撃と原油急伸</text>
+// ---------------------------------------------------------------------------
+// Data loading.
+//
+// Each day's digest lives in data/YYYY-MM-DD.json and its infographics in
+// data/svg/<key>.svg. data/index.json lists the available days. Nothing about
+// a day is embedded in this file any more, so adding a day means writing a few
+// KB of JSON instead of editing a 95KB HTML file.
+//
+// A day listed in index.json whose JSON is missing or malformed is skipped with
+// a console warning rather than blanking the whole timeline.
+// ---------------------------------------------------------------------------
+const DATA = "data/";
 
-  <g font-size="12" text-anchor="middle">
-    <rect x="28" y="58" width="200" height="56" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-    <text x="128" y="80" font-weight="700" fill="#0b0b0b">7月中旬</text>
-    <text x="128" y="99" font-size="10.5" fill="#52514e">フーシ派、サウジ港湾の海上封鎖を宣言</text>
-
-    <rect x="260" y="58" width="200" height="56" rx="8" fill="#fcfcfb" stroke="#d03b3b" stroke-width="1.5"/>
-    <text x="360" y="80" font-weight="700" fill="#d03b3b">7/22〜23</text>
-    <text x="360" y="99" font-size="10.5" fill="#52514e">サウジ籍タンカー2隻をミサイル・ドローン攻撃</text>
-
-    <rect x="492" y="58" width="200" height="56" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
-    <text x="592" y="80" font-weight="700" fill="#2a78d6">7/23</text>
-    <text x="592" y="99" font-size="10.5" fill="#52514e">ブレント原油 98.45ドルへ急伸</text>
-  </g>
-  <path d="M228 86 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
-  <path d="M460 86 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
-
-  <rect x="28" y="130" width="150" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="103" y="152" font-size="12" fill="#52514e" text-anchor="middle">ブレント原油</text>
-  <text x="103" y="188" font-size="26" font-weight="700" fill="#d03b3b" text-anchor="middle">$98.45</text>
-  <text x="103" y="208" font-size="10.5" fill="#898781" text-anchor="middle">7/23・週初比</text>
-
-  <rect x="186" y="130" width="150" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="261" y="152" font-size="12" fill="#52514e" text-anchor="middle">7月の値上がり幅</text>
-  <text x="261" y="188" font-size="26" font-weight="700" fill="#d03b3b" text-anchor="middle">約4割高</text>
-  <text x="261" y="208" font-size="10.5" fill="#898781" text-anchor="middle">月初 約90ドルから</text>
-
-  <rect x="344" y="130" width="150" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="419" y="152" font-size="12" fill="#52514e" text-anchor="middle">WTI原油</text>
-  <text x="419" y="188" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">90ドル台</text>
-  <text x="419" y="208" font-size="10.5" fill="#898781" text-anchor="middle">約1カ月ぶり</text>
-
-  <rect x="502" y="130" width="190" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="597" y="152" font-size="12" fill="#52514e" text-anchor="middle">バブエルマンデブ海峡</text>
-  <text x="597" y="188" font-size="24" font-weight="700" fill="#2a78d6" text-anchor="middle">12〜15%</text>
-  <text x="597" y="208" font-size="10.5" fill="#898781" text-anchor="middle">世界海上貿易のシェア</text>
-
-  <rect x="28" y="240" width="664" height="40" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
-  <text x="42" y="258" font-size="11.5" fill="#0b0b0b" font-weight="700">当事者が「イラン単独」から「イラン＋フーシ派」へ拡大——紅海・アラビア半島全域にリスクが波及</text>
-  <text x="42" y="274" font-size="10.5" fill="#898781">Encelia号・Layla号を攻撃、船首炎上も乗組員に人的被害なしと報道</text>
-</svg>`,
-  presence_20260724: `<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">OpenAI「Presence」— 企業向けAIエージェント基盤（2026/7/22発表）</text>
-
-  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">自社サポートの代替率</text>
-  <text x="130" y="124" font-size="32" font-weight="700" fill="#2a78d6" text-anchor="middle">75%</text>
-  <text x="130" y="144" font-size="10.5" fill="#898781" text-anchor="middle">OpenAI自身の問い合わせ対応実績</text>
-
-  <rect x="245" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="347" y="82" font-size="12" fill="#52514e" text-anchor="middle">品質到達までの期間</text>
-  <text x="347" y="124" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">数週間</text>
-  <text x="347" y="144" font-size="10.5" fill="#898781" text-anchor="middle">ヘルプデスク担当者と同水準に到達</text>
-
-  <rect x="462" y="58" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="577" y="82" font-size="12" fill="#52514e" text-anchor="middle">提供方式</text>
-  <text x="577" y="120" font-size="18" font-weight="700" fill="#0b0b0b" text-anchor="middle">限定提供</text>
-  <text x="577" y="144" font-size="10.5" fill="#898781" text-anchor="middle">FDE・外部SIerが導入主導</text>
-
-  <text x="28" y="186" font-size="13" font-weight="700" fill="#0b0b0b">Presenceが一体化する機能</text>
-  <text x="28" y="208" font-size="12" fill="#52514e">業務手順(SOP) → ガードレール → 承認済みアクション → シミュレーション・評価 → 改善プロセス</text>
-
-  <rect x="28" y="222" width="664" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
-  <text x="42" y="240" font-size="11.5" fill="#0b0b0b" font-weight="700">「モデルを売る」から「導入・統制・運用まで請け負う」へ——OpenAIの稼ぎ方の転換点</text>
-  <text x="42" y="256" font-size="10.5" fill="#898781">音声・チャット双方でカスタマーサポートや社内の高リスク業務に展開</text>
-</svg>`,
-  aiplan_20260724: `<svg viewBox="0 0 720 290" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="288" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">「第2期AI基本計画」の骨格（2026/7/10 人工知能戦略本部決定）</text>
-
-  <rect x="28" y="56" width="664" height="50" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="360" y="87" font-size="15" font-weight="700" fill="#2a78d6" text-anchor="middle">「日本AX（AIトランスフォーメーション）、強く豊かに」</text>
-
-  <g font-size="12" text-anchor="middle">
-    <rect x="28" y="120" width="200" height="70" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
-    <text x="128" y="144" font-weight="700" fill="#2a78d6">推進</text>
-    <text x="128" y="164" font-size="10.5" fill="#52514e">バーティカルAI約20分野</text>
-    <text x="128" y="180" font-size="10.5" fill="#52514e">＋フィジカルAIに官民投資</text>
-
-    <rect x="260" y="120" width="200" height="70" rx="8" fill="#fcfcfb" stroke="#d03b3b" stroke-width="1.5"/>
-    <text x="360" y="144" font-weight="700" fill="#d03b3b">同時に見直し</text>
-    <text x="360" y="164" font-size="10.5" fill="#52514e">高性能AIの規制・制度</text>
-    <text x="360" y="180" font-size="10.5" fill="#52514e">サイバー悪用等のリスク対応</text>
-
-    <rect x="492" y="120" width="200" height="70" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-    <text x="592" y="144" font-weight="700" fill="#0b0b0b">投資規模</text>
-    <text x="592" y="164" font-size="16" font-weight="700" fill="#2a78d6">1兆円超</text>
-    <text x="592" y="180" font-size="10.5" fill="#52514e">（関連報道ベース）</text>
-  </g>
-
-  <text x="28" y="216" font-size="13" font-weight="700" fill="#0b0b0b">対象となる約20分野（例）</text>
-  <text x="28" y="238" font-size="12" fill="#52514e">製造業　物流　医療　金融　行政　農業　防衛　サイバーセキュリティ　等</text>
-
-  <rect x="28" y="250" width="664" height="28" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
-  <text x="42" y="269" font-size="11" fill="#898781">出典: 首相官邸公式（2026/7/10）／関連報道の集約</text>
-</svg>`,
-  tokiomarine_20260724: `<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">東京海上日動 — コンタクトセンターAI一貫支援（2026/3/4発表・3月運用開始）</text>
-
-  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">年間対象入電数</text>
-  <text x="130" y="124" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">200万件超</text>
-  <text x="130" y="144" font-size="10.5" fill="#898781" text-anchor="middle">東京海上日動コミュニケーションズ</text>
-
-  <rect x="245" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="347" y="82" font-size="12" fill="#52514e" text-anchor="middle">顧客向け応対時間削減</text>
-  <text x="347" y="124" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">最大30%</text>
-  <text x="347" y="144" font-size="10.5" fill="#898781" text-anchor="middle">約5.8万時間／年</text>
-
-  <rect x="462" y="58" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="577" y="82" font-size="12" fill="#52514e" text-anchor="middle">代理店向け応対時間削減</text>
-  <text x="577" y="124" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">最大10%</text>
-  <text x="577" y="144" font-size="10.5" fill="#898781" text-anchor="middle">約3.2万時間／年</text>
-
-  <text x="28" y="188" font-size="13" font-weight="700" fill="#0b0b0b">AIが一貫支援する業務プロセス</text>
-  <g font-size="11.5" text-anchor="middle">
-    <rect x="28" y="200" width="150" height="42" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-    <text x="103" y="225" fill="#0b0b0b">入電・自動認識</text>
-    <rect x="196" y="200" width="150" height="42" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-    <text x="271" y="225" fill="#0b0b0b">会話テキスト化</text>
-    <rect x="364" y="200" width="150" height="42" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-    <text x="439" y="225" fill="#0b0b0b">回答案の提示</text>
-    <rect x="532" y="200" width="160" height="42" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
-    <text x="612" y="225" fill="#2a78d6" font-weight="700">終話後の管理業務</text>
-  </g>
-  <path d="M178 221 h18 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="2" fill="none"/>
-  <path d="M346 221 h18 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="2" fill="none"/>
-  <path d="M514 221 h18 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="2" fill="none"/>
-
-  <rect x="28" y="256" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
-  <text x="42" y="275" font-size="11" fill="#898781">出典: PKSHA Technology公式・CTC公式（2026/3/4発表）</text>
-</svg>`,
-  allstate_20260724: `<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">海外保険大手のAIエージェント活用状況（業界報道集計）</text>
-
-  <rect x="28" y="58" width="205" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="130" y="80" font-size="12" fill="#52514e" text-anchor="middle">Allstate: 日次作成件数</text>
-  <text x="130" y="118" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">約5万件/日</text>
-  <text x="130" y="138" font-size="10.5" fill="#898781" text-anchor="middle">GPTベースのクレーム対応文書</text>
-
-  <rect x="245" y="58" width="205" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="347" y="80" font-size="12" fill="#52514e" text-anchor="middle">対話型AI「ABIE」</text>
-  <text x="347" y="118" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">2.5万件/月</text>
-  <text x="347" y="138" font-size="10.5" fill="#898781" text-anchor="middle">問い合わせ対応件数</text>
-
-  <rect x="462" y="58" width="230" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="577" y="80" font-size="12" fill="#52514e" text-anchor="middle">業界平均クレーム処理コスト</text>
-  <text x="577" y="118" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">30〜40%減</text>
-  <text x="577" y="138" font-size="10.5" fill="#898781" text-anchor="middle">AIエージェント活用時</text>
-
-  <text x="28" y="180" font-size="13" font-weight="700" fill="#0b0b0b">上位企業のクレーム処理期間</text>
-  <rect x="28" y="192" width="300" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="42" y="212" font-size="12" fill="#52514e">従来: 10日間</text>
-  <path d="M330 207 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
-  <rect x="366" y="192" width="300" height="30" rx="6" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
-  <text x="380" y="212" font-size="12" font-weight="700" fill="#2a78d6">現在: 36時間（単純案件は5分未満）</text>
-
-  <rect x="28" y="234" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
-  <text x="42" y="253" font-size="11" fill="#898781">出典: Perspective AI 業界レポート（Allstate公式発表等の集計）／個別数値は各社公式資料での確認を推奨</text>
-</svg>`,
-  revcomm_20260724: `<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">レブコム — 「AI Native経営体制」への3職同時新設（2026/7/23発表）</text>
-
-  <rect x="28" y="58" width="664" height="34" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="360" y="80" font-size="13" fill="#52514e" text-anchor="middle">シリーズB資金調達（33.5億円）を機に経営体制を再設計</text>
-
-  <g font-size="12" text-anchor="middle">
-    <rect x="28" y="106" width="205" height="120" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
-    <text x="130" y="130" font-weight="700" fill="#2a78d6">CAIO</text>
-    <text x="130" y="150" font-size="10.5" fill="#0b0b0b">最高AI責任者</text>
-    <text x="130" y="168" font-size="10.5" fill="#52514e">橋本泰一氏</text>
-    <text x="130" y="188" font-size="10" fill="#898781">プロダクト・社内業務への</text>
-    <text x="130" y="202" font-size="10" fill="#898781">AI組み込みを主導</text>
-
-    <rect x="245" y="106" width="205" height="120" rx="8" fill="#fcfcfb" stroke="#008300" stroke-width="1.5"/>
-    <text x="347" y="130" font-weight="700" fill="#008300">CXO</text>
-    <text x="347" y="150" font-size="10.5" fill="#0b0b0b">最高変革責任者</text>
-    <text x="347" y="168" font-size="10.5" fill="#52514e">重城聡美氏</text>
-    <text x="347" y="188" font-size="10" fill="#898781">生成AI時代に合わせた</text>
-    <text x="347" y="202" font-size="10" fill="#898781">全社変革を推進</text>
-
-    <rect x="462" y="106" width="230" height="120" rx="8" fill="#fcfcfb" stroke="#d03b3b" stroke-width="1.5"/>
-    <text x="577" y="130" font-weight="700" fill="#d03b3b">CPAO</text>
-    <text x="577" y="150" font-size="10.5" fill="#0b0b0b">最高人事AI責任者</text>
-    <text x="577" y="168" font-size="10.5" fill="#52514e">乾将豪氏</text>
-    <text x="577" y="188" font-size="10" fill="#898781">評価制度・業務プロセスを</text>
-    <text x="577" y="202" font-size="10" fill="#898781">人とAIの協働前提で再設計</text>
-  </g>
-
-  <rect x="28" y="238" width="664" height="28" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
-  <text x="42" y="257" font-size="11.5" fill="#0b0b0b" font-weight="700">目指す姿:「AIを使う会社」ではなく「人とAIがチームとして成果を出す組織」</text>
-</svg>`,
-  macro_20260724: `<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">今週の因果チェーン — 紅海情勢から金利・為替まで</text>
-
-  <g font-size="12" text-anchor="middle">
-    <rect x="28" y="60" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#d03b3b" stroke-width="1.5"/>
-    <text x="128" y="82" font-weight="700" fill="#d03b3b">①フーシ派参戦・紅海拡大</text>
-    <text x="128" y="102" font-size="10.5" fill="#52514e">原油ほぼ100ドルへ</text>
-
-    <rect x="260" y="60" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
-    <text x="360" y="82" font-weight="700" fill="#0b0b0b">②米CPI鈍化（6月3.5%）</text>
-    <text x="360" y="102" font-size="10.5" fill="#52514e">FOMC7/29は据置有力</text>
-
-    <rect x="492" y="60" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
-    <text x="592" y="82" font-weight="700" fill="#2a78d6">③日銀は利上げ前倒しに柔軟</text>
-    <text x="592" y="102" font-size="10.5" fill="#52514e">円安による物価上振れ警戒</text>
-  </g>
-  <path d="M228 89 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
-  <path d="M460 89 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
-
-  <rect x="28" y="134" width="322" height="72" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="48" y="158" font-size="12" fill="#52514e">ドル円（7/23）</text>
-  <text x="48" y="192" font-size="28" font-weight="700" fill="#0b0b0b">163円台</text>
-
-  <rect x="370" y="134" width="322" height="72" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="390" y="158" font-size="12" fill="#52514e">日経平均 終値（7/23）</text>
-  <text x="390" y="192" font-size="28" font-weight="700" fill="#0b0b0b">66,422円（+307円）</text>
-
-  <text x="28" y="232" font-size="11.5" fill="#52514e">💬 役員との共通言語: 「原油はほぼ100ドル、米国は利上げ休止でも日銀は前倒しを探る——片方だけでは読めない」</text>
-</svg>`,
-  genai_20260724: `<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">競争軸の移動——「モデルの賢さ」から「本番運用の統制」へ</text>
-
-  <g font-size="12" text-anchor="middle">
-    <rect x="28" y="66" width="300" height="70" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
-    <text x="178" y="90" font-weight="700" fill="#898781">これまで</text>
-    <text x="178" y="112" font-size="13" fill="#52514e">モデル自体の賢さ・ベンチマーク性能を競う</text>
-
-    <rect x="392" y="66" width="300" height="70" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
-    <text x="542" y="90" font-weight="700" fill="#2a78d6">これから</text>
-    <text x="542" y="112" font-size="13" fill="#0b0b0b">権限・監査ログ・失敗時の切り戻しなど運用統制を競う</text>
-  </g>
-  <path d="M328 101 h58 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
-
-  <text x="28" y="164" font-size="13" font-weight="700" fill="#0b0b0b">7月下旬の主な動き</text>
-  <rect x="28" y="176" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="42" y="196" font-size="11.5" fill="#0b0b0b">7/22 OpenAI「Presence」— SOP・ガードレール・承認フローを一体化した企業向け基盤</text>
-  <rect x="28" y="210" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="42" y="230" font-size="11.5" fill="#0b0b0b">7/23 Anthropic「Managed Agents」拡張— 実行負荷設定・Webhook対象拡大・セッション初期化</text>
-</svg>`,
-  vendors_20260724: `<svg viewBox="0 0 720 290" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
-  <rect x="1" y="1" width="718" height="288" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">みずほFG「Dify Enterprise」実証実験の成果（2026/5/25発表）</text>
-
-  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">全体の業務時間短縮</text>
-  <text x="130" y="122" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">41.8%</text>
-  <text x="130" y="142" font-size="10.5" fill="#898781" text-anchor="middle">60分 → 35分</text>
-
-  <rect x="245" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="347" y="82" font-size="12" fill="#52514e" text-anchor="middle">若手層の業務時間短縮</text>
-  <text x="347" y="122" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">52.2%</text>
-  <text x="347" y="142" font-size="10.5" fill="#898781" text-anchor="middle">62分 → 29分</text>
-
-  <rect x="462" y="58" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="577" y="82" font-size="12" fill="#52514e" text-anchor="middle">エージェント開発期間</text>
-  <text x="577" y="120" font-size="22" font-weight="700" fill="#2a78d6" text-anchor="middle">2週間→数日</text>
-  <text x="577" y="142" font-size="10.5" fill="#898781" text-anchor="middle">最大70%短縮</text>
-
-  <text x="28" y="186" font-size="13" font-weight="700" fill="#0b0b0b">国内AIベンダーの他の動き</text>
-  <rect x="28" y="198" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="42" y="218" font-size="11.5" fill="#0b0b0b">7/23〜24 「AI Agent Day 2026 Summer」開催— みずほ銀行・メルカリ(CHRO兼CAIO)登壇、クレディセゾンは300万時間削減目標</text>
-  <rect x="28" y="232" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
-  <text x="42" y="252" font-size="11.5" fill="#0b0b0b">7/31提供開始予定 ベリサーブ「SBOM.JP」にAIエージェント機能追加— 脆弱性影響調査を約70%削減見込み</text>
-
-  <rect x="28" y="266" width="664" height="16" rx="4" fill="none"/>
-</svg>`,
-};
-
-// withDate() stamps a `date` field onto a batch of posts written for one day's
-// digest. Future days are added as another withDate("YYYY-MM-DD", [ ... ]) block
-// appended to the `posts` array below — see README.md "更新のしかた".
-function withDate(date, arr) {
-  return arr.map((p) => ({ ...p, date }));
+async function loadJSON(path) {
+  const res = await fetch(DATA + path, { cache: "no-cache" });
+  if (!res.ok) throw new Error(path + " -> HTTP " + res.status);
+  return res.json();
 }
 
-const H = {
-  three: "今日の3行",
-  iran: "① 米イラン停戦崩壊、ホルムズ海峡に戦火",
-  physicalai: "② フィジカルAI、実験室から工場へ — 今週も実稼働データが積み上がる",
-  ipo: "③ OpenAI・Anthropic、IPO競争へ",
-  panasonic: "🏭 パナソニック コネクト: 図面照合という「設計現場の伝統的ボトルネック」を97%削減",
-  toyota: "🚗 トヨタ「O-Beya」: 熟練エンジニアの知見をAIエージェント群で継承",
-  toshiba: "🤖 東芝: ばら積みピッキングAI、今年度が実用化の勝負年",
-  power: "⚡ 電力: AIがインフラの「主役」と「悩みの種」の両方に",
-  pharma: "💊 製薬: AI創薬、初の承認へ秒読み — FDAがルールを整備",
-  caio: "AI × 組織: CAIO（最高AI責任者）が「普通の役職」になった",
-  macro: "国際政治 × マクロ経済（コンパクト版）",
-  genai: "生成AI 最新トレンド",
-  vendors: "国内AIベンダーの動き",
-  glossary: "用語解説（今日の3語）",
-  questions: "商談で使える問い",
-};
+const svgCache = new Map();
+async function loadSvg(key) {
+  if (svgCache.has(key)) return svgCache.get(key);
+  let markup = "";
+  try {
+    const res = await fetch(DATA + "svg/" + key + ".svg", { cache: "no-cache" });
+    if (res.ok) markup = await res.text();
+    else console.warn("missing infographic:", key, res.status);
+  } catch (e) {
+    console.warn("infographic fetch failed:", key, e);
+  }
+  svgCache.set(key, markup);
+  return markup;
+}
 
-const posts = [
-...withDate("2026-07-20", [
-  { t:"06:00", thread:"start", tag:"1/3", ref:H.three, text:"おはようございます、朝報AIです☀️ 今日も一次情報だけで3行にしました。\n**① 米イラン停戦が崩壊(7/8)。イランがホルムズ海峡でタンカー攻撃(7/13)。** 原油リスクが物価と企業コストに直撃。\n続く👇", eng:[3,1,18,890] },
-  { t:"06:01", thread:"mid", tag:"2/3", ref:H.three, text:"**② パナソニック コネクトが図面照合を最大97%削減**(2/19発表・AIエージェント)。海外ではBMW工場でヒト型ロボットが3万台の生産を支援済み。", eng:[1,2,24,760] },
-  { t:"06:02", thread:"end", tag:"3/3", ref:H.three, text:"**③ 世界の企業の76%がCAIO(最高AI責任者)を設置**(IBM調査・5月発表)。1年前は26%。AIは「IT部門の話」から「経営の役職」になった。\n今日はこの3本の背景を深掘りします。", eng:[5,3,31,910] },
-
-  { t:"06:06", thread:null, ref:H.iran, svg:"iran", text:"🕰→📍→🔮 **米イラン、ホルムズ海峡に戦火**\n2月にOperation Epic Furyでイラン最高指導者ハメネイ師が死亡する事態に。4月・6月と停戦の枠組みまで進んだのに、7/8に崩壊。7/13、イランがオマーン領海でUAEのタンカー2隻を攻撃。狙いは軍艦じゃなく商船——世界経済への圧力を交渉カードにしてる。\n☆[CNN(7/13,7/18)](https://www.cnn.com/2026/07/18/world/live-news/iran-war-trump)", eng:[8,4,52,2100] },
-  { t:"06:08", thread:null, ref:H.iran, text:"原油の9割超を中東に依存する日本は、この戦争にいちばん影響を受けやすい国のひとつ。\n※予測: タンカー攻撃で船の保険料↑→中東経由の物流コスト全体↑。これは「遠い国の戦争」じゃなく、電気代とガソリン代のニュースです。", eng:[12,9,88,3400] },
-
-  { t:"06:12", thread:null, ref:H.physicalai, svg:"physicalai", text:"**フィジカルAI、実験室から工場へ。**\nきっかけは2025/11/19、Figure社の公式発表——BMWスパータンバーグ工場で11ヶ月・X3を3万台超、ロボットFigure 02が生産支援。デモじゃなく実績の数字が出たのはこれが初。\n★[Figure公式](https://www.figure.ai/news/production-at-bmw)", eng:[6,7,64,1800] },
-  { t:"06:13", thread:null, ref:H.physicalai, text:"7/18時点、Agility RoboticsのDigitは9施設で累計65,000時間稼働(顧客: GXO、Schaeffler、トヨタ加工場)。BMWはこの夏ライプツィヒへ展開拡大。\n※予測: 効果数字が出そろう2027年が普及の分岐点。人手不足が深刻な日本はフィジカルAIの最有力市場。", eng:[9,11,73,2050] },
-
-  { t:"06:17", thread:null, ref:H.ipo, svg:"ipo", text:"**OpenAI・Anthropic、IPO競争へ。**\n7月上旬報道: OpenAIはGS・MSを主幹事に早ければ9月上場準備(企業価値約7,300億ドル)。Anthropicは650億ドル調達(シリーズH)で企業価値9,650億ドル、上場書類を非公開提出済み。\n☆[Fortune(7/2)](https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/)", eng:[4,3,45,1600] },
-  { t:"06:18", thread:null, ref:H.ipo, text:"※予測: 上場後は四半期決算で「AIは本当に儲かるのか」が数字で世界に晒される。ROIを一緒に作れるベンダーが選ばれる時代になる、と見てます。", eng:[7,6,59,1400] },
-
-  { t:"06:23", thread:null, ref:H.panasonic, svg:"panasonic", text:"🏭商談で使えるネタ: **パナソニック コネクト**\n2023年からConnectAIを全社展開してきたパイオニアが、2026/2/19、図面照合特化の「Manufacturing AIエージェント」で照合作業時間を最大97%削減と発表。「全員に汎用AI」から「業務特化で潰す」フェーズへ。\n★パナソニック公式(2025/7/7, 2026/2/19)", eng:[3,5,41,1250] },
-  { t:"06:24", thread:null, ref:H.panasonic, talk:true, text:"「パナソニック コネクトさんは、人の目視に頼るしかなかった図面照合を特化エージェントで97%削減しました。御社の『人がやるしかない』業務はどこですか?」", eng:[2,4,37,980] },
-
-  { t:"06:29", thread:null, ref:H.toyota, svg:"toyota", text:"🚗**トヨタ「O-Beya」**\n2024/11/20、Microsoftと発表。エンジン・バッテリー・振動・燃費など9体の専門AIエージェントが協働する“仮想の大部屋”。2025/1にパワートレーン部門へ本格導入、約800名のエンジニアが利用中。\n★[Microsoft公式](https://news.microsoft.com/ja-jp/features/241120-toyota-is-deploying-ai-agents-to-harness-the-collective-wisdom-of-engineers-and-innovate-faster/)", eng:[4,6,48,1300] },
-  { t:"06:30", thread:null, ref:H.toyota, talk:true, text:"「トヨタさんはベテランの知見を9体のAIエージェントにして、800人の若手がいつでも相談できるようにしました。御社の『あの人が辞めたら回らない』業務、大丈夫ですか?」", eng:[3,5,40,1050] },
-
-  { t:"06:34", thread:null, ref:H.toshiba, svg:"toshiba", text:"🤖**東芝、ばら積みピッキングAI**\n2024/10/17発表、複数吸着パッドの掴み方をAIが高速計算し成功率94.5%(世界最高水準)。2026年度以降の製品実用化が目標——今年がその勝負年。\n汎用ヒト型ロボットに対する「専用ハンド+AI」という日本らしい現実解。", eng:[2,3,29,870] },
-
-  { t:"06:39", thread:null, ref:H.power, svg:"power", text:"⚡**電力、AIの“主役”と“悩みの種”を同時にやってる**\nGartner推計: 2026年の世界データセンター電力需要は1,000TWh超で日本の全消費電力を上回る。Xcel EnergyとGE Vernovaは2026/2、AIで送電網の負荷管理をする提携を発表。AIが食う電力問題を、AIで解く構図。", eng:[5,4,44,1180] },
-
-  { t:"06:43", thread:null, ref:H.pharma, svg:"pharma", text:"💊**AI創薬、初承認へ秒読み**\n臨床プログラムは173本規模。FDAは2025/1に初のガイダンス草案、最終版は2026年半ば予定。線引きは「分子の発明方法は問わない、安全性・有効性の主張へのAI使用を審査する」。\n※予測: 初承認は2026年末〜27年との観測。出れば製薬R&D予算が一気にAIへ。", eng:[6,5,50,1420] },
-
-  { t:"06:48", thread:null, ref:H.caio, svg:"caio", text:"**CAIOが“普通の役職”になった話**\nIBM調査(2026/5発表): 世界の組織の76%がCAIO設置、1年前は26%。FTSE100でも約48%。今年上半期はPfizer・NASA・Vanguard・Lionsgateまで業界問わず任命。EU AI Actが8/2から高リスクAIの社内責任体制を義務化。\n☆[CIO.com](https://www.cio.com/article/4126708/the-curious-evolution-of-the-chief-ai-officer.html)", eng:[7,8,61,1750] },
-  { t:"06:49", thread:null, ref:H.caio, text:"営業目線の翻訳: 商談相手が情シス部長からCAIO・経営企画に変わるシグナルです。相手にCAIOがいなければ、それ自体が刺さる問い(「御社ではどなたがAIの意思決定を?」)になる。", eng:[9,12,77,1900] },
-
-  { t:"06:53", thread:null, ref:H.macro, svg:"macro", text:"今週の因果チェーン、覚えておいて:\n**中東戦火→原油高→インフレ→米金利上昇観測→円安→日銀会合(7/31)**\nFRBは7/29のFOMCで利上げ観測(市場46%・7/13時点)。日銀は6/16に1.0%へ利上げ済み(31年ぶり)。ドル円161円台、日経平均68,000円台。", eng:[6,7,53,1500] },
-  { t:"06:54", thread:null, ref:H.macro, text:"役員と話すときの要点はこれだけでいい: 「金利1%時代になり、投資の回収期間への視線が厳しくなっている。AI投資もROI説明が必須になった」", eng:[8,10,68,1650] },
-
-  { t:"06:58", thread:null, ref:H.genai, svg:"genai", text:"**生成AI、競争軸が変わった話**\nOpenAIが“GPT-5.6”ファミリー(Luna/Terra/Sol、全モデル100万トークン対応、入力100万トークンあたり1〜5ドル)。Anthropic“Claude Sonnet 5”、Google“Gemini Omni Flash”も集中投下。\n100万トークン標準化で「社内文書を丸ごと読ませる」提案が現実に、RAGは再設計へ。", eng:[10,9,71,2200] },
-
-  { t:"07:02", thread:"start", ref:H.vendors, svg:"vendors", text:"国内ベンダーの動き、まとめ:\n・SoftBank World 2026開幕(7/14〜)。SB OAI Japanが脆弱性検知〜修正の自動化「Patching as a Service」\n・NTTデータが日経「NIKKEI KAI」の販売契約\n・日立がKubeCon JapanでKeycloak×MCPの安全なデータ連携を発表予定\n・AIdeaLabが動画生成AI「AnimeGen」無償公開(商用可)", eng:[4,5,39,1050] },
-  { t:"07:03", thread:"end", ref:H.vendors, text:"国内商談の差別化は結局この2軸に収斂する気がしてます: ①社内データへの安全な接続設計(MCP・認証) ②信頼できる日本語データとの接続。", eng:[6,8,55,1300] },
-
-  { t:"07:07", thread:null, ref:H.glossary, text:"今日の用語、3つだけ覚えて:\n📎フィジカルAI — 生成AIの“考える力”をロボットの身体に載せて現実で働かせる技術\n📎CAIO — 企業のAI戦略・統制に全責任を持つ経営役職\n📎MCP(Model Context Protocol) — AIエージェントと外部データ・ツールを安全に接続する標準規格", eng:[5,6,60,1400] },
-
-  { t:"07:10", thread:"start", ref:H.questions, text:"最後に、今日の商談で投げていい問い3つ:\n① 御社で「人がやるしかない」と思われている業務はどこですか?\n② 御社の「あの人が辞めたら回らない」業務はどう守られてますか?\n③ 御社ではAIの意思決定はどなたが持たれてますか?", eng:[14,20,140,3600] },
-  { t:"07:11", thread:"end", ref:H.questions, text:"また明日6時に。☀️", eng:[22,15,210,4200] },
-]),
-...withDate("2026-07-24", [
-  { t:"06:00", thread:"start", tag:"1/3", ref:"今日の3行", text:"おはようございます、朝報AIです☀️ 今日も一次情報だけで3行にしました。\n**① フーシ派がサウジタンカー2隻を攻撃(7/22〜23)。原油は2カ月ぶりに100ドル目前へ。** 紅海の戦線がイラン単独からイエメンへ拡大してます。\n続く👇", eng:[4,2,22,940] },
-  { t:"06:01", thread:"mid", tag:"2/3", ref:"今日の3行", text:"**② OpenAIが企業向けAIエージェント基盤「Presence」を発表(7/22)。** 自社の問い合わせ対応、すでに75%をAIが処理してるとのこと。地味にすごい数字。", eng:[3,4,28,810] },
-  { t:"06:02", thread:"end", tag:"3/3", ref:"今日の3行", text:"**③ 高市政権が「第2期AI基本計画」を決定(7/10)。** バーティカルAIなど約20分野に官民投資、規制見直しも同時に進める方針。今日はこの3本を深掘りします。", eng:[6,5,35,970] },
-
-  { t:"06:07", thread:null, ref:"① フーシ派がサウジタンカーを攻撃、原油100ドル目前——紅海に戦線拡大", svg:"redsea_20260724", text:"🕰→📍→🔮 **紅海に戦線拡大、原油ほぼ100ドル**\n2月の米・イスラエルによるイラン攻撃から続く戦争、7/8の停戦崩壊後はイラン単独の戦線でしたが、イランが支援するフーシ派が7月中旬にサウジ港湾の海上封鎖を宣言。7/22〜23、サウジ籍タンカー2隻(Encelia号・Layla号)をミサイル・ドローンで攻撃したと発表。乗組員に人的被害はないとのこと。\n☆[Forbes(7/23)](https://www.forbes.com/sites/siladityaray/2026/07/23/oil-nears-100-per-barrel-again-as-iran-backed-houthis-target-red-sea-shipping/)", eng:[9,6,58,2300] },
-  { t:"06:09", thread:null, ref:"① フーシ派がサウジタンカーを攻撃、原油100ドル目前——紅海に戦線拡大", text:"ブレント原油は7/23に98.45ドルまで急伸、7月だけで約4割高。WTIも約1カ月ぶりに90ドル台。バブエルマンデブ海峡は世界の海上貿易の12〜15%が通る要衝——ここが軍艦じゃなく商船を狙われてるのが厄介なところ。\n※予測: 原油の9割超を中東に依存する日本は電気代・ガソリン代・物流費に直撃しやすい。当面は前提として織り込むしかなさそう。", eng:[13,10,92,3500] },
-
-  { t:"06:14", thread:null, ref:"② OpenAI「Presence」発表——AIエージェントが自社サポートの75%を代替", svg:"presence_20260724", text:"**OpenAI「Presence」——AIエージェントが自社サポートの75%を代替**\n7/22発表。業務手順・ガードレール・承認済みアクション・シミュレーション・改善プロセスを一体化した企業向け基盤。稼働数週間でヘルプデスク担当者と同水準の応対品質に到達し、自社の問い合わせの約75%を現在処理してるとのこと。\n★[OpenAI公式(7/22)](https://openai.com/index/introducing-openai-presence/)", eng:[7,8,66,1900] },
-  { t:"06:16", thread:null, ref:"② OpenAI「Presence」発表——AIエージェントが自社サポートの75%を代替", text:"提供は限定的で、Forward Deployed Engineersや外部SIerが導入を主導する形。\n※予測: 「モデルを売る」から「導入・統制・運用まで請け負う」へ、AI大手の稼ぎ方が変わり始めてます。国内SIer・コンサルにとっては競合が増える一方、統制済み運用実績が商談の武器になりそう。", eng:[8,9,63,1650] },
-
-  { t:"06:21", thread:null, ref:"③ 高市政権「第2期AI基本計画」決定——バーティカルAI20分野に投資、規制見直しも", svg:"aiplan_20260724", text:"**高市政権「第2期AI基本計画」決定——バーティカルAI20分野に投資**\n7/10、人工知能戦略本部が決定。「日本AX、強く豊かに」を掲げ、製造業・物流・医療・金融・行政・農業・防衛など約20のバーティカルAI(業界特化型AI)分野とフィジカルAIへの官民投資を重点化。関連投資は1兆円超規模とも。\n★[首相官邸公式(7/10)](https://www.kantei.go.jp/jp/105/actions/202607/10jinkoutchinou.html)", eng:[5,4,47,1350] },
-  { t:"06:23", thread:null, ref:"③ 高市政権「第2期AI基本計画」決定——バーティカルAI20分野に投資、規制見直しも", text:"高市総理は「高性能AIは国力強化につながる一方、サイバー攻撃への悪用などの新たなリスクも懸念される」とコメント。推進と規制見直しを同時に進める方針とのこと。\n※予測: 「バーティカルAI」が今後の官公庁・業界団体との会話の共通言語になりそう。自社の提案がどの業界の垂直統合にあたるか、言語化できると強い。", eng:[6,7,52,1420] },
-
-  { t:"06:28", thread:null, ref:"🏥 東京海上日動: コンタクトセンターという「伝統的ボトルネック」をAIが一貫支援", svg:"tokiomarine_20260724", text:"🇯🇵商談で使えるネタ: **東京海上日動**\n伊藤忠テクノソリューションズ(CTC)とPKSHA Technologyが、コンタクトセンター運営会社に入電から終話後の管理業務までを一貫支援するAI基盤を導入(3/4発表・3月運用開始)。年間200万件超の入電が対象で、顧客向け対応は最大約30%(約5.8万時間)、代理店向けは最大約10%(約3.2万時間)の応対時間削減を見込むとのこと。\n★[PKSHA Technology公式(3/4)](https://prtimes.jp/main/html/rd/p/000000248.000022705.html)", eng:[4,5,44,1200] },
-  { t:"06:29", thread:null, ref:"🏥 東京海上日動: コンタクトセンターという「伝統的ボトルネック」をAIが一貫支援", talk:true, text:"「東京海上日動さんは年200万件超の入電に対応するコンタクトセンターで、AIが応対時間を最大30%削減しています。御社のコールセンターで、ベテランでないと対応できない問い合わせはどれくらいありますか?」", eng:[3,4,38,990] },
-
-  { t:"06:34", thread:null, ref:"🏥 保険: 米大手も「クレーム対応」でAIエージェントが本番稼働", svg:"allstate_20260724", text:"🌍海外の裏付け: **米大手保険Allstate**\nGPTベースのAIで1日約5万件のクレーム対応コミュニケーションを作成、対話型AI「ABIE」は月間2.5万件の問い合わせに対応中とのこと。業界全体でもAIエージェント活用でクレーム処理コストが30〜40%削減、上位企業では処理期間が10日間から36時間に短縮された事例も。\n△[Perspective AI業界レポート](https://getperspective.ai/blog/allstate-s-ai-claims-strategy-what-quickfoto-claim-and-conversational-ai-mean-for-the-industry)(個別数値は各社公式資料での確認推奨)", eng:[5,6,49,1380] },
-  { t:"06:36", thread:null, ref:"🏥 保険: 米大手も「クレーム対応」でAIエージェントが本番稼働", text:"※予測: 保険業界のAI活用は「問い合わせ対応」から「請求・査定という金銭が動く業務」に踏み込み始めてます。国内損保との商談でも、査定プロセスへのAI適用が次の焦点になりそう。", eng:[7,8,55,1500] },
-
-  { t:"06:41", thread:null, ref:"レブコム: CAIO・CXO・CPAOを同時新設——「AI Native経営体制」へ", svg:"revcomm_20260724", text:"**レブコム: CAIO・CXO・CPAOを同時新設**\n7/23発表。シリーズB資金調達(33.5億円)を機に、CAIO(最高AI責任者・橋本泰一氏)、CXO(最高変革責任者・重城聡美氏)、CPAO(Chief People & AI Officer・乾将豪氏)の3職を同時新設。「AIを使う会社」ではなく「人とAIがチームとして成果を出す組織」を目指すとのこと。\n★[RevComm公式(7/23)](https://www.revcomm.com/ja/news/pressrelease/20260723/)", eng:[6,7,53,1440] },
-  { t:"06:43", thread:null, ref:"レブコム: CAIO・CXO・CPAOを同時新設——「AI Native経営体制」へ", text:"CAIO単独設置の会社は増えてましたが、経営体制ごと役職を再設計する動きはまだ珍しい。\n※予測: 中堅企業の商談でも、AI担当が1人か複数体制かで社内のAI浸透スピードを見立てる材料になりそうです。", eng:[8,9,60,1550] },
-
-  { t:"06:48", thread:null, ref:"国際政治 × マクロ経済（コンパクト版）", svg:"macro_20260724", text:"今週の因果チェーン、覚えておいて:\n**フーシ派参戦で紅海に戦線拡大→原油ほぼ100ドル→インフレ再燃懸念→FOMC(7/29)は据置有力も、日銀(7/31)は円安警戒で前倒し観測。**\n米6月CPIは前年比3.5%に鈍化(7/14発表)。ドル円163円台、日経平均は7/23終値66,422円60銭(前日比+307円)。", eng:[7,8,57,1600] },
-  { t:"06:50", thread:null, ref:"国際政治 × マクロ経済（コンパクト版）", text:"役員と話すときの要点はこれだけでいい: 「原油はほぼ100ドル、米国は利上げを休止しても日銀は前倒しを探る——金利も為替も、片方だけ見ていると読み違える局面に入った」", eng:[9,11,72,1780] },
-
-  { t:"06:55", thread:null, ref:"生成AI 最新トレンド", svg:"genai_20260724", text:"**生成AI、競争軸がまた動いてます。**\n7/22のOpenAI「Presence」に象徴されるように、競争軸は「モデル自体の賢さ」から「本番稼働させる統制・運用の枠組み」へ。Anthropicも同時期、Claude Developer Platformの「Managed Agents」を拡張——実行負荷設定、Webhook対象拡大、セッション初期状態の指定などを追加してます。\n△各社公式リリースノートでの確認推奨", eng:[10,9,68,2050] },
-
-  { t:"07:00", thread:"start", tag:"1/2", ref:"国内AIベンダーの動き", svg:"vendors_20260724", text:"国内ベンダーの動き、まとめ:\n・みずほFG「Dify Enterprise」実証実験(5/25発表)——法人営業の制度融資選定・提案支援で業務時間を平均41.8%(60分→35分)、若手層は52.2%(62分→29分)短縮。開発期間も最大70%短縮。\n・「AI Agent Day 2026 Summer」開催中(7/23〜24)。みずほ銀行・メルカリ(CHRO兼CAIO)登壇、クレディセゾンは累計300万時間削減目標。", eng:[4,5,40,1080] },
-  { t:"07:02", thread:"end", tag:"2/2", ref:"国内AIベンダーの動き", text:"・ベリサーブが「SBOM.JP」にAIエージェント機能追加(7/31提供開始予定)、脆弱性影響調査の工数を約70%削減見込み。\n※予測: 「非エンジニアでもAIエージェントを作れる基盤」を自前で持つ企業が、量産フェーズで一歩抜け出しそうです。", eng:[6,7,50,1220] },
-
-  { t:"07:06", thread:null, ref:"用語解説（今日の3語）", text:"今日の用語、3つだけ覚えて:\n📎FNOL(保険金請求の第一報) — 事故や損害が起きた際、契約者が保険会社に最初に連絡する保険金請求の入り口\n📎CPAO(Chief People & AI Officer) — 人事制度と業務プロセスを、人とAIの協働前提で設計し直す経営役職\n📎バーティカルAI — 特定の業界・業務に特化して設計されたAI(対して汎用AIは「ホリゾンタルAI」)", eng:[5,6,58,1380] },
-
-  { t:"07:10", thread:"start", tag:"1/3", ref:"商談で使える問い", text:"最後に、今日の商談で投げていい問い3つ:\n① 原油がほぼ100ドルに達し、紅海の戦線が広がってます。御社の調達コスト・物流費への影響は、すでにシナリオに織り込まれていますか?\n② 東京海上日動さんはコンタクトセンターで応対時間を最大30%削減しました。御社のコールセンターで、AIに任せられそうな業務はどこですか?", eng:[11,15,110,3100] },
-  { t:"07:11", thread:"mid", tag:"2/3", ref:"商談で使える問い", text:"③ レブコムさんはCAIO・CXO・CPAOの3職を同時新設し、経営体制ごとAI Nativeに再設計しました。御社では、AIの意思決定は何人・どの役職が持たれてますか?", eng:[10,13,98,2850] },
-  { t:"07:12", thread:"end", tag:"3/3", ref:"商談で使える問い", text:"また明日6時に。☀️", eng:[19,14,195,3900] },
-]),
-// 次の日の分はここに ...withDate("YYYY-MM-DD", [ { ... }, ... ]), を追記していく
-];
-
-// Group posts by date (each date's internal order stays as authored, since
-// thread start/mid/end must read top-to-bottom within a day). Days themselves
-// are then rendered newest-first, so the top of the timeline is always today's
-// digest and older digests scroll below it.
-const feed = document.getElementById("feed");
-const byDate = new Map();
-posts.forEach((p) => {
-  if (!byDate.has(p.date)) byDate.set(p.date, []);
-  byDate.get(p.date).push(p);
-});
-const datesDesc = [...byDate.keys()].sort().reverse();
-
-let i = 0;
-datesDesc.forEach((date) => {
-  const div = document.createElement("div");
-  div.className = "day-divider";
-  div.textContent = formatJPDate(date);
-  feed.appendChild(div);
-
-  byDate.get(date).forEach((p) => {
-    const el = document.createElement("div");
-    el.className = "post" + (p.thread ? " thread-" + p.thread : "");
-    const [reply, repost, like, view] = p.eng;
-    const refUrl = obsidianUrl(p.date, p.ref).replace(/&/g, '&amp;');
-    el.innerHTML = `
+function postElement(p, date, delayIndex) {
+  const el = document.createElement("div");
+  el.className = "post" + (p.thread ? " thread-" + p.thread : "");
+  const [reply, repost, like, view] = p.eng;
+  const refUrl = obsidianUrl(date, p.ref).replace(/&/g, '&amp;');
+  el.innerHTML = `
       <div class="rail">
         <div class="mini-avatar">${ava()}</div>
         ${p.thread === "start" || p.thread === "mid" ? '<div class="thread-line"></div>' : ''}
@@ -1220,12 +571,12 @@ datesDesc.forEach((date) => {
         <div class="post-head">
           <span class="pname">朝報AI</span>
           <span class="phandle">@ai_asaho</span>
-          <span class="ptime">・${p.date} ${p.t}</span>
+          <span class="ptime">・${date} ${p.t}</span>
           ${p.tag ? `<span class="thread-tag">${p.tag}</span>` : ''}
         </div>
         <div class="post-text">${render(p.text)}</div>
         ${p.talk ? `<div class="talk-card"><span class="talk-label">💬 商談トーク例</span>${render(p.text)}</div>` : ''}
-        ${p.svg ? `<div class="media-card">${SVGS[p.svg]}</div>` : ''}
+        ${p.svg ? '<div class="media-card" data-svg="' + p.svg + '"></div>' : ''}
         <div class="ref-row">
           <span class="ref-icon">${NOTE_ICON}</span>
           <input type="text" class="ref-input" readonly value="${refUrl.replace(/"/g, '&quot;')}">
@@ -1239,18 +590,62 @@ datesDesc.forEach((date) => {
           <span>${icon('view')}${view.toLocaleString()}</span>
         </div>
       </div>`;
-    if (p.talk) {
-      el.querySelector('.post-text').remove();
-    }
-    el.style.animationDelay = (Math.min(i, 40) * 0.02) + "s";
-    feed.appendChild(el);
-    i++;
-  });
-});
+  if (p.talk) el.querySelector('.post-text').remove();
+  el.style.animationDelay = (Math.min(delayIndex, 40) * 0.02) + "s";
+  return el;
+}
 
-const tabDate = document.querySelector(".tab-label span");
-if (tabDate && datesDesc.length) tabDate.textContent = formatJPDate(datesDesc[0]);
-wireRefRows();
+async function boot() {
+  const feed = document.getElementById("feed");
+  let index;
+  try {
+    index = await loadJSON("index.json");
+  } catch (e) {
+    console.error(e);
+    feed.innerHTML = '<div class="day-divider">タイムラインを読み込めませんでした</div>';
+    return;
+  }
+
+  // Newest day first, so the top of the timeline is always the latest digest.
+  const datesDesc = (index.days || []).slice().sort().reverse();
+  let i = 0;
+  const rendered = [];
+
+  for (const date of datesDesc) {
+    let day;
+    try {
+      day = await loadJSON(date + ".json");
+    } catch (e) {
+      console.warn("skipping day:", date, e.message);
+      continue;
+    }
+    const posts = day.posts || [];
+    if (!posts.length) continue;
+
+    const divider = document.createElement("div");
+    divider.className = "day-divider";
+    divider.textContent = formatJPDate(date);
+    feed.appendChild(divider);
+
+    posts.forEach((p) => {
+      feed.appendChild(postElement(p, date, i));
+      i++;
+    });
+    rendered.push(date);
+  }
+
+  // Infographics load after the text is on screen — the timeline is readable
+  // immediately and a slow/missing SVG never blocks it.
+  await Promise.all([...feed.querySelectorAll('.media-card[data-svg]')].map(async (card) => {
+    card.innerHTML = await loadSvg(card.dataset.svg);
+  }));
+
+  const tabDate = document.querySelector(".tab-label span");
+  if (tabDate && rendered.length) tabDate.textContent = formatJPDate(rendered[0]);
+  wireRefRows();
+}
+
+boot();
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {

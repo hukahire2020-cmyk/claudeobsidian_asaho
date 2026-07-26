@@ -1,0 +1,30 @@
+<svg viewBox="0 0 720 290" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="288" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">「第2期AI基本計画」の骨格（2026/7/10 人工知能戦略本部決定）</text>
+
+  <rect x="28" y="56" width="664" height="50" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="87" font-size="15" font-weight="700" fill="#2a78d6" text-anchor="middle">「日本AX（AIトランスフォーメーション）、強く豊かに」</text>
+
+  <g font-size="12" text-anchor="middle">
+    <rect x="28" y="120" width="200" height="70" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+    <text x="128" y="144" font-weight="700" fill="#2a78d6">推進</text>
+    <text x="128" y="164" font-size="10.5" fill="#52514e">バーティカルAI約20分野</text>
+    <text x="128" y="180" font-size="10.5" fill="#52514e">＋フィジカルAIに官民投資</text>
+
+    <rect x="260" y="120" width="200" height="70" rx="8" fill="#fcfcfb" stroke="#d03b3b" stroke-width="1.5"/>
+    <text x="360" y="144" font-weight="700" fill="#d03b3b">同時に見直し</text>
+    <text x="360" y="164" font-size="10.5" fill="#52514e">高性能AIの規制・制度</text>
+    <text x="360" y="180" font-size="10.5" fill="#52514e">サイバー悪用等のリスク対応</text>
+
+    <rect x="492" y="120" width="200" height="70" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="592" y="144" font-weight="700" fill="#0b0b0b">投資規模</text>
+    <text x="592" y="164" font-size="16" font-weight="700" fill="#2a78d6">1兆円超</text>
+    <text x="592" y="180" font-size="10.5" fill="#52514e">（関連報道ベース）</text>
+  </g>
+
+  <text x="28" y="216" font-size="13" font-weight="700" fill="#0b0b0b">対象となる約20分野（例）</text>
+  <text x="28" y="238" font-size="12" fill="#52514e">製造業　物流　医療　金融　行政　農業　防衛　サイバーセキュリティ　等</text>
+
+  <rect x="28" y="250" width="664" height="28" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="269" font-size="11" fill="#898781">出典: 首相官邸公式（2026/7/10）／関連報道の集約</text>
+</svg>

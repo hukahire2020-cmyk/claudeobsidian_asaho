@@ -1,0 +1,26 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">OpenAI「Presence」— 企業向けAIエージェント基盤（2026/7/22発表）</text>
+
+  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">自社サポートの代替率</text>
+  <text x="130" y="124" font-size="32" font-weight="700" fill="#2a78d6" text-anchor="middle">75%</text>
+  <text x="130" y="144" font-size="10.5" fill="#898781" text-anchor="middle">OpenAI自身の問い合わせ対応実績</text>
+
+  <rect x="245" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="347" y="82" font-size="12" fill="#52514e" text-anchor="middle">品質到達までの期間</text>
+  <text x="347" y="124" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">数週間</text>
+  <text x="347" y="144" font-size="10.5" fill="#898781" text-anchor="middle">ヘルプデスク担当者と同水準に到達</text>
+
+  <rect x="462" y="58" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="577" y="82" font-size="12" fill="#52514e" text-anchor="middle">提供方式</text>
+  <text x="577" y="120" font-size="18" font-weight="700" fill="#0b0b0b" text-anchor="middle">限定提供</text>
+  <text x="577" y="144" font-size="10.5" fill="#898781" text-anchor="middle">FDE・外部SIerが導入主導</text>
+
+  <text x="28" y="186" font-size="13" font-weight="700" fill="#0b0b0b">Presenceが一体化する機能</text>
+  <text x="28" y="208" font-size="12" fill="#52514e">業務手順(SOP) → ガードレール → 承認済みアクション → シミュレーション・評価 → 改善プロセス</text>
+
+  <rect x="28" y="222" width="664" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="240" font-size="11.5" fill="#0b0b0b" font-weight="700">「モデルを売る」から「導入・統制・運用まで請け負う」へ——OpenAIの稼ぎ方の転換点</text>
+  <text x="42" y="256" font-size="10.5" fill="#898781">音声・チャット双方でカスタマーサポートや社内の高リスク業務に展開</text>
+</svg>

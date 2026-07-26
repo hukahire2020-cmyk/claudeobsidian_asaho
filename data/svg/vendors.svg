@@ -1,0 +1,22 @@
+<svg viewBox="0 0 720 250" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="248" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">国内AIベンダー 今週の動き — 共通項は「安全に業務へ組み込む」</text>
+  <g font-size="11.5">
+    <rect x="28" y="62" width="332" height="76" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="48" y="86" font-size="12" font-weight="700" fill="#0b0b0b">7/14〜 ソフトバンク × SB OAI Japan</text>
+    <text x="48" y="106" fill="#52514e">SoftBank World 2026で「Patching as a Service」発表</text>
+    <text x="48" y="124" fill="#898781">脆弱性の検知→パッチ適用をAIが自動化</text>
+    <rect x="376" y="62" width="316" height="76" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="396" y="86" font-size="12" font-weight="700" fill="#0b0b0b">7月報道 NTTデータ × 日経</text>
+    <text x="396" y="106" fill="#52514e">法人向け生成AI「NIKKEI KAI」販売契約</text>
+    <text x="396" y="124" fill="#898781">信頼できる日本語データをAIに接続</text>
+    <rect x="28" y="150" width="332" height="76" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="48" y="174" font-size="12" font-weight="700" fill="#0b0b0b">7/13告知 日立</text>
+    <text x="48" y="194" fill="#52514e">KubeCon JapanでKeycloak×MCPの安全な</text>
+    <text x="48" y="212" fill="#52514e">AIエージェント連携を発表予定</text>
+    <rect x="376" y="150" width="316" height="76" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="396" y="174" font-size="12" font-weight="700" fill="#0b0b0b">7/13 AIdeaLab</text>
+    <text x="396" y="194" fill="#52514e">アニメ特化動画生成AI「AnimeGen」を</text>
+    <text x="396" y="212" fill="#52514e">無償公開（商用利用可）</text>
+  </g>
+</svg>

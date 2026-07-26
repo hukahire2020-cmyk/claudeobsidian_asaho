@@ -1,0 +1,24 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">フィジカルAI — 「デモ」から「生産実績」へ</text>
+  <rect x="28" y="60" width="322" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="88" font-size="12" fill="#52514e">BMW工場でFigure 02が生産支援（11カ月間）</text>
+  <text x="48" y="136" font-size="40" font-weight="700" fill="#2a78d6">3万台超</text>
+  <text x="48" y="162" font-size="11" fill="#898781">BMW X3／Figure社 2025/11/19公式発表</text>
+  <rect x="370" y="60" width="322" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="390" y="88" font-size="12" fill="#52514e">Agility「Digit」累計実稼働（9つの顧客施設）</text>
+  <text x="390" y="136" font-size="40" font-weight="700" fill="#2a78d6">65,000時間</text>
+  <text x="390" y="162" font-size="11" fill="#898781">顧客: GXO・Schaeffler・トヨタ加工場ほか 2026/7時点</text>
+  <text x="28" y="215" font-size="13" font-weight="700" fill="#0b0b0b">これからの展開</text>
+  <rect x="28" y="228" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="48" y="252" font-size="12" font-weight="700" fill="#0b0b0b">2026年夏</text>
+  <text x="48" y="270" font-size="11.5" fill="#52514e">BMWライプツィヒ工場へ拡大</text>
+  <path d="M234 257 h20 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="1.6" fill="none"/>
+  <rect x="262" y="228" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="282" y="252" font-size="12" font-weight="700" fill="#0b0b0b">2026/12〜27/6</text>
+  <text x="282" y="270" font-size="11.5" fill="#52514e">Schaeffler独2工場で本格導入</text>
+  <path d="M468 257 h20 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="1.6" fill="none"/>
+  <rect x="496" y="228" width="196" height="58" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-dasharray="4 3"/>
+  <text x="516" y="252" font-size="12" font-weight="700" fill="#2a78d6">2027（予測）</text>
+  <text x="516" y="270" font-size="11.5" fill="#52514e">効果数字が出そろう分岐点</text>
+</svg>

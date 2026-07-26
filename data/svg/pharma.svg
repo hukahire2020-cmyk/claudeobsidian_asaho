@@ -1,0 +1,19 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">AI創薬 — 承認第1号への道のり</text>
+  <rect x="28" y="70" width="440" height="44" rx="4" fill="#86b6ef"/>
+  <text x="48" y="97" font-size="13" font-weight="700" fill="#0b0b0b">臨床プログラム 173本（業界集計）</text>
+  <rect x="28" y="122" width="260" height="44" rx="4" fill="#3987e5"/>
+  <text x="48" y="149" font-size="13" font-weight="700" fill="#ffffff">最終段階の試験へ 15〜20本（2026年中）</text>
+  <rect x="28" y="174" width="120" height="44" rx="4" fill="#1c5cab"/>
+  <text x="48" y="201" font-size="13" font-weight="700" fill="#ffffff">承認 0本</text>
+  <text x="160" y="201" font-size="12" fill="#52514e">→ 第1号は2026年末〜27年との観測（※予測）</text>
+  <rect x="490" y="70" width="202" height="148" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="510" y="96" font-size="12.5" font-weight="700" fill="#0b0b0b">FDAのルールの線引き</text>
+  <text x="510" y="122" font-size="11.5" fill="#52514e">「分子をどう発明したかは</text>
+  <text x="510" y="139" font-size="11.5" fill="#52514e">問わない。安全性・有効性の</text>
+  <text x="510" y="156" font-size="11.5" fill="#52514e">主張へのAI利用を審査する」</text>
+  <text x="510" y="182" font-size="10.5" fill="#898781">草案: 2025年1月公表</text>
+  <text x="510" y="198" font-size="10.5" fill="#898781">最終版: 2026年半ば見込み</text>
+  <text x="28" y="252" font-size="12" fill="#52514e">💡 承認第1号が出れば、製薬業界のR&amp;D予算配分が一気にAIへ傾く転換点になる</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="268" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">2026年7月上旬 — 主要3社の新モデル集中投下</text>
+  <rect x="28" y="60" width="212" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="86" font-size="12" fill="#898781">OpenAI</text>
+  <text x="48" y="110" font-size="15" font-weight="700" fill="#0b0b0b">GPT-5.6ファミリー</text>
+  <text x="48" y="134" font-size="11.5" fill="#52514e">Luna / Terra / Sol の3サイズ</text>
+  <text x="48" y="152" font-size="11.5" fill="#52514e">全モデル100万トークン対応</text>
+  <text x="48" y="170" font-size="11.5" fill="#52514e">入力$1〜5/100万トークン</text>
+  <rect x="254" y="60" width="212" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="274" y="86" font-size="12" fill="#898781">Anthropic</text>
+  <text x="274" y="110" font-size="15" font-weight="700" fill="#0b0b0b">Claude Sonnet 5</text>
+  <text x="274" y="140" font-size="11.5" fill="#52514e">Karpathy氏の参画も報道</text>
+  <text x="274" y="158" font-size="11.5" fill="#52514e">（研究人材のシグナル）</text>
+  <rect x="480" y="60" width="212" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="500" y="86" font-size="12" font-weight="400" fill="#898781">Google</text>
+  <text x="500" y="110" font-size="15" font-weight="700" fill="#0b0b0b">Gemini Omni Flash</text>
+  <text x="500" y="140" font-size="11.5" fill="#52514e">エージェント統制基盤</text>
+  <text x="500" y="158" font-size="11.5" fill="#52514e">「Gemini Enterprise」も拡張</text>
+  <rect x="28" y="208" width="286" height="40" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="171" y="233" font-size="12.5" fill="#52514e" text-anchor="middle">従来の競争軸: どのモデルが賢いか</text>
+  <path d="M320 228 h34 m-10 -7 10 7 -10 7" stroke="#898781" stroke-width="2" fill="none"/>
+  <rect x="360" y="208" width="332" height="40" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="526" y="233" font-size="12.5" font-weight="700" fill="#2a78d6" text-anchor="middle">これから: 価格 × どう統制して業務に組み込むか</text>
+</svg>

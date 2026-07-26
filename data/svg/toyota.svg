@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">トヨタ「O-Beya」— 熟練知見を継承する9体のAIエージェント</text>
+  <rect x="28" y="62" width="420" height="200" rx="10" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="48" y="88" font-size="13" font-weight="700" fill="#2a78d6">仮想の大部屋（O-Beya）＝ 9つの専門AIエージェント</text>
+  <g font-size="11.5" fill="#0b0b0b" text-anchor="middle">
+    <rect x="48" y="102" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="108" y="128">エンジン</text>
+    <rect x="178" y="102" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="238" y="128">バッテリー</text>
+    <rect x="308" y="102" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="368" y="128">振動</text>
+    <rect x="48" y="154" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="108" y="180">燃費性能</text>
+    <rect x="178" y="154" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="238" y="180" fill="#898781">…ほか</text>
+    <rect x="308" y="154" width="120" height="42" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/><text x="368" y="180" fill="#898781">計9分野</text>
+  </g>
+  <text x="48" y="222" font-size="11" fill="#898781">過去の設計データ・規制文書を学習</text>
+  <text x="48" y="240" font-size="11" fill="#898781">基盤: Azure OpenAI（GPT-4o）＋RAG</text>
+  <path d="M456 140 h44 m-12 -7 12 7 -12 7" stroke="#898781" stroke-width="2" fill="none"/>
+  <text x="478" y="126" font-size="10.5" fill="#898781" text-anchor="middle">24時間相談</text>
+  <path d="M500 190 h-44 m12 -7 -12 7 12 7" stroke="#898781" stroke-width="2" fill="none"/>
+  <text x="478" y="212" font-size="10.5" fill="#898781" text-anchor="middle">質問</text>
+  <rect x="508" y="102" width="184" height="126" rx="10" fill="#fcfcfb" stroke="#008300" stroke-width="1.5"/>
+  <text x="600" y="140" font-size="13" fill="#52514e" text-anchor="middle">パワートレーン開発部門</text>
+  <text x="600" y="176" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">約800名</text>
+  <text x="600" y="202" font-size="11.5" fill="#52514e" text-anchor="middle">2025年1月 本格導入</text>
+  <text x="28" y="284" font-size="11.5" fill="#898781">2024/11/20 Microsoftと共同公表。初期アンケートで「開発速度が向上した」の回答</text>
+</svg>

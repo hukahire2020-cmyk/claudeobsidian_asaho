@@ -1,0 +1,23 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">パナソニック コネクト — 汎用AIから「特化エージェント」へ</text>
+  <rect x="28" y="60" width="322" height="212" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="88" font-size="13" font-weight="700" fill="#0b0b0b">図面照合の作業時間（2026/2/19発表）</text>
+  <text x="48" y="130" font-size="12" fill="#52514e">従来（人の目視）</text>
+  <rect x="48" y="140" width="280" height="26" rx="4" fill="#c3c2b7"/>
+  <text x="320" y="158" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="end">100</text>
+  <text x="48" y="196" font-size="12" fill="#52514e">Manufacturing AIエージェント</text>
+  <rect x="48" y="206" width="9" height="26" rx="4" fill="#2a78d6"/>
+  <text x="66" y="224" font-size="13" font-weight="700" fill="#2a78d6">3（最大97%削減）</text>
+  <text x="48" y="258" font-size="10.5" fill="#898781">確認漏れ→後工程の手戻り・ブランド毀損リスクも低減</text>
+  <rect x="370" y="60" width="322" height="212" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="390" y="88" font-size="13" font-weight="700" fill="#0b0b0b">全社AI活用による年間業務時間削減</text>
+  <rect x="430" y="180" width="70" height="52" rx="4" fill="#9ec5f4"/>
+  <text x="465" y="250" font-size="12" fill="#52514e" text-anchor="middle">2023年</text>
+  <rect x="550" y="107" width="70" height="125" rx="4" fill="#2a78d6"/>
+  <text x="585" y="100" font-size="16" font-weight="700" fill="#0b0b0b" text-anchor="middle">44.8万時間</text>
+  <text x="585" y="250" font-size="12" fill="#52514e" text-anchor="middle">2024年</text>
+  <path d="M505 170 q30 -35 40 -45 m-14 2 14 -2 -2 14" stroke="#008300" stroke-width="2" fill="none"/>
+  <text x="500" y="135" font-size="14" font-weight="700" fill="#006300">2.4倍</text>
+  <text x="390" y="266" font-size="10.5" fill="#898781">2025/7/7公式発表。ConnectAIは2023年2月から全社展開</text>
+</svg>

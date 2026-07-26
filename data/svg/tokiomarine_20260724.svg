@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">東京海上日動 — コンタクトセンターAI一貫支援（2026/3/4発表・3月運用開始）</text>
+
+  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">年間対象入電数</text>
+  <text x="130" y="124" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">200万件超</text>
+  <text x="130" y="144" font-size="10.5" fill="#898781" text-anchor="middle">東京海上日動コミュニケーションズ</text>
+
+  <rect x="245" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="347" y="82" font-size="12" fill="#52514e" text-anchor="middle">顧客向け応対時間削減</text>
+  <text x="347" y="124" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">最大30%</text>
+  <text x="347" y="144" font-size="10.5" fill="#898781" text-anchor="middle">約5.8万時間／年</text>
+
+  <rect x="462" y="58" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="577" y="82" font-size="12" fill="#52514e" text-anchor="middle">代理店向け応対時間削減</text>
+  <text x="577" y="124" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">最大10%</text>
+  <text x="577" y="144" font-size="10.5" fill="#898781" text-anchor="middle">約3.2万時間／年</text>
+
+  <text x="28" y="188" font-size="13" font-weight="700" fill="#0b0b0b">AIが一貫支援する業務プロセス</text>
+  <g font-size="11.5" text-anchor="middle">
+    <rect x="28" y="200" width="150" height="42" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="103" y="225" fill="#0b0b0b">入電・自動認識</text>
+    <rect x="196" y="200" width="150" height="42" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="271" y="225" fill="#0b0b0b">会話テキスト化</text>
+    <rect x="364" y="200" width="150" height="42" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="439" y="225" fill="#0b0b0b">回答案の提示</text>
+    <rect x="532" y="200" width="160" height="42" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+    <text x="612" y="225" fill="#2a78d6" font-weight="700">終話後の管理業務</text>
+  </g>
+  <path d="M178 221 h18 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="2" fill="none"/>
+  <path d="M346 221 h18 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="2" fill="none"/>
+  <path d="M514 221 h18 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="2" fill="none"/>
+
+  <rect x="28" y="256" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="275" font-size="11" fill="#898781">出典: PKSHA Technology公式・CTC公式（2026/3/4発表）</text>
+</svg>

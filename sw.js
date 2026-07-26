@@ -1,4 +1,6 @@
-const CACHE = "asaho-v2";
+// Bumped to v3 when the timeline moved out of index.html into data/*.json —
+// the old cache holds a 95KB index.html that still expects embedded data.
+const CACHE = "asaho-v3";
 const ASSETS = [
   "./",
   "./index.html",

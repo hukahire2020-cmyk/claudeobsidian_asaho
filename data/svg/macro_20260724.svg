@@ -1,0 +1,30 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">今週の因果チェーン — 紅海情勢から金利・為替まで</text>
+
+  <g font-size="12" text-anchor="middle">
+    <rect x="28" y="60" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#d03b3b" stroke-width="1.5"/>
+    <text x="128" y="82" font-weight="700" fill="#d03b3b">①フーシ派参戦・紅海拡大</text>
+    <text x="128" y="102" font-size="10.5" fill="#52514e">原油ほぼ100ドルへ</text>
+
+    <rect x="260" y="60" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="360" y="82" font-weight="700" fill="#0b0b0b">②米CPI鈍化（6月3.5%）</text>
+    <text x="360" y="102" font-size="10.5" fill="#52514e">FOMC7/29は据置有力</text>
+
+    <rect x="492" y="60" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+    <text x="592" y="82" font-weight="700" fill="#2a78d6">③日銀は利上げ前倒しに柔軟</text>
+    <text x="592" y="102" font-size="10.5" fill="#52514e">円安による物価上振れ警戒</text>
+  </g>
+  <path d="M228 89 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
+  <path d="M460 89 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
+
+  <rect x="28" y="134" width="322" height="72" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="158" font-size="12" fill="#52514e">ドル円（7/23）</text>
+  <text x="48" y="192" font-size="28" font-weight="700" fill="#0b0b0b">163円台</text>
+
+  <rect x="370" y="134" width="322" height="72" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="390" y="158" font-size="12" fill="#52514e">日経平均 終値（7/23）</text>
+  <text x="390" y="192" font-size="28" font-weight="700" fill="#0b0b0b">66,422円（+307円）</text>
+
+  <text x="28" y="232" font-size="11.5" fill="#52514e">💬 役員との共通言語: 「原油はほぼ100ドル、米国は利上げ休止でも日銀は前倒しを探る——片方だけでは読めない」</text>
+</svg>

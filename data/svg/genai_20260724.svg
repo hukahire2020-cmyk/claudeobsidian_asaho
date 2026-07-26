@@ -1,0 +1,21 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">競争軸の移動——「モデルの賢さ」から「本番運用の統制」へ</text>
+
+  <g font-size="12" text-anchor="middle">
+    <rect x="28" y="66" width="300" height="70" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="178" y="90" font-weight="700" fill="#898781">これまで</text>
+    <text x="178" y="112" font-size="13" fill="#52514e">モデル自体の賢さ・ベンチマーク性能を競う</text>
+
+    <rect x="392" y="66" width="300" height="70" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+    <text x="542" y="90" font-weight="700" fill="#2a78d6">これから</text>
+    <text x="542" y="112" font-size="13" fill="#0b0b0b">権限・監査ログ・失敗時の切り戻しなど運用統制を競う</text>
+  </g>
+  <path d="M328 101 h58 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
+
+  <text x="28" y="164" font-size="13" font-weight="700" fill="#0b0b0b">7月下旬の主な動き</text>
+  <rect x="28" y="176" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="196" font-size="11.5" fill="#0b0b0b">7/22 OpenAI「Presence」— SOP・ガードレール・承認フローを一体化した企業向け基盤</text>
+  <rect x="28" y="210" width="664" height="30" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="230" font-size="11.5" fill="#0b0b0b">7/23 Anthropic「Managed Agents」拡張— 実行負荷設定・Webhook対象拡大・セッション初期化</text>
+</svg>
