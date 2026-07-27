@@ -1,0 +1,26 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">「オープンウェイトAI」支持25社 vs 署名しなかった3社</text>
+
+  <!-- timeline context -->
+  <text x="24" y="58" font-size="11.5" fill="#52514e">7/16 中国Kimi K3がフロンティア級ベンチマークで台頭 → 対中AI規制論争が加速 → 7/24 米企業25社が共同書簡</text>
+
+  <!-- left: signed -->
+  <rect x="24" y="80" width="330" height="190" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="106" font-size="13" font-weight="700" fill="#2a78d6">署名した25社（オープンウェイト支持）</text>
+  <text x="40" y="132" font-size="12" fill="#0b0b0b">NVIDIA ／ Microsoft ／ Meta</text>
+  <text x="40" y="152" font-size="12" fill="#0b0b0b">IBM ／ Dell ／ Palantir ／ Mistral</text>
+  <text x="40" y="172" font-size="12" fill="#0b0b0b">Hugging Face ／ Y Combinator 他</text>
+  <text x="40" y="200" font-size="26" font-weight="700" fill="#2a78d6">25社</text>
+  <text x="40" y="220" font-size="11" fill="#898781">「拙速な規制で フロンティアを</text>
+  <text x="40" y="234" font-size="11" fill="#898781">1社に固定するな」と要請</text>
+
+  <!-- right: not signed -->
+  <rect x="366" y="80" width="330" height="190" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="382" y="106" font-size="13" font-weight="700" fill="#d03b3b">署名しなかった3社（フロンティア閉域モデル）</text>
+  <text x="382" y="140" font-size="14" fill="#0b0b0b">OpenAI</text>
+  <text x="382" y="164" font-size="14" fill="#0b0b0b">Anthropic</text>
+  <text x="382" y="188" font-size="14" fill="#0b0b0b">Google</text>
+  <text x="382" y="222" font-size="11" fill="#898781">主張：「公開した重みは後から</text>
+  <text x="382" y="236" font-size="11" fill="#898781">回収できず、安全対策を撤回できない」</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">紅海危機の拡大——タンカーから石油インフラへ</text>
+
+  <!-- timeline axis -->
+  <line x1="50" y1="90" x2="670" y2="90" stroke="#c3c2b7" stroke-width="2"/>
+
+  <!-- node 1 -->
+  <circle cx="90" cy="90" r="6" fill="#2a78d6"/>
+  <text x="90" y="70" font-size="11" fill="#52514e" text-anchor="middle">7/中旬</text>
+  <text x="90" y="112" font-size="11.5" fill="#0b0b0b" text-anchor="middle">フーシ派</text>
+  <text x="90" y="126" font-size="11.5" fill="#0b0b0b" text-anchor="middle">海上封鎖宣言</text>
+
+  <!-- node 2 -->
+  <circle cx="250" cy="90" r="6" fill="#2a78d6"/>
+  <text x="250" y="70" font-size="11" fill="#52514e" text-anchor="middle">7/22-23</text>
+  <text x="250" y="112" font-size="11.5" fill="#0b0b0b" text-anchor="middle">サウジ籍タンカー</text>
+  <text x="250" y="126" font-size="11.5" fill="#0b0b0b" text-anchor="middle">2隻を攻撃</text>
+
+  <!-- node 3 -->
+  <circle cx="410" cy="90" r="6" fill="#d03b3b"/>
+  <text x="410" y="70" font-size="11" fill="#52514e" text-anchor="middle">7/25夜</text>
+  <text x="410" y="112" font-size="11.5" fill="#0b0b0b" text-anchor="middle">サウジアラムコ施設</text>
+  <text x="410" y="126" font-size="11.5" fill="#0b0b0b" text-anchor="middle">を直接攻撃（報復）</text>
+
+  <!-- node 4 -->
+  <circle cx="580" cy="90" r="6" fill="#d03b3b"/>
+  <text x="580" y="70" font-size="11" fill="#52514e" text-anchor="middle">7/26未明</text>
+  <text x="580" y="112" font-size="11.5" fill="#0b0b0b" text-anchor="middle">ヤンブー・ジザンで</text>
+  <text x="580" y="126" font-size="11.5" fill="#0b0b0b" text-anchor="middle">空襲警報複数回</text>
+
+  <!-- stat panel -->
+  <rect x="24" y="160" width="672" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="188" font-size="12" fill="#52514e">攻撃対象：ジザン製油所（サウジアラムコ）</text>
+
+  <text x="48" y="240" font-size="26" font-weight="700" fill="#d03b3b">約40万バレル/日</text>
+  <text x="48" y="258" font-size="11" fill="#898781">ジザン製油所の処理能力（中東最新鋭級・2021年商業運転開始）</text>
+
+  <text x="420" y="240" font-size="26" font-weight="700" fill="#2a78d6">2発+1機</text>
+  <text x="420" y="258" font-size="11" fill="#898781">ギリシャ軍が撃墜した弾道ミサイル・ドローン（紅海防衛）</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">因果チェーン：紅海拡大 → 原油高 → 金融政策の綱引き</text>
+
+  <!-- chain boxes -->
+  <rect x="24" y="56" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="99" y="86" font-size="11.5" fill="#0b0b0b" text-anchor="middle">紅海危機が</text>
+  <text x="99" y="102" font-size="11.5" fill="#0b0b0b" text-anchor="middle">石油インフラへ拡大</text>
+
+  <path d="M 178 91 L 210 91" stroke="#c3c2b7" stroke-width="2" marker-end="url(#a1)"/>
+
+  <rect x="214" y="56" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="289" y="86" font-size="11.5" fill="#d03b3b" font-weight="700" text-anchor="middle">原油ほぼ100ドル</text>
+  <text x="289" y="102" font-size="11.5" fill="#0b0b0b" text-anchor="middle">（7/23:98.45ドル）</text>
+
+  <path d="M 368 91 L 400 91" stroke="#c3c2b7" stroke-width="2" marker-end="url(#a1)"/>
+
+  <rect x="404" y="56" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="479" y="86" font-size="11.5" fill="#0b0b0b" text-anchor="middle">インフレ再燃</text>
+  <text x="479" y="102" font-size="11.5" fill="#0b0b0b" text-anchor="middle">懸念</text>
+
+  <path d="M 558 91 L 590 91" stroke="#c3c2b7" stroke-width="2" marker-end="url(#a1)"/>
+
+  <rect x="594" y="56" width="102" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="645" y="80" font-size="10.5" fill="#0b0b0b" text-anchor="middle">FOMC 7/29</text>
+  <text x="645" y="96" font-size="10.5" fill="#0b0b0b" text-anchor="middle">据置有力</text>
+  <text x="645" y="112" font-size="10.5" fill="#0b0b0b" text-anchor="middle">日銀 7/31警戒</text>
+
+  <defs>
+    <marker id="a1" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3c2b7"/>
+    </marker>
+  </defs>
+
+  <!-- current levels -->
+  <rect x="24" y="150" width="330" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="178" font-size="12" fill="#52514e">ドル円（7/25時点）</text>
+  <text x="44" y="220" font-size="28" font-weight="700" fill="#d03b3b">163.988円</text>
+  <text x="44" y="242" font-size="11" fill="#898781">約40年ぶりの164円台が視野に</text>
+
+  <rect x="366" y="150" width="330" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="386" y="178" font-size="12" fill="#52514e">日経平均（7/23終値）</text>
+  <text x="386" y="220" font-size="28" font-weight="700" fill="#2a78d6">66,422.60円</text>
+  <text x="386" y="242" font-size="11" fill="#898781">前日比 +307円</text>
+</svg>

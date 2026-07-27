@@ -1,0 +1,24 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">GPT-5.6の3ティア構成——「賢さ」から「使い分け」の競争へ</text>
+
+  <rect x="24" y="56" width="210" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="86" font-size="14" font-weight="700" fill="#2a78d6">Sol（ソル）</text>
+  <text x="44" y="112" font-size="11" fill="#0b0b0b">複雑な推論・大規模</text>
+  <text x="44" y="128" font-size="11" fill="#0b0b0b">コード作業向け</text>
+  <text x="44" y="154" font-size="11" fill="#898781">コーディング効率</text>
+  <text x="44" y="170" font-size="15" font-weight="700" fill="#2a78d6">+54%（対前世代）</text>
+
+  <rect x="254" y="56" width="210" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="274" y="86" font-size="14" font-weight="700" fill="#008300">Terra（テラ）</text>
+  <text x="274" y="112" font-size="11" fill="#0b0b0b">メール作成・要約等</text>
+  <text x="274" y="128" font-size="11" fill="#0b0b0b">日常業務向け</text>
+
+  <rect x="484" y="56" width="212" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="504" y="86" font-size="14" font-weight="700" fill="#52514e">Luna（ルナ）</text>
+  <text x="504" y="112" font-size="11" fill="#0b0b0b">大量データの</text>
+  <text x="504" y="128" font-size="11" fill="#0b0b0b">下処理向け・高速低コスト</text>
+
+  <text x="24" y="222" font-size="11" fill="#898781">2026年7月10日 一般提供開始。同時期、中国Kimi K3（オープンウェイト）の台頭が「モデル選定＝安さ・速さ」だけでなく</text>
+  <text x="24" y="238" font-size="11" fill="#898781">「エコシステム選び」という論点を商談にもたらしている（1面級②参照）</text>
+</svg>
