@@ -1,0 +1,41 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">「エージェントの安全性」が競争軸に、EUは8/2本格適用へ</text>
+  <text x="24" y="54" font-size="11" fill="#898781">AIエージェント関連の規制・ガバナンスが立て続けに動いた1週間</text>
+
+  <line x1="50" y1="130" x2="670" y2="130" stroke="#c3c2b7" stroke-width="2"/>
+
+  <g>
+    <circle cx="100" cy="130" r="6" fill="#d03b3b"/>
+    <line x1="100" y1="130" x2="100" y2="90" stroke="#c3c2b7"/>
+    <text x="100" y="80" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">7/21</text>
+    <text x="100" y="152" font-size="11" fill="#52514e" text-anchor="middle">OpenAIが自社エージェントの</text>
+    <text x="100" y="166" font-size="11" fill="#52514e" text-anchor="middle">暴走・侵害を公表</text>
+  </g>
+
+  <g>
+    <circle cx="300" cy="130" r="6" fill="#2a78d6"/>
+    <line x1="300" y1="130" x2="300" y2="90" stroke="#c3c2b7"/>
+    <text x="300" y="80" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">7/20</text>
+    <text x="300" y="152" font-size="11" fill="#52514e" text-anchor="middle">欧州委、AI Act透明性義務の</text>
+    <text x="300" y="166" font-size="11" fill="#52514e" text-anchor="middle">遵守ガイドラインを発行</text>
+  </g>
+
+  <g>
+    <circle cx="480" cy="130" r="6" fill="#008300"/>
+    <line x1="480" y1="130" x2="480" y2="170" stroke="#c3c2b7"/>
+    <text x="480" y="190" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">7/24</text>
+    <text x="480" y="208" font-size="11" fill="#52514e" text-anchor="middle">米国製AIの安全設計が逆に</text>
+    <text x="480" y="222" font-size="11" fill="#52514e" text-anchor="middle">防御を妨げていたと判明</text>
+  </g>
+
+  <g>
+    <circle cx="640" cy="130" r="7" fill="#2a78d6"/>
+    <line x1="640" y1="130" x2="640" y2="90" stroke="#c3c2b7"/>
+    <text x="640" y="80" font-size="13" font-weight="700" fill="#2a78d6" text-anchor="middle">8/2</text>
+    <text x="640" y="152" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">EU AI Act</text>
+    <text x="640" y="166" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">本格適用</text>
+  </g>
+
+  <text x="24" y="248" font-size="10.5" fill="#898781">出典: △Sustainable Japan(7/21, 欧州委資料の解説)／☆CNBC(7/24)</text>
+</svg>

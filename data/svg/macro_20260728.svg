@@ -1,0 +1,43 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">中東緊張の緩和が、金利と為替の読みを難しくする</text>
+  <text x="24" y="54" font-size="11" fill="#898781">因果チェーン：攻撃停止 → 原油急落 → FOMC・日銀の判断材料に</text>
+
+  <g>
+    <rect x="20" y="80" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="95" y="108" font-size="11" fill="#52514e" text-anchor="middle">米・イラン</text>
+    <text x="95" y="128" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">週末に攻撃停止</text>
+  </g>
+  <path d="M172 115 L192 115" stroke="#898781" stroke-width="2" marker-end="url(#a3)"/>
+
+  <g>
+    <rect x="196" y="80" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="271" y="108" font-size="11" fill="#52514e" text-anchor="middle">原油</text>
+    <text x="271" y="128" font-size="13" font-weight="700" fill="#008300" text-anchor="middle">83ドル台へ急落</text>
+  </g>
+  <path d="M348 115 L368 115" stroke="#898781" stroke-width="2" marker-end="url(#a3)"/>
+
+  <g>
+    <rect x="372" y="80" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="447" y="108" font-size="11" fill="#52514e" text-anchor="middle">インフレ懸念</text>
+    <text x="447" y="128" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">やや後退</text>
+  </g>
+  <path d="M524 115 L544 115" stroke="#898781" stroke-width="2" marker-end="url(#a3)"/>
+
+  <g>
+    <rect x="548" y="80" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="623" y="102" font-size="11" fill="#52514e" text-anchor="middle">FOMC(7/28-29)</text>
+    <text x="623" y="120" font-size="11" fill="#52514e" text-anchor="middle">日銀(7/30-31)</text>
+    <text x="623" y="140" font-size="12" font-weight="700" fill="#2a78d6" text-anchor="middle">据置観測強まる</text>
+  </g>
+
+  <defs>
+    <marker id="a3" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#898781"/>
+    </marker>
+  </defs>
+
+  <text x="24" y="186" font-size="12" fill="#0b0b0b">日経平均: 7/27終値 64,931円（前週末比+320円） ／ ドル円: 163円台半ば</text>
+  <text x="24" y="210" font-size="12" font-weight="700" fill="#0b0b0b">役員と話すときの要点: 「原油が4日で15ドル下げても、停戦ではなく“一時停止”。金利も為替も、再燃リスクを織り込んだまま動いている」</text>
+  <text x="24" y="238" font-size="10.5" fill="#898781">出典: ☆時事通信(7/27)／NHK(7/27)／みんかぶ(7/25)</text>
+</svg>

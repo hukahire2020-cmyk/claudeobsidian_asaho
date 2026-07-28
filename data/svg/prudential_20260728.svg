@@ -1,0 +1,18 @@
+<svg viewBox="0 0 720 240" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="238" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">米プルデンシャル: 引受レート発行が「数日→数分」に</text>
+  <text x="24" y="54" font-size="11" fill="#898781">AIアシスタント「Just Ask」導入後の所要時間比較（2026年5月発表）</text>
+
+  <!-- bar: before -->
+  <text x="30" y="98" font-size="12" fill="#52514e">従来の窓口経由</text>
+  <rect x="150" y="82" width="480" height="26" rx="4" fill="#e1e0d9"/>
+  <text x="640" y="100" font-size="12" fill="#0b0b0b" font-weight="700">数営業日</text>
+
+  <!-- bar: after -->
+  <text x="30" y="146" font-size="12" fill="#52514e">Just Ask 利用時</text>
+  <rect x="150" y="130" width="18" height="26" rx="4" fill="#2a78d6"/>
+  <text x="182" y="148" font-size="12" fill="#0b0b0b" font-weight="700">数分</text>
+
+  <text x="24" y="196" font-size="12" fill="#0b0b0b">導入数か月後、初回利用者の約85%が「疑問解決に役立った」と回答</text>
+  <text x="24" y="216" font-size="10.5" fill="#898781">出典: ★Prudential公式(news.prudential.com, 2026年5月)</text>
+</svg>

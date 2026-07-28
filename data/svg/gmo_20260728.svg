@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 240" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="238" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">GMO、グループ代表自らが「グループCAIO」を兼務</text>
+  <text x="24" y="54" font-size="11" fill="#898781">2026年7月13日付で発表。トップ主導のAI変革体制へ</text>
+
+  <rect x="60" y="80" width="260" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="190" y="106" font-size="12" fill="#52514e" text-anchor="middle">グループ代表・CEO</text>
+  <text x="190" y="130" font-size="16" font-weight="700" fill="#0b0b0b" text-anchor="middle">熊谷 正寿 氏</text>
+  <text x="190" y="152" font-size="12" fill="#2a78d6" text-anchor="middle">グループCAIOを兼務</text>
+
+  <path d="M320 125 L400 125" stroke="#898781" stroke-width="3" marker-end="url(#arrow2)"/>
+  <defs>
+    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#898781"/>
+    </marker>
+  </defs>
+
+  <rect x="410" y="80" width="260" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="540" y="106" font-size="12" fill="#52514e" text-anchor="middle">グループ副社長</text>
+  <text x="540" y="130" font-size="16" font-weight="700" fill="#0b0b0b" text-anchor="middle">山下 浩史 氏</text>
+  <text x="540" y="152" font-size="12" fill="#008300" text-anchor="middle">グループAI推進本部長に就任</text>
+
+  <text x="24" y="200" font-size="11" fill="#52514e">全社のAI戦略・導入推進・ガバナンス・人材育成・業務変革を一元統括</text>
+  <text x="24" y="220" font-size="10.5" fill="#898781">出典: ★GMOインターネットグループ公式(7/13, 7/13関連発表)</text>
+</svg>
