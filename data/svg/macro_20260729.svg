@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="36" font-size="17" font-weight="700" fill="#0b0b0b">国際政治×マクロ 今週の因果チェーン</text>
+
+  <g transform="translate(24,56)">
+    <rect x="0" y="0" width="150" height="64" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="75" y="26" font-size="11" fill="#0b0b0b" text-anchor="middle">中国DUV自主開発</text>
+    <text x="75" y="43" font-size="11" fill="#0b0b0b" text-anchor="middle">の観測</text>
+
+    <text x="158" y="38" font-size="18" fill="#898781">→</text>
+
+    <rect x="176" y="0" width="150" height="64" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="251" y="26" font-size="11" fill="#0b0b0b" text-anchor="middle">半導体メモリー</text>
+    <text x="251" y="43" font-size="11" fill="#0b0b0b" text-anchor="middle">競争激化懸念</text>
+
+    <text x="334" y="38" font-size="18" fill="#898781">→</text>
+
+    <rect x="352" y="0" width="150" height="64" rx="8" fill="#f9f9f7" stroke="#d03b3b"/>
+    <text x="427" y="26" font-size="11" fill="#0b0b0b" text-anchor="middle">日韓株が</text>
+    <text x="427" y="43" font-size="11" fill="#0b0b0b" text-anchor="middle">同時急落</text>
+
+    <text x="510" y="38" font-size="18" fill="#898781">→</text>
+
+    <rect x="528" y="0" width="144" height="64" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="600" y="26" font-size="11" fill="#0b0b0b" text-anchor="middle">FOMC(7/29)</text>
+    <text x="600" y="43" font-size="11" fill="#0b0b0b" text-anchor="middle">日銀(7/30-31)</text>
+  </g>
+
+  <g>
+    <rect x="24" y="146" width="330" height="140" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="44" y="172" font-size="12.5" font-weight="600" fill="#0b0b0b">日経平均株価（7/28終値）</text>
+    <text x="44" y="212" font-size="26" font-weight="700" fill="#d03b3b">62,364.92円</text>
+    <text x="44" y="234" font-size="12" fill="#52514e">前日比 -2,566.27円（-3.95%）</text>
+    <text x="44" y="254" font-size="11" fill="#898781">約2カ月ぶりの安値</text>
+  </g>
+
+  <g>
+    <rect x="366" y="146" width="330" height="140" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="386" y="172" font-size="12.5" font-weight="600" fill="#0b0b0b">ドル円相場（7/28）</text>
+    <text x="386" y="212" font-size="26" font-weight="700" fill="#2a78d6">163円台後半</text>
+    <text x="386" y="234" font-size="12" fill="#52514e">米・イラン攻撃停止後の原油安でやや落ち着き</text>
+    <text x="386" y="254" font-size="11" fill="#898781">FOMC・日銀の据置観測が中心</text>
+  </g>
+
+  <text x="24" y="312" font-size="12" fill="#52514e">役員と話すときの要点: 「震源地の違う2つのリスクが同じ週に重なった。株と為替のボラティリティは高止まり」</text>
+</svg>

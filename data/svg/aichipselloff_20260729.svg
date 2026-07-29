@@ -1,0 +1,54 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="398" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="36" font-size="17" font-weight="700" fill="#0b0b0b">AI半導体株、日韓で同時急落（2026/7/28）</text>
+  <text x="24" y="56" font-size="12" fill="#52514e">中国のDUV露光装置自主開発観測 → メモリー競争激化懸念</text>
+
+  <!-- three stat tiles -->
+  <g>
+    <rect x="24" y="76" width="204" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="126" y="106" font-size="12" fill="#52514e" text-anchor="middle">日経平均株価</text>
+    <text x="126" y="150" font-size="30" font-weight="700" fill="#d03b3b" text-anchor="middle">-2,566円</text>
+    <text x="126" y="172" font-size="13" fill="#0b0b0b" text-anchor="middle">-3.95%／62,364.92円</text>
+    <text x="126" y="192" font-size="11" fill="#898781" text-anchor="middle">約2カ月ぶりの安値</text>
+  </g>
+
+  <g>
+    <rect x="258" y="76" width="204" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="360" y="106" font-size="12" fill="#52514e" text-anchor="middle">韓国KOSPI</text>
+    <text x="360" y="150" font-size="30" font-weight="700" fill="#d03b3b" text-anchor="middle">一時-10%超</text>
+    <text x="360" y="172" font-size="13" fill="#0b0b0b" text-anchor="middle">サーキットブレーカー発動</text>
+    <text x="360" y="192" font-size="11" fill="#898781" text-anchor="middle">サムスン電子・SKハイニックス 各-13%超</text>
+  </g>
+
+  <g>
+    <rect x="492" y="76" width="204" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="594" y="106" font-size="12" fill="#52514e" text-anchor="middle">キオクシア</text>
+    <text x="594" y="150" font-size="26" font-weight="700" fill="#d03b3b" text-anchor="middle">ストップ安</text>
+    <text x="594" y="172" font-size="13" fill="#0b0b0b" text-anchor="middle">半導体メモリー関連</text>
+    <text x="594" y="192" font-size="11" fill="#898781" text-anchor="middle">アドバンテスト・東京エレクトロンも急落</text>
+  </g>
+
+  <!-- causal chain -->
+  <g transform="translate(24,232)">
+    <rect x="0" y="0" width="180" height="56" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="90" y="24" font-size="11.5" fill="#0b0b0b" text-anchor="middle">中国がDUV露光装置</text>
+    <text x="90" y="41" font-size="11.5" fill="#0b0b0b" text-anchor="middle">自主開発に着手と観測</text>
+
+    <text x="200" y="34" font-size="20" fill="#898781">→</text>
+
+    <rect x="222" y="0" width="180" height="56" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="312" y="24" font-size="11.5" fill="#0b0b0b" text-anchor="middle">半導体メモリー競争</text>
+    <text x="312" y="41" font-size="11.5" fill="#0b0b0b" text-anchor="middle">激化懸念が拡大</text>
+
+    <text x="422" y="34" font-size="20" fill="#898781">→</text>
+
+    <rect x="444" y="0" width="228" height="56" rx="8" fill="#f9f9f7" stroke="#d03b3b"/>
+    <text x="558" y="24" font-size="11.5" fill="#0b0b0b" text-anchor="middle">AI関連株が</text>
+    <text x="558" y="41" font-size="11.5" fill="#0b0b0b" text-anchor="middle">日韓で同時急落</text>
+  </g>
+
+  <text x="24" y="330" font-size="12.5" fill="#52514e">論点: 「AI投資は成長分野だから安心」という前提が、収益性の検証フェーズに入った。</text>
+  <text x="24" y="352" font-size="12.5" fill="#52514e">中国の技術的自立の観測が出るたび、AI関連株が乱高下する展開が続きやすい。</text>
+
+  <text x="24" y="384" font-size="10.5" fill="#898781">出典: 日本経済新聞(7/28)・Bloomberg(7/28)・TradingKey(7/28)</text>
+</svg>

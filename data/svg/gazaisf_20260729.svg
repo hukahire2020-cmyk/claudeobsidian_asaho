@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="36" font-size="17" font-weight="700" fill="#0b0b0b">ガザ国際安定化部隊（ISF）受け入れ承認</text>
+  <text x="24" y="56" font-size="12" fill="#52514e">トランプ和平計画の実行段階が一歩前進</text>
+
+  <!-- timeline -->
+  <g transform="translate(24,80)">
+    <line x1="10" y1="20" x2="672" y2="20" stroke="#c3c2b7" stroke-width="2"/>
+
+    <circle cx="30" cy="20" r="6" fill="#2a78d6"/>
+    <text x="30" y="50" font-size="11" fill="#0b0b0b" text-anchor="middle">2025年9月</text>
+    <text x="30" y="65" font-size="10.5" fill="#52514e" text-anchor="middle">トランプ和平計画公表</text>
+
+    <circle cx="250" cy="20" r="6" fill="#2a78d6"/>
+    <text x="250" y="50" font-size="11" fill="#0b0b0b" text-anchor="middle">2025年11月</text>
+    <text x="250" y="65" font-size="10.5" fill="#52514e" text-anchor="middle">国連安保理決議で承認</text>
+
+    <circle cx="460" cy="20" r="7" fill="#008300"/>
+    <text x="460" y="50" font-size="11" font-weight="600" fill="#0b0b0b" text-anchor="middle">2026年7月26日</text>
+    <text x="460" y="65" font-size="10.5" fill="#52514e" text-anchor="middle">安全保障内閣が受入承認</text>
+
+    <circle cx="650" cy="20" r="6" fill="#898781"/>
+    <text x="650" y="50" font-size="11" fill="#0b0b0b" text-anchor="middle">7月28日</text>
+    <text x="650" y="65" font-size="10.5" fill="#52514e" text-anchor="middle">トランプ・ネタニヤフ会談</text>
+  </g>
+
+  <g>
+    <rect x="24" y="170" width="330" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="44" y="196" font-size="12.5" font-weight="600" fill="#0b0b0b">部隊の規模</text>
+    <text x="44" y="230" font-size="26" font-weight="700" fill="#2a78d6">約200人</text>
+    <text x="44" y="254" font-size="11.5" fill="#52514e">ウガンダ・モロッコなど友好国中心</text>
+    <text x="44" y="270" font-size="10.5" fill="#898781">派遣国はイスラエルが個別に審査</text>
+  </g>
+
+  <g>
+    <rect x="366" y="170" width="330" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="386" y="196" font-size="12.5" font-weight="600" fill="#0b0b0b">未確定の要素</text>
+    <text x="386" y="222" font-size="11.5" fill="#52514e">・具体的な展開時期は未定</text>
+    <text x="386" y="242" font-size="11.5" fill="#52514e">・イスラエル実効支配外の地域に配置</text>
+    <text x="386" y="262" font-size="11.5" fill="#52514e">・参加国選定にイスラエルが拒否権的関与</text>
+  </g>
+
+  <text x="24" y="316" font-size="12.5" fill="#52514e">論点: 中東の恒久的安定化は、原油価格の構造的な落ち着きにも直結する「出口」の兆候。</text>
+
+  <text x="24" y="352" font-size="10.5" fill="#898781">出典: 朝日新聞(7/27)・毎日新聞(7/27)・日本経済新聞(7/27)</text>
+</svg>
