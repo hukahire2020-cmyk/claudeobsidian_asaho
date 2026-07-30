@@ -1,0 +1,50 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">今週の因果チェーン</text>
+
+  <!-- causal chain boxes -->
+  <g>
+    <rect x="24" y="60" width="150" height="80" rx="8" fill="#f9f9f7" stroke="#d03b3b"/>
+    <text x="99" y="85" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">フーシ派4隻目</text>
+    <text x="99" y="102" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">タンカー攻撃(7/28)</text>
+    <text x="99" y="122" font-size="10" fill="#898781" text-anchor="middle">紅海供給リスク再燃</text>
+  </g>
+  <text x="180" y="105" font-size="18" fill="#c3c2b7" text-anchor="middle">→</text>
+
+  <g>
+    <rect x="196" y="60" width="150" height="80" rx="8" fill="#f9f9f7" stroke="#2a78d6"/>
+    <text x="271" y="90" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="700">原油+4.11%</text>
+    <text x="271" y="110" font-size="11" fill="#2a78d6" text-anchor="middle" font-weight="700">$84.94(7/29)</text>
+  </g>
+  <text x="352" y="105" font-size="18" fill="#c3c2b7" text-anchor="middle">→</text>
+
+  <g>
+    <rect x="368" y="60" width="160" height="80" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="448" y="85" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">FOMC(7/29)</text>
+    <text x="448" y="103" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">5会合連続据え置き</text>
+    <text x="448" y="122" font-size="10" fill="#898781" text-anchor="middle">9対3・3人が利上げ主張</text>
+  </g>
+  <text x="540" y="105" font-size="18" fill="#c3c2b7" text-anchor="middle">→</text>
+
+  <g>
+    <rect x="556" y="60" width="140" height="80" rx="8" fill="#f9f9f7" stroke="#d03b3b"/>
+    <text x="626" y="85" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">日経平均</text>
+    <text x="626" y="103" font-size="12" fill="#d03b3b" text-anchor="middle" font-weight="700">-930円(-1.49%)</text>
+    <text x="626" y="122" font-size="10" fill="#898781" text-anchor="middle">61,434円</text>
+  </g>
+
+  <!-- indicators row -->
+  <rect x="24" y="165" width="300" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="188" font-size="11" fill="#898781">ドル円</text>
+  <text x="44" y="212" font-size="18" fill="#0b0b0b" font-weight="700">163円68〜70銭</text>
+
+  <rect x="340" y="165" width="356" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="188" font-size="11" fill="#898781">日銀金融政策決定会合</text>
+  <text x="360" y="212" font-size="15" fill="#0b0b0b" font-weight="700">7/30〜31開催・据え置き有力</text>
+
+  <rect x="24" y="245" width="672" height="55" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="268" font-size="12" fill="#0b0b0b" font-weight="700">役員と話すときの要点: 「FRBは利上げ派を抱えたまま様子見。日銀決定が</text>
+  <text x="44" y="286" font-size="12" fill="#0b0b0b" font-weight="700">出そろう週末まで、金利も為替もどちらに転んでもおかしくない前提で」</text>
+
+  <text x="24" y="313" font-size="10" fill="#898781">出典: 日本経済新聞(7/29) / TradingKey(7/29)</text>
+</svg>

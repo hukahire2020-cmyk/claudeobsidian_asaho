@@ -1,0 +1,45 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">EU AI Act：延びるもの・延びないもの</text>
+  <text x="24" y="54" font-size="12" fill="#898781">2026年8月2日を境に一部規定が本格施行</text>
+
+  <!-- left column: delayed -->
+  <rect x="24" y="75" width="330" height="270" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="102" font-size="13" font-weight="700" fill="#52514e">🕓 延期される規制</text>
+
+  <rect x="44" y="120" width="290" height="60" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="56" y="140" font-size="11" fill="#0b0b0b" font-weight="700">高リスクAI（独立型）</text>
+  <text x="56" y="158" font-size="11" fill="#2a78d6" font-weight="700">2026年8月 → 2027年12月2日</text>
+  <text x="56" y="173" font-size="10" fill="#898781">Annex III対象システム</text>
+
+  <rect x="44" y="190" width="290" height="60" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="56" y="210" font-size="11" fill="#0b0b0b" font-weight="700">高リスクAI（製品組込型）</text>
+  <text x="56" y="228" font-size="11" fill="#2a78d6" font-weight="700">2027年8月 → 2028年8月2日</text>
+  <text x="56" y="243" font-size="10" fill="#898781">Annex I対象製品</text>
+
+  <rect x="44" y="260" width="290" height="60" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="56" y="280" font-size="11" fill="#0b0b0b" font-weight="700">新規禁止AIの防止策実装</text>
+  <text x="56" y="298" font-size="11" fill="#2a78d6" font-weight="700">〜2026年12月2日 猶予</text>
+  <text x="56" y="313" font-size="10" fill="#898781">CSAM生成AI・ヌーディファイア対応</text>
+
+  <!-- right column: not delayed -->
+  <rect x="366" y="75" width="330" height="270" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="386" y="102" font-size="13" font-weight="700" fill="#52514e">⚡ 8/2から予定どおり始動</text>
+
+  <rect x="386" y="120" width="290" height="60" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="398" y="140" font-size="11" fill="#0b0b0b" font-weight="700">生成AIの透明性義務</text>
+  <text x="398" y="158" font-size="11" fill="#d03b3b" font-weight="700">2026年8月2日〜</text>
+  <text x="398" y="173" font-size="10" fill="#898781">第50条・AI生成物の明示</text>
+
+  <rect x="386" y="190" width="290" height="60" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="398" y="210" font-size="11" fill="#0b0b0b" font-weight="700">GPAIモデルへの執行権限</text>
+  <text x="398" y="228" font-size="11" fill="#d03b3b" font-weight="700">2026年8月2日〜</text>
+  <text x="398" y="243" font-size="10" fill="#898781">欧州委員会AI Officeが監督</text>
+
+  <rect x="386" y="260" width="290" height="60" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="398" y="280" font-size="11" fill="#0b0b0b" font-weight="700">禁止AIの新規追加</text>
+  <text x="398" y="298" font-size="11" fill="#d03b3b" font-weight="700">即時適用</text>
+  <text x="398" y="313" font-size="10" fill="#898781">CSAM生成AI・ヌーディファイア</text>
+
+  <text x="24" y="368" font-size="10" fill="#898781">出典: EU理事会公式 / 欧州議会公式</text>
+</svg>

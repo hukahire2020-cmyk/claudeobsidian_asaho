@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">「検討」と「実現」の間にある壁</text>
+  <text x="24" y="54" font-size="12" fill="#898781">三菱総研 DX調査レポート2026（2026年6月29日発表・回答企業ベースの割合）</text>
+
+  <!-- bars -->
+  <g>
+    <text x="24" y="100" font-size="12" fill="#0b0b0b">AIファースト検討に着手</text>
+    <rect x="230" y="82" width="455" height="26" fill="#e1e0d9"/>
+    <rect x="230" y="82" width="345" height="26" fill="#2a78d6"/>
+    <text x="595" y="100" font-size="13" fill="#0b0b0b" font-weight="700">75.9%</text>
+  </g>
+  <g>
+    <text x="24" y="150" font-size="12" fill="#0b0b0b">再配分を意図（実行は未定）</text>
+    <rect x="230" y="132" width="455" height="26" fill="#e1e0d9"/>
+    <rect x="230" y="132" width="168" height="26" fill="#2a78d6" opacity="0.7"/>
+    <text x="418" y="150" font-size="13" fill="#0b0b0b" font-weight="700">36.9%</text>
+  </g>
+  <g>
+    <text x="24" y="200" font-size="12" fill="#0b0b0b">再配分を意図し実行も伴う</text>
+    <rect x="230" y="182" width="455" height="26" fill="#e1e0d9"/>
+    <rect x="230" y="182" width="31" height="26" fill="#2a78d6" opacity="0.7"/>
+    <text x="281" y="200" font-size="13" fill="#0b0b0b" font-weight="700">6.8%</text>
+  </g>
+  <g>
+    <text x="24" y="250" font-size="12" fill="#0b0b0b">AIファースト実現</text>
+    <rect x="230" y="232" width="455" height="26" fill="#e1e0d9"/>
+    <rect x="230" y="232" width="46" height="26" fill="#008300"/>
+    <text x="296" y="250" font-size="13" fill="#0b0b0b" font-weight="700">10.1%</text>
+  </g>
+
+  <rect x="24" y="285" width="672" height="65" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="308" font-size="12" fill="#0b0b0b" font-weight="700">ビジネス変革段階の企業が40.2%となり、デジタライゼーション段階36.9%を調査開始（2021年度）以来初めて逆転</text>
+  <text x="44" y="328" font-size="11" fill="#52514e">「検討」と「実現」の差＝約66ポイントが、日本企業のAI活用における最大のボトルネック</text>
+
+  <text x="24" y="368" font-size="10" fill="#898781">出典: MRI公式プレスリリース(6/29) / MRIセミナー(7/29)</text>
+</svg>
