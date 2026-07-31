@@ -1,0 +1,27 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">Moonshot AI（中国）評価額の急伸</text>
+  <text x="24" y="54" font-size="12" fill="#898781">2026年7月29日発表・Kimi K3公開(7/16)後の資金調達</text>
+
+  <!-- timeline growth bars -->
+  <text x="24" y="90" font-size="11" fill="#52514e">8カ月前</text>
+  <rect x="110" y="76" width="43" height="20" rx="3" fill="#c3c2b7"/>
+  <text x="163" y="91" font-size="12" fill="#0b0b0b" font-weight="700">$43億</text>
+
+  <text x="24" y="130" font-size="11" fill="#52514e">今回調達後</text>
+  <rect x="110" y="116" width="350" height="20" rx="3" fill="#2a78d6"/>
+  <text x="470" y="131" font-size="14" fill="#0b0b0b" font-weight="700">$350億（約8倍）</text>
+
+  <rect x="24" y="160" width="330" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="189" y="184" font-size="11" fill="#898781" text-anchor="middle">今回の調達額</text>
+  <text x="189" y="216" font-size="26" fill="#008300" text-anchor="middle" font-weight="700">$35億</text>
+
+  <rect x="366" y="160" width="330" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="531" y="184" font-size="11" fill="#898781" text-anchor="middle">次回打診中の評価額</text>
+  <text x="531" y="216" font-size="26" fill="#0b0b0b" text-anchor="middle" font-weight="700">$500億</text>
+
+  <text x="24" y="252" font-size="11" fill="#52514e">主要投資家: 中国政府系 National AI Industry Investment Fund（DeepSeekの出資者でもある）</text>
+  <text x="24" y="272" font-size="11" fill="#52514e">香港IPOも視野——オープンウェイト戦略の中国製モデルが資金力でも存在感を拡大</text>
+
+  <text x="24" y="292" font-size="10" fill="#898781">出典: Bloomberg(7/29) / TechTimes(7/29)</text>
+</svg>

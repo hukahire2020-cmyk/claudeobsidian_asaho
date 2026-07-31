@@ -1,0 +1,50 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">今週の因果チェーン</text>
+
+  <g>
+    <rect x="24" y="60" width="145" height="80" rx="8" fill="#f9f9f7" stroke="#d03b3b"/>
+    <text x="96" y="85" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">熊本地震(7/28)</text>
+    <text x="96" y="102" font-size="10" fill="#898781" text-anchor="middle">半導体供給網に</text>
+    <text x="96" y="118" font-size="10" fill="#898781" text-anchor="middle">懸念</text>
+  </g>
+  <text x="174" y="105" font-size="16" fill="#c3c2b7" text-anchor="middle">→</text>
+
+  <g>
+    <rect x="188" y="60" width="150" height="80" rx="8" fill="#f9f9f7" stroke="#2a78d6"/>
+    <text x="263" y="85" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">円買い介入(7/30)</text>
+    <text x="263" y="105" font-size="12" fill="#2a78d6" text-anchor="middle" font-weight="700">162→157円台</text>
+    <text x="263" y="122" font-size="10" fill="#898781" text-anchor="middle">3カ月ぶり</text>
+  </g>
+  <text x="342" y="105" font-size="16" fill="#c3c2b7" text-anchor="middle">→</text>
+
+  <g>
+    <rect x="356" y="60" width="150" height="80" rx="8" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="431" y="85" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">日銀会合(7/31)</text>
+    <text x="431" y="105" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="700">1.0%据え置き</text>
+    <text x="431" y="122" font-size="10" fill="#898781" text-anchor="middle">植田総裁会見</text>
+  </g>
+  <text x="510" y="105" font-size="16" fill="#c3c2b7" text-anchor="middle">→</text>
+
+  <g>
+    <rect x="524" y="60" width="172" height="80" rx="8" fill="#f9f9f7" stroke="#008300"/>
+    <text x="610" y="85" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">紅海リスク</text>
+    <text x="610" y="105" font-size="12" fill="#008300" text-anchor="middle" font-weight="700">小康状態</text>
+    <text x="610" y="122" font-size="10" fill="#898781" text-anchor="middle">Brent$90前後</text>
+  </g>
+
+  <!-- indicators row -->
+  <rect x="24" y="165" width="330" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="188" font-size="11" fill="#898781">ドル円（7/31朝）</text>
+  <text x="44" y="212" font-size="18" fill="#0b0b0b" font-weight="700">159円台半ば</text>
+
+  <rect x="366" y="165" width="330" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="386" y="188" font-size="11" fill="#898781">原油（WTI）</text>
+  <text x="386" y="212" font-size="18" fill="#0b0b0b" font-weight="700">$84台で小康</text>
+
+  <rect x="24" y="245" width="672" height="55" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="268" font-size="12" fill="#0b0b0b" font-weight="700">役員と話すときの要点: 「介入・地震・日銀決定が同じ週に重なった。</text>
+  <text x="44" y="286" font-size="12" fill="#0b0b0b" font-weight="700">為替は『円安一服』で終わらせず、政府の次の一手を織り込んで見るべき局面」</text>
+
+  <text x="24" y="313" font-size="10" fill="#898781">出典: Bloomberg(7/30) / Newsweek日本版(7/30) / oanda.jp(7/31)</text>
+</svg>

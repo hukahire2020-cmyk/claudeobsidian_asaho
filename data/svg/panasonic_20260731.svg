@@ -1,0 +1,29 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">パナソニック コネクト「ConnectAI」2025年度実績</text>
+  <text x="24" y="54" font-size="12" fill="#898781">2026年7月29日発表・2023年2月から自社展開</text>
+
+  <rect x="24" y="72" width="210" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="129" y="96" font-size="11" fill="#898781" text-anchor="middle">年間削減時間</text>
+  <text x="129" y="140" font-size="30" fill="#2a78d6" text-anchor="middle" font-weight="700">78.8万時間</text>
+  <text x="129" y="164" font-size="11" fill="#52514e" text-anchor="middle">前年比2倍</text>
+
+  <rect x="248" y="72" width="210" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="353" y="96" font-size="11" fill="#898781" text-anchor="middle">年間利用回数</text>
+  <text x="353" y="140" font-size="30" fill="#0b0b0b" text-anchor="middle" font-weight="700">361万回</text>
+  <text x="353" y="164" font-size="11" fill="#52514e" text-anchor="middle">前年比1.6倍</text>
+
+  <rect x="472" y="72" width="224" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="584" y="96" font-size="11" fill="#898781" text-anchor="middle">月間ユニークユーザー率</text>
+  <text x="584" y="140" font-size="30" fill="#008300" text-anchor="middle" font-weight="700">61%</text>
+  <text x="584" y="164" font-size="11" fill="#52514e" text-anchor="middle">前年比+12ポイント</text>
+
+  <rect x="24" y="200" width="672" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="224" font-size="12" font-weight="700" fill="#0b0b0b">総労働時間の3.4%を削減</text>
+  <text x="44" y="244" font-size="11" fill="#52514e">主な用途: 議事録作成・コード生成・提案書作成支援など個人業務の効率化</text>
+
+  <rect x="24" y="272" width="672" height="30" rx="15" fill="#2a78d6"/>
+  <text x="360" y="292" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="700">2026年度〜業務システム連携フェーズへ　2030年度に総労働時間10%削減目標</text>
+
+  <text x="24" y="313" font-size="10" fill="#898781">出典: パナソニック コネクト公式(7/29)</text>
+</svg>

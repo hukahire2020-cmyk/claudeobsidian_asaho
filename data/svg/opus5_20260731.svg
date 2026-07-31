@@ -1,0 +1,33 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">Claude Opus 5——Fable 5級の性能を半額のコストで</text>
+  <text x="24" y="54" font-size="12" fill="#898781">2026年7月24日公開（Anthropic公式）</text>
+
+  <!-- price comparison tiles -->
+  <rect x="24" y="72" width="320" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="184" y="94" font-size="11" fill="#898781" text-anchor="middle">Claude Opus 5</text>
+  <text x="184" y="128" font-size="26" fill="#2a78d6" text-anchor="middle" font-weight="700">$5 / $25（百万トークン）</text>
+  <text x="184" y="146" font-size="10" fill="#898781" text-anchor="middle">入力 / 出力（Opus 4.8と同額）</text>
+
+  <rect x="376" y="72" width="320" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="536" y="94" font-size="11" fill="#898781" text-anchor="middle">Claude Fable 5（参考）</text>
+  <text x="536" y="128" font-size="26" fill="#0b0b0b" text-anchor="middle" font-weight="700">$10 / $50（百万トークン）</text>
+  <text x="536" y="146" font-size="10" fill="#898781" text-anchor="middle">Opus 5の2倍の価格</text>
+
+  <!-- benchmark bars -->
+  <text x="24" y="180" font-size="12" font-weight="700" fill="#0b0b0b">CursorBench 3.2（最大努力設定）—— Fable 5ピークスコア比</text>
+  <rect x="24" y="188" width="672" height="16" rx="3" fill="#e1e0d9"/>
+  <rect x="24" y="188" width="669" height="16" rx="3" fill="#2a78d6"/>
+  <text x="700" y="200" font-size="11" fill="#0b0b0b" font-weight="700" text-anchor="end">99.5%</text>
+
+  <text x="24" y="228" font-size="12" font-weight="700" fill="#0b0b0b">Frontier-Bench v0.1（ソフトウェアエンジニアリング）—— Opus 4.8比</text>
+  <rect x="24" y="236" width="672" height="16" rx="3" fill="#e1e0d9"/>
+  <rect x="24" y="236" width="672" height="16" rx="3" fill="#008300"/>
+  <text x="700" y="248" font-size="11" fill="#ffffff" font-weight="700" text-anchor="end">2倍以上・全モデル中最高</text>
+
+  <rect x="24" y="264" width="672" height="58" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="286" font-size="11" fill="#0b0b0b" font-weight="700">ARC-AGI 3: 次点モデル比3倍のスコア ／ OSWorld 2.0: Fable 5を1/3のコストで上回る</text>
+  <text x="44" y="306" font-size="11" fill="#52514e">安全性: 自動行動監査で自社モデル中「最も整合性が高い」（サイバーセキュリティはMythos 5に次ぐ）</text>
+
+  <text x="24" y="333" font-size="10" fill="#898781">出典: Anthropic公式(7/24) / TechCrunch(7/24)</text>
+</svg>
