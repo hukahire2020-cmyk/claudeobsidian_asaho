@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="42" font-size="17" font-weight="700" fill="#0b0b0b">円買い協調介入への道のり——28年ぶりの日米連携</text>
+
+  <!-- timeline axis -->
+  <line x1="60" y1="120" x2="660" y2="120" stroke="#c3c2b7" stroke-width="2"/>
+
+  <!-- 1998 -->
+  <circle cx="100" cy="120" r="6" fill="#898781"/>
+  <text x="100" y="100" font-size="13" fill="#52514e" text-anchor="middle">1998年</text>
+  <text x="100" y="145" font-size="11" fill="#898781" text-anchor="middle">アジア通貨危機</text>
+  <text x="100" y="160" font-size="11" fill="#898781" text-anchor="middle">円買い協調介入</text>
+
+  <!-- 2011 -->
+  <circle cx="330" cy="120" r="6" fill="#898781"/>
+  <text x="330" y="100" font-size="13" fill="#52514e" text-anchor="middle">2011年</text>
+  <text x="330" y="145" font-size="11" fill="#898781" text-anchor="middle">東日本大震災後</text>
+  <text x="330" y="160" font-size="11" fill="#898781" text-anchor="middle">協調介入（15年ぶり）</text>
+
+  <!-- 2026 -->
+  <circle cx="600" cy="120" r="8" fill="#2a78d6"/>
+  <text x="600" y="100" font-size="13" fill="#0b0b0b" font-weight="700" text-anchor="middle">2026年7月31日</text>
+  <text x="600" y="145" font-size="11" fill="#2a78d6" font-weight="700" text-anchor="middle">円買い協調介入</text>
+  <text x="600" y="160" font-size="11" fill="#52514e" text-anchor="middle">（28年ぶり・8/3談話で公表）</text>
+
+  <!-- rate box -->
+  <rect x="60" y="210" width="600" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="90" y="245" font-size="13" fill="#52514e">7月下旬：1ドル＝</text>
+  <text x="230" y="248" font-size="26" font-weight="700" fill="#d03b3b">164円</text>
+  <text x="290" y="245" font-size="13" fill="#898781">手前（約40年ぶり安値水準）</text>
+
+  <text x="90" y="300" font-size="13" fill="#52514e">介入後：8/3朝時点で1ドル＝</text>
+  <text x="290" y="303" font-size="26" font-weight="700" fill="#2a78d6">157円</text>
+  <text x="345" y="300" font-size="13" fill="#898781">台まで急伸</text>
+
+  <path d="M 500 275 L 540 275 L 540 260 L 570 285 L 540 310 L 540 295 L 500 295 Z" fill="#008300" opacity="0.85"/>
+</svg>

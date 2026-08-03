@@ -1,0 +1,23 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="42" font-size="17" font-weight="700" fill="#0b0b0b">米Zillow：AI Mode導入後、住宅市場停滞下でも増収</text>
+  <text x="30" y="64" font-size="12" fill="#898781">AI Mode発表 2026年3月25日／2026年第1四半期決算より</text>
+
+  <!-- bar chart: industry vs zillow vs rentals -->
+  <text x="30" y="110" font-size="12" fill="#52514e">住宅業界全体の成長率</text>
+  <rect x="230" y="96" width="30" height="18" fill="#c3c2b7"/>
+  <text x="270" y="110" font-size="12" fill="#52514e">+2%</text>
+
+  <text x="30" y="150" font-size="12" fill="#52514e">Zillow全体売上（Q1 2026）</text>
+  <rect x="230" y="136" width="270" height="18" fill="#2a78d6"/>
+  <text x="510" y="150" font-size="12" font-weight="700" fill="#2a78d6">+18.4%（708百万ドル）</text>
+
+  <text x="30" y="190" font-size="12" fill="#52514e">賃貸（Rentals）事業</text>
+  <rect x="230" y="176" width="360" height="18" fill="#008300"/>
+  <text x="600" y="190" font-size="12" font-weight="700" fill="#008300">+42%（183百万ドル）</text>
+
+  <rect x="30" y="225" width="660" height="80" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="50" y="250" font-size="12" fill="#52514e">AI Modeは会話形式で物件比較・リフォーム費用試算・予算適合診断・交渉アドバイスまで一気通貫で提供</text>
+  <text x="50" y="270" font-size="12" fill="#52514e">賃貸多物件登録数は76,000件到達。住宅業界のボトルネック「情報収集の分断」をAIが横断的に解消</text>
+  <text x="50" y="290" font-size="11" fill="#898781">※数値は決算発表・SEC提出資料に基づく報道。原典（Zillow公式IR）での確認を推奨</text>
+</svg>

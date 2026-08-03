@@ -1,0 +1,27 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="42" font-size="17" font-weight="700" fill="#0b0b0b">AI×組織：経営の統括役と規制執行が同時に動き出す8月</text>
+
+  <line x1="60" y1="110" x2="660" y2="110" stroke="#c3c2b7" stroke-width="2"/>
+
+  <circle cx="200" cy="110" r="7" fill="#2a78d6"/>
+  <text x="200" y="90" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">8月1日</text>
+  <rect x="90" y="130" width="220" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="200" y="155" font-size="13" font-weight="700" fill="#2a78d6" text-anchor="middle">MIXI</text>
+  <text x="200" y="175" font-size="12" fill="#52514e" text-anchor="middle">CAIO新設・村瀬龍馬氏就任</text>
+  <text x="200" y="195" font-size="11" fill="#898781" text-anchor="middle">全社AI活用率99%超</text>
+  <text x="200" y="212" font-size="11" fill="#898781" text-anchor="middle">年間約10億円のコスト削減済み</text>
+  <text x="200" y="229" font-size="11" fill="#0b0b0b" text-anchor="middle">→事業価値創出フェーズへ</text>
+
+  <circle cx="520" cy="110" r="7" fill="#d03b3b"/>
+  <text x="520" y="90" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">8月2日</text>
+  <rect x="410" y="130" width="220" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="520" y="155" font-size="13" font-weight="700" fill="#d03b3b" text-anchor="middle">EU AI Act</text>
+  <text x="520" y="175" font-size="12" fill="#52514e" text-anchor="middle">汎用AI(GPAI)への</text>
+  <text x="520" y="192" font-size="12" fill="#52514e" text-anchor="middle">執行・市場監視が本格開始</text>
+  <text x="520" y="212" font-size="11" fill="#898781" text-anchor="middle">2025年8月からの猶予期間終了</text>
+  <text x="520" y="229" font-size="11" fill="#0b0b0b" text-anchor="middle">→是正命令・制限・罰金が可能に</text>
+
+  <rect x="30" y="270" width="660" height="50" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="50" y="300" font-size="12" fill="#52514e">「AIを使う」段階から「誰が責任を持ち、誰が取り締まるか」の段階へ——経営とガバナンスの両輪が同時に動く</text>
+</svg>

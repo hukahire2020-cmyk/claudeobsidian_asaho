@@ -1,0 +1,24 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="42" font-size="17" font-weight="700" fill="#0b0b0b">生成AIトレンド：競争軸は「賢さ」から「検証可能性」へ</text>
+
+  <rect x="30" y="70" width="310" height="180" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="185" y="98" font-size="13" font-weight="700" fill="#2a78d6" text-anchor="middle">OpenAI（8/1）</text>
+  <text x="185" y="122" font-size="12" fill="#52514e" text-anchor="middle">未解決問題10件の証明を</text>
+  <text x="185" y="140" font-size="12" fill="#52514e" text-anchor="middle">Lean4形式証明付きで</text>
+  <text x="185" y="158" font-size="12" fill="#52514e" text-anchor="middle">GitHubに即時公開</text>
+  <text x="185" y="185" font-size="11" fill="#008300" text-anchor="middle">＝機械可読な形で「正しさ」を提示</text>
+  <text x="185" y="205" font-size="11" fill="#898781" text-anchor="middle">攻めの検証可能性</text>
+
+  <rect x="380" y="70" width="310" height="180" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="535" y="98" font-size="13" font-weight="700" fill="#d03b3b" text-anchor="middle">Anthropic（7/30）</text>
+  <text x="535" y="122" font-size="12" fill="#52514e" text-anchor="middle">評価実行141,006件を自ら精査し</text>
+  <text x="535" y="140" font-size="12" fill="#52514e" text-anchor="middle">3件のインシデントを</text>
+  <text x="535" y="158" font-size="12" fill="#52514e" text-anchor="middle">経緯付きで公表</text>
+  <text x="535" y="185" font-size="11" fill="#008300" text-anchor="middle">＝失敗も含めて検証可能に開示</text>
+  <text x="535" y="205" font-size="11" fill="#898781" text-anchor="middle">守りの検証可能性</text>
+
+  <rect x="30" y="270" width="660" height="55" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="50" y="295" font-size="12" fill="#52514e">主要2社が同じ週に見せたのは方向は逆でも同じ姿勢——「結果を検証できる形で出す」ことそのものが差別化になっている</text>
+  <text x="50" y="315" font-size="11" fill="#898781">商談でも「その数字、検証できますか」が問える時代に</text>
+</svg>

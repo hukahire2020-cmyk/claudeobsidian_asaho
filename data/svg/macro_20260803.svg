@@ -1,0 +1,42 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="42" font-size="17" font-weight="700" fill="#0b0b0b">国際政治×マクロ：介入は効いたが、金利は日米ともタカ派</text>
+
+  <!-- causal chain boxes -->
+  <rect x="20" y="80" width="150" height="70" rx="8" fill="#fdeceb" stroke="#d03b3b"/>
+  <text x="95" y="108" font-size="12" font-weight="700" fill="#d03b3b" text-anchor="middle">円安164円手前</text>
+  <text x="95" y="128" font-size="11" fill="#52514e" text-anchor="middle">約40年ぶり水準</text>
+
+  <text x="180" y="122" font-size="18" fill="#898781">→</text>
+
+  <rect x="200" y="80" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="275" y="108" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">日米協調介入</text>
+  <text x="275" y="128" font-size="11" fill="#52514e" text-anchor="middle">7月31日実施</text>
+
+  <text x="360" y="122" font-size="18" fill="#898781">→</text>
+
+  <rect x="380" y="80" width="150" height="70" rx="8" fill="#eaf2fb" stroke="#2a78d6"/>
+  <text x="455" y="108" font-size="12" font-weight="700" fill="#2a78d6" text-anchor="middle">157円台へ急伸</text>
+  <text x="455" y="128" font-size="11" fill="#52514e" text-anchor="middle">8/3朝時点</text>
+
+  <text x="540" y="122" font-size="18" fill="#898781">→</text>
+
+  <rect x="560" y="80" width="140" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="630" y="108" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">介入頼みの</text>
+  <text x="630" y="128" font-size="11" fill="#52514e" text-anchor="middle">円安是正へ</text>
+
+  <!-- FOMC / BOJ boxes -->
+  <rect x="30" y="185" width="320" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="50" y="210" font-size="13" font-weight="700" fill="#0b0b0b">FOMC（7月）</text>
+  <text x="50" y="232" font-size="12" fill="#52514e">政策金利 3.50〜3.75％で据え置き</text>
+  <text x="50" y="252" font-size="12" fill="#d03b3b">地区連銀総裁3名が利上げを主張</text>
+  <text x="50" y="272" font-size="11" fill="#898781">9月会合で利上げ論争が本格化の観測</text>
+
+  <rect x="370" y="185" width="320" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="390" y="210" font-size="13" font-weight="700" fill="#0b0b0b">日銀（7月31日）</text>
+  <text x="390" y="232" font-size="12" fill="#52514e">政策金利 1.0％で据え置き</text>
+  <text x="390" y="252" font-size="12" fill="#d03b3b">植田総裁「利上げペース加速も」</text>
+  <text x="390" y="272" font-size="11" fill="#898781">物価上振れリスクを引き続き警戒</text>
+
+  <text x="30" y="325" font-size="12" font-weight="700" fill="#0b0b0b">役員と話すときの要点：介入で急場は凌いだが、日米とも「次は利上げ」に傾いている——金利差縮小は道半ば</text>
+</svg>

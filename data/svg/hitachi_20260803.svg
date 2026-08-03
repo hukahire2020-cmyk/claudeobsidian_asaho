@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="42" font-size="17" font-weight="700" fill="#0b0b0b">日立：AI駆動開発で要件定義240倍の生産性を実証</text>
+  <text x="30" y="64" font-size="12" fill="#898781">Agentic AI Integration Platform 発表 2026年7月24日</text>
+
+  <rect x="30" y="90" width="200" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="150" font-size="34" font-weight="700" fill="#2a78d6" text-anchor="middle">240倍</text>
+  <text x="130" y="175" font-size="12" fill="#52514e" text-anchor="middle">要件定義工程</text>
+
+  <rect x="260" y="90" width="200" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="150" font-size="34" font-weight="700" fill="#2a78d6" text-anchor="middle">200倍</text>
+  <text x="360" y="175" font-size="12" fill="#52514e" text-anchor="middle">設計〜テスト工程</text>
+
+  <rect x="490" y="90" width="200" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="590" y="150" font-size="34" font-weight="700" fill="#008300" text-anchor="middle">54%減</text>
+  <text x="590" y="175" font-size="12" fill="#52514e" text-anchor="middle">トークン利用料</text>
+
+  <rect x="30" y="235" width="660" height="55" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="50" y="258" font-size="13" fill="#52514e">目標：2027年度までに全工程で生産性30％向上（社内検証値・現時点では実運用未達）</text>
+  <text x="50" y="278" font-size="11" fill="#898781">連携：Anthropic・Google Cloud・OpenAI＋GlobalLogic、みずほFG・静岡銀行・JCB等の実証パートナー</text>
+
+  <rect x="30" y="305" width="660" height="55" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="50" y="328" font-size="12" fill="#52514e">顧客固有の業務知識・判断基準を「エンタープライズコンテキスト」として蓄積し、AIエージェントが</text>
+  <text x="50" y="348" font-size="12" fill="#52514e">要件定義から運用まで一貫して活用できる点が特徴</text>
+</svg>

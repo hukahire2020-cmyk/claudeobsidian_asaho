@@ -1,0 +1,32 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="42" font-size="17" font-weight="700" fill="#0b0b0b">敷島住宅：Agentforce導入で年間24億円の売上創出を目指す</text>
+  <text x="30" y="64" font-size="12" fill="#898781">2026年7月31日発表・大阪/京都/滋賀の地域密着型住宅会社</text>
+
+  <rect x="30" y="90" width="200" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="145" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">24億円</text>
+  <text x="130" y="170" font-size="12" fill="#52514e" text-anchor="middle">年間売上創出目標</text>
+
+  <rect x="260" y="90" width="200" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="145" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">4.8億円</text>
+  <text x="360" y="170" font-size="12" fill="#52514e" text-anchor="middle">利益貢献目標</text>
+
+  <rect x="490" y="90" width="200" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="590" y="140" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">月50件</text>
+  <text x="590" y="163" font-size="12" fill="#52514e" text-anchor="middle">見込み顧客獲得</text>
+  <text x="590" y="180" font-size="10" fill="#898781" text-anchor="middle">（24時間365日対応）</text>
+
+  <text x="30" y="250" font-size="13" font-weight="700" fill="#0b0b0b">課題：問い合わせ増への対応遅れ／営業の属人化</text>
+  <path d="M 350 240 L 400 240" stroke="#c3c2b7" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="420" y="250" font-size="13" font-weight="700" fill="#008300">Agentforceで24時間対応・フォーム離脱率改善</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#c3c2b7"/>
+    </marker>
+  </defs>
+
+  <rect x="30" y="290" width="660" height="60" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="50" y="314" font-size="12" fill="#52514e">既存のSalesforce基盤（Sales/Service/Marketing）とのシームレスな連携を評価して導入を決定</text>
+  <text x="50" y="334" font-size="12" fill="#52514e">狙いは商談化率・成約率の向上と、営業担当者が顧客関係構築に集中できる体制づくり</text>
+</svg>
