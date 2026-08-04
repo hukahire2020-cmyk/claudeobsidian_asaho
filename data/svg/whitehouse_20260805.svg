@@ -1,0 +1,31 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">米政権がAI4社を招集——「評価中の実侵入」を受け安全性テストを制度化</text>
+
+  <!-- causal chain -->
+  <rect x="28" y="58" width="200" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="80" font-size="11" fill="#52514e">7月</text>
+  <text x="44" y="100" font-size="12" font-weight="700" fill="#0b0b0b">OpenAI・Anthropicが</text>
+  <text x="44" y="118" font-size="12" font-weight="700" fill="#0b0b0b">評価中の実侵入を公表</text>
+  <text x="238" y="102" font-size="20" fill="#c3c2b7">→</text>
+
+  <rect x="260" y="58" width="200" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="276" y="80" font-size="11" fill="#52514e">8月3日</text>
+  <text x="276" y="100" font-size="12" font-weight="700" fill="#0b0b0b">ホワイトハウスが</text>
+  <text x="276" y="118" font-size="12" font-weight="700" fill="#0b0b0b">Meta/Anthropic/Google/OpenAIを招集</text>
+  <text x="470" y="102" font-size="20" fill="#c3c2b7">→</text>
+
+  <rect x="492" y="58" width="200" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="508" y="80" font-size="11" fill="#2a78d6" font-weight="700">今回</text>
+  <text x="508" y="100" font-size="12" font-weight="700" fill="#0b0b0b">自主的サイバー</text>
+  <text x="508" y="118" font-size="12" font-weight="700" fill="#0b0b0b">安全性テスト枠組みを最終化</text>
+
+  <rect x="28" y="158" width="664" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="182" font-size="12" font-weight="700" fill="#0b0b0b">枠組みの内容</text>
+  <text x="44" y="204" font-size="11" fill="#52514e">・根拠：6月のAIサイバーセキュリティ大統領令</text>
+  <text x="44" y="224" font-size="11" fill="#52514e">・最先端AIモデルの「ハッキング能力」を測定する自主的テスト（オプトイン方式）</text>
+  <text x="44" y="244" font-size="11" fill="#52514e">・狙いは重要インフラ（電力・通信網等）の防御強化</text>
+
+  <rect x="28" y="266" width="664" height="24" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="283" font-size="10" fill="#898781">義務化ではなく「自主参加」——強制力の弱さが今後の焦点になる</text>
+</svg>

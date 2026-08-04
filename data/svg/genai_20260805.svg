@@ -1,0 +1,18 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">OpenAI、GPT-5.6ファミリーを最大80%値下げ——「AIがAIのコストを削る」段階へ</text>
+
+  <text x="28" y="76" font-size="12" fill="#0b0b0b" font-weight="700">Luna（軽量モデル）値下げ幅</text>
+  <rect x="28" y="86" width="636" height="28" rx="4" fill="#e1e0d9"/>
+  <rect x="28" y="86" width="509" height="28" rx="4" fill="#d03b3b"/>
+  <text x="540" y="106" font-size="13" fill="#fcfcfb" font-weight="700">▲80%</text>
+
+  <text x="28" y="140" font-size="12" fill="#0b0b0b" font-weight="700">Terra（中位モデル）値下げ幅</text>
+  <rect x="28" y="150" width="636" height="28" rx="4" fill="#e1e0d9"/>
+  <rect x="28" y="150" width="127" height="28" rx="4" fill="#2a78d6"/>
+  <text x="158" y="170" font-size="13" fill="#0b0b0b" font-weight="700">▲20%</text>
+
+  <rect x="28" y="192" width="664" height="52" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="214" font-size="11" fill="#52514e">7/30発表。最上位Solは価格据え置きで2.5倍速い「Fast mode」を追加。値下げの理由は「モデル自身による</text>
+  <text x="44" y="232" font-size="11" fill="#52514e">運用最適化」——Solは自律的なカーネル最適化で運用コストを20%削減したという</text>
+</svg>

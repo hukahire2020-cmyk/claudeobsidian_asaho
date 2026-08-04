@@ -1,0 +1,18 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">MIXI、CAIO新設——村瀬龍馬氏が就任（2026/8/1付）</text>
+
+  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">全社AI活用率</text>
+  <text x="130" y="124" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">99%超</text>
+  <text x="130" y="144" font-size="10.5" fill="#898781" text-anchor="middle">同社発表値</text>
+
+  <rect x="245" y="58" width="447" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="268" y="82" font-size="12" fill="#52514e">CAIOの役割</text>
+  <text x="268" y="106" font-size="11" fill="#0b0b0b">・全社AI戦略の立案・推進</text>
+  <text x="268" y="126" font-size="11" fill="#0b0b0b">・AIガバナンスの統括</text>
+  <text x="268" y="146" font-size="11" fill="#0b0b0b">・AIネイティブな組織・人材基盤の構築</text>
+
+  <rect x="28" y="172" width="664" height="24" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="188" font-size="10.5" fill="#898781">出典: 株式会社MIXI公式（2026/7/31発表・8/1付）</text>
+</svg>

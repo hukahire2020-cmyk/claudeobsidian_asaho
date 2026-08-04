@@ -1,0 +1,18 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">アンドエスティ（アパレル物流）：次世代自動倉庫で出荷生産性196%</text>
+
+  <text x="28" y="76" font-size="12" fill="#0b0b0b" font-weight="700">出荷作業の生産性（導入前=100%）</text>
+  <rect x="28" y="86" width="636" height="28" rx="4" fill="#e1e0d9"/>
+  <rect x="28" y="86" width="324" height="28" rx="4" fill="#898781"/>
+  <text x="150" y="106" font-size="12" fill="#fcfcfb" font-weight="700">100%（従来）</text>
+  <rect x="28" y="122" width="636" height="28" rx="4" fill="#e1e0d9"/>
+  <rect x="28" y="122" width="636" height="28" rx="4" fill="#2a78d6"/>
+  <text x="560" y="142" font-size="13" fill="#fcfcfb" font-weight="700">196%（導入後）</text>
+
+  <text x="28" y="178" font-size="12" fill="#0b0b0b" font-weight="700">在庫保管量：従来比155%</text>
+
+  <rect x="28" y="190" width="664" height="52" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="212" font-size="11" fill="#52514e">西宮北物流センター（神戸市）に自動倉庫「AirRob PickingWall」・搬送ロボ「t-Sort OPS」を導入（8/3発表）</text>
+  <text x="44" y="230" font-size="11" fill="#52514e">GTP／BTP方式でスタッフは固定ステーションで完結、倉庫内を歩き回る必要がなくなった</text>
+</svg>

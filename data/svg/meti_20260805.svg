@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">経産省：AIとロボットの担当部局を本日一元化</text>
+
+  <!-- before/after org chart -->
+  <rect x="28" y="58" width="290" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="80" font-size="11" fill="#898781">これまで（縦割り）</text>
+  <text x="44" y="106" font-size="12" fill="#0b0b0b">製造産業局</text>
+  <text x="44" y="124" font-size="10" fill="#52514e">↳ ロボット政策</text>
+  <text x="44" y="148" font-size="12" fill="#0b0b0b">商務情報政策局</text>
+  <text x="44" y="166" font-size="10" fill="#52514e">↳ AI政策</text>
+
+  <text x="335" y="128" font-size="22" fill="#c3c2b7">→</text>
+
+  <rect x="402" y="58" width="290" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="418" y="80" font-size="11" fill="#2a78d6" font-weight="700">本日8/5〜（一元化）</text>
+  <text x="418" y="106" font-size="12" font-weight="700" fill="#0b0b0b">商務情報政策局</text>
+  <text x="418" y="128" font-size="12" fill="#52514e">「情報処理システム開発・</text>
+  <text x="418" y="146" font-size="12" fill="#52514e">ロボット課」（通称AI産業課）</text>
+  <text x="418" y="166" font-size="10" fill="#898781">AI・ロボットを一体運用</text>
+
+  <rect x="28" y="196" width="664" height="66" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="218" font-size="11" fill="#52514e">経緯：7/31閣議決定・8/5公布施行（経済産業省組織令の一部改正）。背景には「AIロボット」で</text>
+  <text x="44" y="238" font-size="11" fill="#52514e">2040年に世界シェア3割超・20兆円市場獲得を目指す経産省の産業戦略があり、政策の縦割り解消が急務だった</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">消費税減税、本日夕方にも閣議決定——37年ぶりの税率引き下げへ</text>
+
+  <!-- timeline -->
+  <line x1="50" y1="110" x2="670" y2="110" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="90" cy="110" r="5" fill="#898781"/>
+  <text x="90" y="95" font-size="11" text-anchor="middle" fill="#52514e">7/30</text>
+  <text x="90" y="130" font-size="12" text-anchor="middle" fill="#0b0b0b" font-weight="700">首相が正式表明</text>
+
+  <circle cx="280" cy="110" r="5" fill="#898781"/>
+  <text x="280" y="95" font-size="11" text-anchor="middle" fill="#52514e">8/3</text>
+  <text x="280" y="130" font-size="12" text-anchor="middle" fill="#0b0b0b" font-weight="700">党税調・社会保障合同会議が了承</text>
+
+  <circle cx="480" cy="110" r="7" fill="#2a78d6"/>
+  <text x="480" y="90" font-size="12" text-anchor="middle" fill="#2a78d6" font-weight="700">8/5（本日）</text>
+  <text x="480" y="130" font-size="12" text-anchor="middle" fill="#0b0b0b" font-weight="700">総務会審査→夕方閣議決定へ</text>
+
+  <circle cx="650" cy="110" r="5" fill="#d03b3b"/>
+  <text x="650" y="95" font-size="11" text-anchor="middle" fill="#52514e">2027年4月</text>
+  <text x="650" y="130" font-size="12" text-anchor="middle" fill="#0b0b0b" font-weight="700">制度開始</text>
+
+  <!-- stat tiles -->
+  <rect x="28" y="160" width="210" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="182" font-size="11" fill="#52514e">食料品の消費税率</text>
+  <text x="44" y="220" font-size="26" font-weight="700" fill="#d03b3b">8%→1%</text>
+  <text x="44" y="240" font-size="10" fill="#898781">2年間限定</text>
+
+  <rect x="254" y="160" width="210" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="270" y="182" font-size="11" fill="#52514e">残り1%は現金給付</text>
+  <text x="270" y="220" font-size="26" font-weight="700" fill="#2a78d6">年6,000億円</text>
+  <text x="270" y="240" font-size="10" fill="#898781">中低所得者向け・実質ゼロ化</text>
+
+  <rect x="480" y="160" width="212" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="496" y="182" font-size="11" fill="#52514e">前回税率引き下げ</text>
+  <text x="496" y="220" font-size="26" font-weight="700" fill="#0b0b0b">なし</text>
+  <text x="496" y="240" font-size="10" fill="#898781">1989年の消費税導入以来37年間</text>
+
+  <rect x="28" y="266" width="664" height="40" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="290" font-size="12" fill="#52514e">残る論点：財源は赤字国債に頼らない方針だが税収減の穴埋め策は不透明。レジ改修等の事業者対応も2027年4月まで時間が限られる</text>
+</svg>

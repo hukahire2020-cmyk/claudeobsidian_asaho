@@ -1,0 +1,33 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">Anthropic「Claude Tag」、Slackへの全面移行完了（8/3）</text>
+
+  <g font-size="12" text-anchor="middle">
+    <rect x="28" y="54" width="200" height="52" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="128" y="76" font-weight="700" fill="#0b0b0b">6/23</text>
+    <text x="128" y="94" font-size="10.5" fill="#52514e">Claude Tagを発表、30日間の移行猶予開始</text>
+
+    <rect x="260" y="54" width="200" height="52" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+    <text x="360" y="76" font-weight="700" fill="#2a78d6">8/3</text>
+    <text x="360" y="94" font-size="10.5" fill="#52514e">旧「Claude in Slack」廃止、全面移行完了</text>
+
+    <rect x="492" y="54" width="200" height="52" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="592" y="76" font-weight="700" fill="#0b0b0b">個人課金→組織課金</text>
+    <text x="592" y="94" font-size="10.5" fill="#52514e">チーム単位で同一インスタンス共有</text>
+  </g>
+  <path d="M228 80 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
+  <path d="M460 80 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
+
+  <rect x="28" y="126" width="330" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="193" y="148" font-size="12" fill="#52514e" text-anchor="middle">社内コード生成比率（Anthropic自社）</text>
+  <text x="193" y="188" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">65%</text>
+  <text x="193" y="208" font-size="10.5" fill="#898781" text-anchor="middle">製品チームのコードのうちClaude Tag経由</text>
+
+  <rect x="374" y="126" width="318" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="533" y="148" font-size="12" fill="#52514e" text-anchor="middle">基盤モデル</text>
+  <text x="533" y="185" font-size="20" font-weight="700" fill="#2a78d6" text-anchor="middle">Claude Opus 4.8</text>
+  <text x="533" y="208" font-size="10.5" fill="#898781" text-anchor="middle">2026年5月発表モデルを採用</text>
+
+  <rect x="28" y="228" width="664" height="24" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="244" font-size="10.5" fill="#898781">出典: Anthropic公式（anthropic.com/news、2026/6/23発表・8/3移行完了）</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">EU AI Act、8月2日に高リスク規制が本格適用——日本企業も対象</text>
+
+  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">本格適用開始日</text>
+  <text x="130" y="122" font-size="26" font-weight="700" fill="#d03b3b" text-anchor="middle">2026/8/2</text>
+  <text x="130" y="144" font-size="10.5" fill="#898781" text-anchor="middle">高リスクAIシステムの義務規定</text>
+
+  <rect x="245" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="347" y="82" font-size="12" fill="#52514e" text-anchor="middle">最大制裁金</text>
+  <text x="347" y="122" font-size="24" font-weight="700" fill="#d03b3b" text-anchor="middle">世界売上7%</text>
+  <text x="347" y="144" font-size="10.5" fill="#898781" text-anchor="middle">または3,500万ユーロ</text>
+
+  <rect x="462" y="58" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="577" y="82" font-size="12" fill="#52514e" text-anchor="middle">適用対象</text>
+  <text x="577" y="122" font-size="18" font-weight="700" fill="#2a78d6" text-anchor="middle">域外の日本企業も</text>
+  <text x="577" y="144" font-size="10.5" fill="#898781" text-anchor="middle">出力がEU域内で使われれば対象</text>
+
+  <text x="28" y="188" font-size="13" font-weight="700" fill="#0b0b0b">高リスク分野ごとの適用スケジュール（Digital Omnibus合意）</text>
+  <g font-size="11" text-anchor="middle">
+    <rect x="28" y="200" width="215" height="42" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+    <text x="135" y="219" font-weight="700" fill="#2a78d6">2026/8/2</text>
+    <text x="135" y="235" font-size="10" fill="#52514e">適合性評価・登録・人間の監督 等</text>
+    <rect x="253" y="200" width="215" height="42" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="360" y="219" font-weight="700" fill="#0b0b0b">2027/12</text>
+    <text x="360" y="235" font-size="10" fill="#52514e">採用・与信・教育等スタンドアロン型</text>
+    <rect x="478" y="200" width="214" height="42" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="585" y="219" font-weight="700" fill="#0b0b0b">2028/8</text>
+    <text x="585" y="235" font-size="10" fill="#52514e">規制製品組込型AI（Annex I）</text>
+  </g>
+
+  <rect x="28" y="256" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="275" font-size="10.5" fill="#898781">出典: 欧州委員会（digital-strategy.ec.europa.eu）、EU理事会（2026年5月Digital Omnibus合意）</text>
+</svg>

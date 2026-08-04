@@ -1,0 +1,23 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">韓国Baba Fashion：アパレル物流「最後の聖域」をAI搬送ロボが攻略</text>
+
+  <rect x="28" y="58" width="200" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="82" font-size="11" fill="#52514e">仕分け能力</text>
+  <text x="44" y="122" font-size="28" font-weight="700" fill="#2a78d6">3,500着/時</text>
+  <text x="44" y="142" font-size="10" fill="#898781">手作業の約4倍</text>
+
+  <rect x="248" y="58" width="200" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="264" y="82" font-size="11" fill="#52514e">1日の処理量</text>
+  <text x="264" y="122" font-size="28" font-weight="700" fill="#2a78d6">20,000点</text>
+  <text x="264" y="142" font-size="10" fill="#898781">驪州（ヨジュ）物流センター</text>
+
+  <rect x="468" y="58" width="224" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="484" y="82" font-size="11" fill="#52514e">配送先</text>
+  <text x="484" y="122" font-size="28" font-weight="700" fill="#2a78d6">437店舗</text>
+  <text x="484" y="142" font-size="10" fill="#898781">人手を介さず自動振り分け</text>
+
+  <rect x="28" y="188" width="664" height="52" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="210" font-size="11" fill="#52514e">Cotek Electronics社と自律型搬送ロボ「AAGV」を共同開発。SLAM技術で自己位置を把握しながら移動</text>
+  <text x="44" y="228" font-size="11" fill="#898781">△原典（Seoul Economic Daily等）に基づく報道。数値はBaba Fashion公式での確認を推奨</text>
+</svg>
