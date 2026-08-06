@@ -1,0 +1,24 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">営業AI: 米Gong調査「AI活用チームは営業1人あたり収益+77%」（2025/12発表）</text>
+
+  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">営業1人あたり収益</text>
+  <text x="130" y="124" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">+77%</text>
+  <text x="130" y="144" font-size="10.5" fill="#898781" text-anchor="middle">AI活用チーム vs 非活用</text>
+
+  <rect x="245" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="347" y="82" font-size="12" fill="#52514e" text-anchor="middle">調査対象の商談件数</text>
+  <text x="347" y="124" font-size="24" font-weight="700" fill="#2a78d6" text-anchor="middle">710万件</text>
+  <text x="347" y="144" font-size="10.5" fill="#898781" text-anchor="middle">3,600社超が対象</text>
+
+  <rect x="462" y="58" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="577" y="82" font-size="12" fill="#52514e" text-anchor="middle">AIを意思決定に信頼する幹部</text>
+  <text x="577" y="124" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">7割</text>
+  <text x="577" y="144" font-size="10.5" fill="#898781" text-anchor="middle">3,048人の営業幹部調査</text>
+
+  <text x="28" y="188" font-size="12.5" fill="#0b0b0b">📍 商談記録の自動化にとどまらず、営業チームの成果そのものにAIが差をつけ始めている段階。</text>
+
+  <rect x="28" y="216" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="235" font-size="11" fill="#898781">出典: ★Gong公式プレスリリース（gong.io/press, 2025/12/4「State of Revenue AI」）</text>
+</svg>

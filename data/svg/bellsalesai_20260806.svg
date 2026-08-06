@@ -1,0 +1,22 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">工作機械（中村留精密工業）: bellSalesAI導入で商談記録が80%時短（2026/7/22発表）</text>
+
+  <rect x="28" y="58" width="330" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="193" y="82" font-size="12" fill="#52514e" text-anchor="middle">1案件あたりの入力時間</text>
+  <text x="120" y="132" font-size="26" font-weight="700" fill="#898781" text-anchor="middle">30分</text>
+  <text x="185" y="132" font-size="20" fill="#c3c2b7" text-anchor="middle">→</text>
+  <text x="255" y="132" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">5分</text>
+  <text x="193" y="156" font-size="12" fill="#d03b3b" text-anchor="middle" font-weight="700">約80%削減</text>
+
+  <rect x="368" y="58" width="324" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="530" y="82" font-size="12" fill="#52514e" text-anchor="middle">副次効果</text>
+  <text x="530" y="122" font-size="16" font-weight="700" fill="#2a78d6" text-anchor="middle">未定着だった担当者も</text>
+  <text x="530" y="146" font-size="16" font-weight="700" fill="#2a78d6" text-anchor="middle">自然に入力を開始</text>
+
+  <text x="28" y="200" font-size="12.5" fill="#0b0b0b">🕰 Salesforce導入から3年経過も「入力タイミングの遅れ」「記録の粒度ばらつき」が課題だった。</text>
+  <text x="28" y="220" font-size="12.5" fill="#0b0b0b">📍 商談の会話データをAIが自動で構造化しSalesforceへ登録。マネジメントのフィードバックも具体化。</text>
+
+  <rect x="28" y="238" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="257" font-size="11" fill="#898781">出典: ★ベルフェイス公式（atpress.ne.jp, 2026/7/22）</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">ココナラ for Claude — 役務提供プラットフォームで日本初のClaude公式連携（2026/8/5）</text>
+
+  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">対応カテゴリ数</text>
+  <text x="130" y="124" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">760超</text>
+  <text x="130" y="144" font-size="10.5" fill="#898781" text-anchor="middle">職種・スキル領域</text>
+
+  <rect x="245" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="347" y="82" font-size="12" fill="#52514e" text-anchor="middle">累積サービス出品数</text>
+  <text x="347" y="124" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">100万件超</text>
+  <text x="347" y="144" font-size="10.5" fill="#898781" text-anchor="middle">Claude画面から検索・発注可能</text>
+
+  <rect x="462" y="58" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="577" y="82" font-size="12" fill="#52514e" text-anchor="middle">対応順</text>
+  <text x="577" y="124" font-size="18" font-weight="700" fill="#2a78d6" text-anchor="middle">ChatGPTに続き2例目</text>
+  <text x="577" y="144" font-size="10.5" fill="#898781" text-anchor="middle">役務提供プラットフォームでは国内初</text>
+
+  <text x="28" y="188" font-size="12.5" fill="#0b0b0b">📍 会話画面を離れずAIが予算・目的に合うサービスを抽出、出品者の実績も踏まえて提案する仕組み。</text>
+
+  <rect x="28" y="216" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="235" font-size="11" fill="#898781">出典: ★ココナラ公式（PR TIMES, 2026/8/5）</text>
+</svg>

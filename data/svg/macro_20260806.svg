@@ -1,0 +1,36 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">国際政治×マクロ経済（8/5時点）— 中東緊張緩和が株高・原油安に波及</text>
+
+  <g font-size="12" text-anchor="middle" font-weight="700">
+    <rect x="28" y="56" width="150" height="46" rx="8" fill="#fcfcfb" stroke="#d03b3b" stroke-width="1.5"/>
+    <text x="103" y="83" fill="#d03b3b">米・イラン協議進展</text>
+    <rect x="196" y="56" width="150" height="46" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="271" y="83" fill="#0b0b0b">原油急落</text>
+    <rect x="364" y="56" width="150" height="46" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="439" y="83" fill="#0b0b0b">リスクオン</text>
+    <rect x="532" y="56" width="160" height="46" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+    <text x="612" y="83" fill="#2a78d6">日経急伸・円安</text>
+  </g>
+  <path d="M178 79 h18 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="2" fill="none"/>
+  <path d="M346 79 h18 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="2" fill="none"/>
+  <path d="M514 79 h18 m-6 -5 6 5 -6 5" stroke="#898781" stroke-width="2" fill="none"/>
+
+  <rect x="28" y="120" width="205" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="140" font-size="11.5" fill="#52514e" text-anchor="middle">日経平均（8/5終値）</text>
+  <text x="130" y="172" font-size="20" font-weight="700" fill="#2a78d6" text-anchor="middle">66,300.44円</text>
+  <text x="130" y="190" font-size="10.5" fill="#898781" text-anchor="middle">前日比+2,342.91円(+3.66%)</text>
+
+  <rect x="245" y="120" width="205" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="347" y="140" font-size="11.5" fill="#52514e" text-anchor="middle">ドル円（8/5）</text>
+  <text x="347" y="172" font-size="20" font-weight="700" fill="#2a78d6" text-anchor="middle">157円台後半</text>
+  <text x="347" y="190" font-size="10.5" fill="#898781" text-anchor="middle">円安方向で推移</text>
+
+  <rect x="462" y="120" width="230" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="577" y="140" font-size="11.5" fill="#52514e" text-anchor="middle">ドバイ原油（中心限月）</text>
+  <text x="577" y="172" font-size="20" font-weight="700" fill="#d03b3b" text-anchor="middle">68,980円</text>
+  <text x="577" y="190" font-size="10.5" fill="#898781" text-anchor="middle">前日比2,450円安</text>
+
+  <rect x="28" y="212" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="231" font-size="11" fill="#898781">出典: 株探（8/5）・外為どっとコム（8/5）・Yahoo!ファイナンス（8/5）</text>
+</svg>

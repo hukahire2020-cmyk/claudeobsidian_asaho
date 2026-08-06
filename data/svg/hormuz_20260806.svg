@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">米・イラン、ホルムズ海峡合意が目前 — 一方で紅海はなお緊迫</text>
+
+  <line x1="50" y1="80" x2="670" y2="80" stroke="#c3c2b7" stroke-width="2"/>
+  <g font-size="11" text-anchor="middle">
+    <circle cx="70" cy="80" r="6" fill="#d03b3b"/>
+    <text x="70" y="66" fill="#52514e">2/28</text>
+    <text x="70" y="102" fill="#0b0b0b">米・イスラエル</text>
+    <text x="70" y="116" fill="#0b0b0b">がイラン攻撃</text>
+
+    <circle cx="220" cy="80" r="6" fill="#d03b3b"/>
+    <text x="220" y="66" fill="#52514e">6/15</text>
+    <text x="220" y="102" fill="#0b0b0b">戦闘終結の</text>
+    <text x="220" y="116" fill="#0b0b0b">覚書に合意</text>
+
+    <circle cx="360" cy="80" r="6" fill="#d03b3b"/>
+    <text x="360" y="66" fill="#52514e">7/22-23</text>
+    <text x="360" y="102" fill="#0b0b0b">フーシ派が</text>
+    <text x="360" y="116" fill="#0b0b0b">サウジタンカー攻撃</text>
+
+    <circle cx="500" cy="80" r="6" fill="#d03b3b"/>
+    <text x="500" y="66" fill="#52514e">8/4</text>
+    <text x="500" y="102" fill="#0b0b0b">紅海でインド</text>
+    <text x="500" y="116" fill="#0b0b0b">商船が沈没</text>
+
+    <circle cx="650" cy="80" r="7" fill="#2a78d6"/>
+    <text x="650" y="66" fill="#2a78d6" font-weight="700">8/4-5</text>
+    <text x="650" y="102" fill="#0b0b0b" font-weight="700">ベッセント長官</text>
+    <text x="650" y="116" fill="#0b0b0b" font-weight="700">「合意間近」</text>
+  </g>
+
+  <rect x="28" y="150" width="330" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="193" y="174" font-size="12" fill="#52514e" text-anchor="middle">ドバイ原油（中心限月・8/5）</text>
+  <text x="193" y="216" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">68,980円</text>
+  <text x="193" y="238" font-size="11" fill="#898781" text-anchor="middle">前日比 2,450円安（地政学リスク後退）</text>
+
+  <rect x="368" y="150" width="324" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="530" y="174" font-size="12" fill="#52514e" text-anchor="middle">紅海の位置づけ</text>
+  <text x="530" y="216" font-size="22" font-weight="700" fill="#d03b3b" text-anchor="middle">外交は前進、現場は攻撃継続</text>
+  <text x="530" y="238" font-size="11" fill="#898781" text-anchor="middle">インド船員13人含む全員救助</text>
+
+  <text x="28" y="278" font-size="12.5" fill="#0b0b0b">📍 ベッセント米財務長官が8/4、CNBCで「今日か明日にも合意」と発言。ホルムズ海峡の航行自由化を巡る協議が最終局面。</text>
+  <rect x="28" y="298" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="317" font-size="11" fill="#898781">出典: 時事通信・Yahoo!ニュース（FNN, 8/5）・日本経済新聞（8/5）・Yahoo!ファイナンス（8/5）</text>
+</svg>
