@@ -1,0 +1,19 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">JDLA「C認証」——AIガバナンス第三者認証が8/4運用開始</text>
+
+  <rect x="28" y="60" width="200" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="128" y="86" font-size="12" fill="#52514e" text-anchor="middle">先行認証取得企業</text>
+  <text x="128" y="140" font-size="40" font-weight="700" fill="#008300" text-anchor="middle">9社</text>
+  <text x="128" y="164" font-size="11" fill="#898781" text-anchor="middle">運用開始と同時に取得済み</text>
+
+  <rect x="240" y="60" width="452" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="466" y="86" font-size="12" fill="#52514e" text-anchor="middle">先行取得企業（一部）</text>
+  <text x="260" y="114" font-size="12.5" fill="#0b0b0b">ABEJA　富士ソフト　Elith　ステッチ</text>
+  <text x="260" y="140" font-size="12.5" fill="#0b0b0b">Algomatic　経営共創基盤　キカガク</text>
+  <text x="260" y="166" font-size="12.5" fill="#0b0b0b">EY新日本有限責任監査法人　Rosso</text>
+
+  <text x="28" y="222" font-size="12.5" fill="#0b0b0b">📍 企業・自治体のAIガバナンス体制を客観評価する、国内初の第三者認証制度。</text>
+  <rect x="28" y="240" width="664" height="24" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="256" font-size="11" fill="#898781">出典: JDLA公式（8/4）</text>
+</svg>

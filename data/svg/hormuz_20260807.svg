@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">ホルムズ海峡、イラン・オマーンが新航路で合意</text>
+
+  <line x1="50" y1="80" x2="670" y2="80" stroke="#c3c2b7" stroke-width="2"/>
+  <g font-size="11" text-anchor="middle">
+    <circle cx="70" cy="80" r="6" fill="#d03b3b"/>
+    <text x="70" y="66" fill="#52514e">2/28</text>
+    <text x="70" y="102" fill="#0b0b0b">米・イスラエル</text>
+    <text x="70" y="116" fill="#0b0b0b">がイラン攻撃</text>
+
+    <circle cx="220" cy="80" r="6" fill="#d03b3b"/>
+    <text x="220" y="66" fill="#52514e">7/22-23</text>
+    <text x="220" y="102" fill="#0b0b0b">フーシ派が</text>
+    <text x="220" y="116" fill="#0b0b0b">サウジタンカー攻撃</text>
+
+    <circle cx="370" cy="80" r="6" fill="#52514e"/>
+    <text x="370" y="66" fill="#52514e">8/4</text>
+    <text x="370" y="102" fill="#0b0b0b">ベッセント長官</text>
+    <text x="370" y="116" fill="#0b0b0b">「合意間近」発言</text>
+
+    <circle cx="520" cy="80" r="7" fill="#2a78d6"/>
+    <text x="520" y="66" fill="#2a78d6" font-weight="700">8/5</text>
+    <text x="520" y="102" fill="#0b0b0b" font-weight="700">イラン・オマーン</text>
+    <text x="520" y="116" fill="#0b0b0b" font-weight="700">緯度経度で合意</text>
+
+    <circle cx="650" cy="80" r="6" fill="#898781"/>
+    <text x="650" y="66" fill="#52514e">8/6</text>
+    <text x="650" y="102" fill="#0b0b0b">米国の受け入れ</text>
+    <text x="650" y="116" fill="#0b0b0b">はなお不透明</text>
+  </g>
+
+  <rect x="28" y="150" width="330" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="193" y="174" font-size="12" fill="#52514e" text-anchor="middle">新航路の構想</text>
+  <text x="193" y="212" font-size="19" font-weight="700" fill="#2a78d6" text-anchor="middle">北側＝イラン入口</text>
+  <text x="193" y="234" font-size="19" font-weight="700" fill="#2a78d6" text-anchor="middle">南側＝オマーン出口</text>
+
+  <rect x="368" y="150" width="324" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="530" y="174" font-size="12" fill="#52514e" text-anchor="middle">試験運用の想定期間</text>
+  <text x="530" y="216" font-size="28" font-weight="700" fill="#0b0b0b" text-anchor="middle">2〜4カ月</text>
+  <text x="530" y="238" font-size="11" fill="#898781" text-anchor="middle">管理権はイランが維持</text>
+
+  <text x="28" y="278" font-size="12.5" fill="#0b0b0b">📍 イラン外務省が8/5・8/6の2日連続で航路合意を発表。ただし米国の受諾表明は無く、正式開放の見通しは立っていない。</text>
+  <rect x="28" y="298" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="317" font-size="11" fill="#898781">出典: 日本経済新聞（8/5・8/6）・NHKニュース（8/6）</text>
+</svg>

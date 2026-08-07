@@ -1,0 +1,43 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="36" font-size="15" font-weight="700" fill="#0b0b0b">今日の因果チェーン</text>
+
+  <g font-size="12" text-anchor="middle">
+    <rect x="24" y="56" width="150" height="56" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="99" y="80" fill="#d03b3b" font-weight="700">SOX -20.6%</text>
+    <text x="99" y="98" fill="#0b0b0b">AI・半導体株安（7月）</text>
+
+    <text x="192" y="90" fill="#898781" font-size="18">→</text>
+
+    <rect x="206" y="56" width="150" height="56" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="281" y="80" fill="#d03b3b" font-weight="700">日経平均 -617円</text>
+    <text x="281" y="98" fill="#0b0b0b">日本株にも波及（8/6）</text>
+
+    <text x="374" y="90" fill="#898781" font-size="18">→</text>
+
+    <rect x="388" y="56" width="150" height="56" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="463" y="80" fill="#2a78d6" font-weight="700">ホルムズ海峡合意</text>
+    <text x="463" y="98" fill="#0b0b0b">原油に下押し要因</text>
+
+    <text x="556" y="90" fill="#898781" font-size="18">→</text>
+
+    <rect x="570" y="56" width="122" height="56" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="631" y="80" fill="#0b0b0b" font-weight="700">9月に日程集中</text>
+    <text x="631" y="98" fill="#0b0b0b">FOMC・日銀会合</text>
+  </g>
+
+  <rect x="24" y="130" width="200" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="124" y="152" font-size="12" fill="#52514e" text-anchor="middle">ドル円（8/6 15時）</text>
+  <text x="124" y="182" font-size="22" font-weight="700" fill="#0b0b0b" text-anchor="middle">157.83円</text>
+
+  <rect x="240" y="130" width="200" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="340" y="152" font-size="12" fill="#52514e" text-anchor="middle">次回FOMC / 日銀会合</text>
+  <text x="340" y="180" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">9/15-16 ／ 9/17-18</text>
+
+  <rect x="456" y="130" width="236" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="574" y="152" font-size="12" fill="#52514e" text-anchor="middle">8月の位置づけ</text>
+  <text x="574" y="180" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">主要中銀会合の谷間</text>
+
+  <rect x="24" y="214" width="668" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="38" y="233" font-size="11" fill="#898781">出典: 日本経済新聞（8/6）・The Register（8/4）</text>
+</svg>

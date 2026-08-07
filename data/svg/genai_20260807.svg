@@ -1,0 +1,32 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">株価は調整、しかし設備投資は上方修正——クラウド大手のcapex</text>
+
+  <text x="28" y="70" font-size="12.5" font-weight="700" fill="#52514e">2026年通期 設備投資（capex）見通しの上方修正</text>
+
+  <text x="28" y="98" font-size="12" fill="#0b0b0b">Amazon（AWS）</text>
+  <rect x="150" y="86" width="182" height="18" rx="4" fill="#e1e0d9"/>
+  <text x="240" y="99" font-size="10.5" fill="#52514e" text-anchor="middle">従来 2,000億ドル</text>
+  <rect x="150" y="108" width="200" height="18" rx="4" fill="#2a78d6"/>
+  <text x="250" y="121" font-size="10.5" fill="#fff" text-anchor="middle" font-weight="700">2,200億ドルへ上方修正</text>
+
+  <text x="28" y="160" font-size="12" fill="#0b0b0b">Google / Alphabet</text>
+  <rect x="150" y="148" width="171" height="18" rx="4" fill="#e1e0d9"/>
+  <text x="235" y="161" font-size="10.5" fill="#52514e" text-anchor="middle">従来 1,800-1,900億ドル</text>
+  <rect x="150" y="170" width="186" height="18" rx="4" fill="#2a78d6"/>
+  <text x="243" y="183" font-size="10.5" fill="#fff" text-anchor="middle" font-weight="700">1,950-2,050億ドルへ</text>
+
+  <text x="28" y="222" font-size="12" fill="#0b0b0b">Microsoft</text>
+  <rect x="150" y="210" width="163" height="18" rx="4" fill="#2a78d6"/>
+  <text x="231" y="223" font-size="10.5" fill="#fff" text-anchor="middle" font-weight="700">2026暦年 約1,750億ドル</text>
+
+  <rect x="452" y="86" width="240" height="142" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="572" y="112" font-size="12" fill="#52514e" text-anchor="middle">3社合計（会計基準は異なる）</text>
+  <text x="572" y="160" font-size="24" font-weight="700" fill="#008300" text-anchor="middle">約5,900億〜</text>
+  <text x="572" y="188" font-size="24" font-weight="700" fill="#008300" text-anchor="middle">6,000億ドル</text>
+  <text x="572" y="212" font-size="10.5" fill="#898781" text-anchor="middle">2026年通期見通し（8/4時点）</text>
+
+  <text x="28" y="264" font-size="12.5" fill="#0b0b0b">📍 AI関連株の急落（前掲①②）とは裏腹に、インフラ投資の実額はむしろ拡大している。</text>
+  <rect x="28" y="284" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="303" font-size="11" fill="#898781">出典: The Register（8/4）</text>
+</svg>
