@@ -1,0 +1,26 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">EU AI Act：8/2施行の裏で高リスク規制は2027年末へ延期</text>
+
+  <line x1="60" y1="90" x2="660" y2="90" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="110" cy="90" r="6" fill="#898781"/>
+  <circle cx="330" cy="90" r="6" fill="#2a78d6"/>
+  <circle cx="610" cy="90" r="6" fill="#d03b3b"/>
+
+  <text x="110" y="70" font-size="12" fill="#52514e" text-anchor="middle">2025年8月2日</text>
+  <text x="110" y="115" font-size="12" fill="#0b0b0b" text-anchor="middle">GPAI義務</text>
+  <text x="110" y="131" font-size="12" fill="#0b0b0b" text-anchor="middle">（透明性等）開始</text>
+
+  <text x="330" y="70" font-size="12" fill="#52514e" text-anchor="middle">2026年8月2日</text>
+  <text x="330" y="115" font-size="12" fill="#0b0b0b" text-anchor="middle">執行・監視が本格化</text>
+  <text x="330" y="131" font-size="12" fill="#0b0b0b" text-anchor="middle">罰則: 最大1500万€/売上3%</text>
+
+  <text x="610" y="70" font-size="12" fill="#d03b3b" text-anchor="middle" font-weight="700">2027年12月2日</text>
+  <text x="610" y="115" font-size="12" fill="#0b0b0b" text-anchor="middle">高リスクAI規制</text>
+  <text x="610" y="131" font-size="12" fill="#0b0b0b" text-anchor="middle">（延期後の新期限）</text>
+
+  <rect x="60" y="175" width="600" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="80" y="205" font-size="13" fill="#0b0b0b">高リスクAI（Annex III・単体型）義務は当初2026/8/2予定 →「Digital Omnibus」の</text>
+  <text x="80" y="228" font-size="13" fill="#0b0b0b">審議で2027/12/2へ延期。製品組込み型（Annex I）も2027/8/2→2028/8/2へ延期。</text>
+  <text x="80" y="251" font-size="12.5" fill="#52514e">理由: 調和標準・ガイダンスの整備遅れ</text>
+</svg>

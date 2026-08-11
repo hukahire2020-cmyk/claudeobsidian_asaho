@@ -1,0 +1,22 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">OpenAI「Astra」がPreparedness Framework史上初のCritical圏に</text>
+
+  <!-- funnel of 4 levels -->
+  <g font-size="13" fill="#0b0b0b">
+    <rect x="60" y="65" width="600" height="42" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="80" y="91" fill="#898781">Low（低）</text>
+
+    <rect x="90" y="112" width="540" height="42" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="110" y="138" fill="#898781">Medium（中）</text>
+
+    <rect x="120" y="159" width="480" height="42" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="140" y="185" fill="#52514e">High（高）</text>
+
+    <rect x="150" y="206" width="420" height="46" fill="#fbe9e9" stroke="#d03b3b" stroke-width="2"/>
+    <text x="170" y="234" fill="#d03b3b" font-weight="700">Critical（重大）← Astraが「排除できない」水準</text>
+  </g>
+
+  <text x="60" y="285" font-size="12.5" fill="#52514e">Critical＝十分に防御された実世界の重要システムに、AIが人間の介入なしにゼロデイ脆弱性を</text>
+  <text x="60" y="303" font-size="12.5" fill="#52514e">特定し、機能する攻撃手法を開発できる水準。2023年策定のフレームワークで初の該当。</text>
+</svg>

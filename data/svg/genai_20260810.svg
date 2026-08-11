@@ -1,0 +1,21 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">Google DeepMindが体制刷新——ハサビス氏がCEOを退任</text>
+
+  <rect x="60" y="60" width="280" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="200" y="88" font-size="13" fill="#898781" text-anchor="middle">これまで</text>
+  <text x="200" y="112" font-size="14.5" fill="#0b0b0b" text-anchor="middle" font-weight="700">デミス・ハサビス氏</text>
+  <text x="200" y="132" font-size="12.5" fill="#52514e" text-anchor="middle">Google DeepMind CEO</text>
+
+  <text x="380" y="112" font-size="20" fill="#898781" text-anchor="middle">→</text>
+
+  <rect x="400" y="60" width="280" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="540" y="82" font-size="13" fill="#898781" text-anchor="middle">2026年8月〜</text>
+  <text x="540" y="104" font-size="13.5" fill="#0b0b0b" text-anchor="middle" font-weight="700">ハサビス氏: 会長 ／ Alphabetチーフサイエンティスト</text>
+  <text x="540" y="126" font-size="13.5" fill="#0b0b0b" text-anchor="middle" font-weight="700">カヴクチュオール氏が日常運営を統括</text>
+
+  <rect x="60" y="180" width="620" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="80" y="208" font-size="13" fill="#0b0b0b">DeepMindのチーフサイエンティスト、ジェフ・ディーン氏も27年在籍の同社を退社。</text>
+  <text x="80" y="231" font-size="13" fill="#0b0b0b">ロンドンのコーディング関連チームは米マウンテンビューへ移管。</text>
+  <text x="80" y="254" font-size="12.5" fill="#52514e">研究重視からGemini商用化・収益化を重視する体制へ、権限がカリフォルニアに集約。</text>
+</svg>

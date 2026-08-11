@@ -1,0 +1,16 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">米大手銀行も：Bank of America「Erica」が10年で累計32億回対応</text>
+
+  <rect x="40" y="60" width="290" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="185" y="105" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">2,060万人</text>
+  <text x="185" y="128" font-size="12.5" fill="#52514e" text-anchor="middle">2025年にEricaを利用した顧客数</text>
+
+  <rect x="350" y="60" width="330" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="515" y="105" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">年間約7億回</text>
+  <text x="515" y="128" font-size="12.5" fill="#52514e" text-anchor="middle">2025年の対話件数（累計32億回・2018年開始）</text>
+
+  <text x="40" y="205" font-size="13" fill="#0b0b0b">銀行のAIアシスタントは「問い合わせ対応」の実験段階を過ぎ、日常利用インフラとして</text>
+  <text x="40" y="228" font-size="13" fill="#0b0b0b">定着した規模に到達している。</text>
+  <text x="40" y="260" font-size="12" fill="#898781">出典: Bank of America公式プレスリリース（2026/3/10）</text>
+</svg>

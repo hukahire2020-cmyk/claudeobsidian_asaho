@@ -1,0 +1,39 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">米雇用ショックと中東緊迫が綱引き——ドル円は156円台から158円台へ</text>
+
+  <!-- causal chain boxes -->
+  <g font-size="12.5" fill="#0b0b0b">
+    <rect x="30" y="60" width="150" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="105" y="85" text-anchor="middle">米7月雇用者数</text>
+    <text x="105" y="103" text-anchor="middle" fill="#d03b3b" font-weight="700">▲2.3万人</text>
+
+    <text x="192" y="95" text-anchor="middle" fill="#898781" font-size="16">→</text>
+
+    <rect x="212" y="60" width="150" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="287" y="85" text-anchor="middle">9月FOMC利下げ</text>
+    <text x="287" y="103" text-anchor="middle">観測が強まる</text>
+
+    <text x="374" y="95" text-anchor="middle" fill="#898781" font-size="16">→</text>
+
+    <rect x="394" y="60" width="150" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="469" y="85" text-anchor="middle">ドル円は一時</text>
+    <text x="469" y="103" text-anchor="middle" fill="#2a78d6" font-weight="700">156.6円まで下落</text>
+
+    <text x="556" y="95" text-anchor="middle" fill="#898781" font-size="16">→</text>
+
+    <rect x="576" y="60" width="115" height="60" rx="8" fill="#fbe9e9" stroke="#d03b3b"/>
+    <text x="633" y="85" text-anchor="middle" fill="#d03b3b">中東(紅海)</text>
+    <text x="633" y="103" text-anchor="middle" fill="#d03b3b">緊迫再燃</text>
+  </g>
+
+  <text x="105" y="160" font-size="13" fill="#0b0b0b" text-anchor="middle">↓ リスク回避のドル買い戻し</text>
+
+  <rect x="60" y="180" width="600" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="80" y="205" font-size="13" fill="#0b0b0b">ドル円は158円台まで急反発（10日仲値157.98円）。日経平均は8/7終値</text>
+  <text x="80" y="228" font-size="13" fill="#0b0b0b">65,606.71円（前日比76円安）。7/29のFOMCは3.50〜3.75%据え置き（3人が利上げ主張）。</text>
+
+  <rect x="60" y="255" width="600" height="50" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="80" y="285" font-size="13" fill="#0b0b0b" font-weight="700">役員と話すときの要点: 「雇用は明確に減速したが、中東のリスクプレミアムが</text>
+  <text x="80" y="303" font-size="12.5" fill="#52514e">ドル安を打ち消している。金利だけ見ると為替の動きを読み違える局面」</text>
+</svg>

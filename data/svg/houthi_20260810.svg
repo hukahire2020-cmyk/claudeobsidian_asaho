@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">紅海地域でフーシ派が二正面攻撃（8/8〜8/9）</text>
+
+  <!-- timeline -->
+  <line x1="60" y1="90" x2="660" y2="90" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="150" cy="90" r="6" fill="#d03b3b"/>
+  <circle cx="420" cy="90" r="6" fill="#d03b3b"/>
+
+  <text x="150" y="70" font-size="12" fill="#52514e" text-anchor="middle">8月8日</text>
+  <text x="150" y="115" font-size="12.5" fill="#0b0b0b" text-anchor="middle">サウジアラムコ</text>
+  <text x="150" y="132" font-size="12.5" fill="#0b0b0b" text-anchor="middle">ジザン製油施設を</text>
+  <text x="150" y="149" font-size="12.5" fill="#0b0b0b" text-anchor="middle">無人機で攻撃</text>
+
+  <text x="420" y="70" font-size="12" fill="#52514e" text-anchor="middle">8月9日</text>
+  <text x="420" y="115" font-size="12.5" fill="#0b0b0b" text-anchor="middle">モカ港のサウジ軍</text>
+  <text x="420" y="132" font-size="12.5" fill="#0b0b0b" text-anchor="middle">部隊をミサイル・</text>
+  <text x="420" y="149" font-size="12.5" fill="#0b0b0b" text-anchor="middle">ドローンで攻撃</text>
+
+  <!-- stat tiles -->
+  <rect x="60" y="185" width="270" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="195" y="222" font-size="30" font-weight="700" fill="#d03b3b" text-anchor="middle">11人</text>
+  <text x="195" y="245" font-size="12.5" fill="#52514e" text-anchor="middle">死亡（市民3人・軍人8人）モカ港攻撃</text>
+
+  <rect x="390" y="185" width="270" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="525" y="222" font-size="19" font-weight="700" fill="#0b0b0b" text-anchor="middle">「精密攻撃は成功」</text>
+  <text x="525" y="245" font-size="12.5" fill="#52514e" text-anchor="middle">フーシ派報道官が製油施設攻撃を認める</text>
+</svg>

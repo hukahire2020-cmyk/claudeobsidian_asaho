@@ -1,0 +1,23 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">横浜銀行：地銀初のAIエージェント型ボイスボット導入</text>
+
+  <rect x="40" y="60" width="195" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="137" y="105" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">月1,600件</text>
+  <text x="137" y="128" font-size="12.5" fill="#52514e" text-anchor="middle">繁忙期の証明書発行</text>
+  <text x="137" y="145" font-size="12.5" fill="#52514e" text-anchor="middle">電話受付件数</text>
+
+  <rect x="262" y="60" width="195" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="359" y="105" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">約9割</text>
+  <text x="359" y="128" font-size="12.5" fill="#52514e" text-anchor="middle">住宅ローン証明書等の</text>
+  <text x="359" y="145" font-size="12.5" fill="#52514e" text-anchor="middle">自動受付完了率</text>
+
+  <rect x="484" y="60" width="196" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="582" y="105" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">年445時間</text>
+  <text x="582" y="128" font-size="12.5" fill="#52514e" text-anchor="middle">電話応対＋郵送作業の</text>
+  <text x="582" y="145" font-size="12.5" fill="#52514e" text-anchor="middle">削減見込み</text>
+
+  <text x="40" y="205" font-size="13" fill="#0b0b0b">2025年10月運用開始 → 2026年5月時点で対応証明書6種類に拡大</text>
+  <text x="40" y="228" font-size="13" fill="#0b0b0b">証明書の発送も「数日〜1週間」→ 最短当日に短縮</text>
+  <text x="40" y="260" font-size="12" fill="#898781">出典: モビルス公式プレスリリース（2025/11/7・2026/5/22）</text>
+</svg>

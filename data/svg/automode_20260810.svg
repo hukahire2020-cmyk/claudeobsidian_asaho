@@ -1,0 +1,18 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">危険コマンドの捕捉率：人間の逐次承認 vs Claude CodeのAuto Mode</text>
+
+  <!-- horizontal bars -->
+  <text x="60" y="100" font-size="13" fill="#0b0b0b">人間の承認（1,053名でテスト）</text>
+  <rect x="60" y="110" width="600" height="28" fill="#f0efec" stroke="#e1e0d9"/>
+  <rect x="60" y="110" width="81.6" height="28" fill="#898781"/>
+  <text x="252" y="130" font-size="14" font-weight="700" fill="#0b0b0b">13.6%</text>
+
+  <text x="60" y="185" font-size="13" fill="#0b0b0b">Auto Mode（AIクラシファイアが判定）</text>
+  <rect x="60" y="195" width="600" height="28" fill="#f0efec" stroke="#e1e0d9"/>
+  <rect x="60" y="195" width="534" height="28" fill="#2a78d6"/>
+  <text x="605" y="215" font-size="14" font-weight="700" fill="#2a78d6">89%</text>
+
+  <text x="60" y="270" font-size="12.5" fill="#52514e">8月14日からPro/Max/Teamプランの新規セッションで既定に。人間の承認率は50回目の</text>
+  <text x="60" y="288" font-size="12.5" fill="#52514e">プロンプト付近で約5%まで低下（＝「承認疲れ」）。出典: Anthropic公式（8/7）</text>
+</svg>
