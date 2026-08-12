@@ -1,0 +1,27 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">秋田市に国内最大級のAIデータセンター計画</text>
+  <text x="28" y="58" font-size="12" fill="#898781">2026年8月6日判明・S2（秋田）と米BitGritが主体、稼働は2030年代前半予定</text>
+
+  <rect x="28" y="78" width="205" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="130" font-size="34" font-weight="700" fill="#2a78d6" text-anchor="middle">2兆円超</text>
+  <text x="130" y="152" font-size="12" fill="#52514e" text-anchor="middle">建設費（推定）</text>
+
+  <rect x="248" y="78" width="205" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="350" y="130" font-size="34" font-weight="700" fill="#008300" text-anchor="middle">500MW</text>
+  <text x="350" y="152" font-size="12" fill="#52514e" text-anchor="middle">最大受電容量（国内最大級）</text>
+
+  <rect x="468" y="78" width="224" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="580" y="122" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="middle">UAEが投資検討</text>
+  <text x="580" y="146" font-size="12" fill="#52514e" text-anchor="middle">具体化に向けた動きが進行中</text>
+  <text x="580" y="164" font-size="11" fill="#898781" text-anchor="middle">稼働：2030年代前半目標</text>
+
+  <line x1="28" y1="208" x2="692" y2="208" stroke="#c3c2b7"/>
+  <text x="28" y="234" font-size="13" font-weight="700" fill="#0b0b0b">立地の決め手：秋田の再エネ供給力</text>
+  <text x="28" y="256" font-size="12" fill="#52514e">洋上風力など秋田県沖で進む再生可能エネルギー事業の電力を活用する計画。</text>
+  <text x="28" y="276" font-size="12" fill="#52514e">首都圏・関西圏に集中してきた国内データセンター立地が、地方の電力供給力を軸に分散し始めている。</text>
+
+  <rect x="28" y="300" width="664" height="58" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="324" font-size="12" fill="#0b0b0b" font-weight="700">背景にある電力の言葉：系統連系</text>
+  <text x="44" y="344" font-size="12" fill="#52514e">発電設備を電力網につなぐこと。データセンター誘致では、この余力の有無が立地選定の決め手になる。</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">アパレル小売：Zalandoの「デジタルツイン」モデル活用</text>
+  <text x="28" y="58" font-size="12" fill="#898781">Zalando公式（2025年5月7日発表）・VP Matthias Haase氏</text>
+
+  <rect x="28" y="80" width="330" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="193" y="106" font-size="12" fill="#52514e" text-anchor="middle">コンテンツ制作にかかる期間</text>
+  <text x="120" y="150" font-size="20" fill="#898781" text-anchor="middle">6〜8週間</text>
+  <text x="185" y="150" font-size="18" fill="#898781" text-anchor="middle">→</text>
+  <text x="255" y="150" font-size="24" font-weight="700" fill="#2a78d6" text-anchor="middle">3〜4日</text>
+  <text x="193" y="174" font-size="11" fill="#898781" text-anchor="middle">従来の撮影サイクル → AI活用後</text>
+
+  <rect x="368" y="80" width="150" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="443" y="128" font-size="30" font-weight="700" fill="#008300" text-anchor="middle">▲90%</text>
+  <text x="443" y="152" font-size="12" fill="#52514e" text-anchor="middle">コンテンツ制作コスト</text>
+
+  <rect x="528" y="80" width="164" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="610" y="128" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">70%</text>
+  <text x="610" y="150" font-size="12" fill="#52514e" text-anchor="middle">編集キャンペーン素材の</text>
+  <text x="610" y="166" font-size="12" fill="#52514e" text-anchor="middle">AI生成比率（24年Q4）</text>
+
+  <line x1="28" y1="210" x2="692" y2="210" stroke="#c3c2b7"/>
+  <text x="28" y="236" font-size="12" fill="#52514e">高精細な「デジタルツイン」モデル（体型・肌色・表情を自由に組み替え可能な3Dアバター）に、AIで</text>
+  <text x="28" y="256" font-size="12" fill="#52514e">CADの衣服データを着せて撮影スタジオ映像を生成。トレンド発見から24時間以内に制作できるという。</text>
+
+  <rect x="28" y="278" width="664" height="66" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="302" font-size="12" fill="#0b0b0b" font-weight="700">Matthias Haase（VP Content Solutions）：</text>
+  <text x="44" y="324" font-size="12" fill="#52514e">"AIにより文化のペースで対応でき、チームの創造性を維持しながらタイムリーで質の高いコンテンツをスケール化できる"</text>
+</svg>

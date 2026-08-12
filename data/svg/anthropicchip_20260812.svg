@@ -1,0 +1,24 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">同じ週に対照的な一手：融資で囲い込むNvidia、設計で自立するAnthropic</text>
+  <text x="28" y="58" font-size="12" fill="#898781">Anthropicの自社チップ設計チーム新設は2026年8月5日確認</text>
+
+  <rect x="28" y="80" width="310" height="140" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="183" y="106" font-size="13" font-weight="700" fill="#2a78d6" text-anchor="middle">Nvidia（8/10）</text>
+  <text x="50" y="132" font-size="12" fill="#0b0b0b">6社と5000億ドル超の融資基盤</text>
+  <text x="50" y="152" font-size="12" fill="#0b0b0b">を構築し、顧客の計算資源調達</text>
+  <text x="50" y="172" font-size="12" fill="#0b0b0b">を金融面で下支え</text>
+  <text x="50" y="198" font-size="11" fill="#898781">→ 依存を強める方向の一手</text>
+
+  <rect x="382" y="80" width="310" height="140" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="537" y="106" font-size="13" font-weight="700" fill="#008300" text-anchor="middle">Anthropic（8/5）</text>
+  <text x="404" y="132" font-size="12" fill="#0b0b0b">Claude向けカスタムチップの</text>
+  <text x="404" y="152" font-size="12" fill="#0b0b0b">自社設計チームを新設。</text>
+  <text x="404" y="172" font-size="12" fill="#0b0b0b">Samsungとの製造提携も検討中</text>
+  <text x="404" y="198" font-size="11" fill="#898781">→ 外部依存から抜け出す一手</text>
+
+  <line x1="28" y1="236" x2="692" y2="236" stroke="#c3c2b7"/>
+  <text x="28" y="262" font-size="12" fill="#52514e">半導体エンジニアを年収最大48.5万ドルで募集中。ハードウェアとモデルを共同設計し、</text>
+  <text x="28" y="282" font-size="12" fill="#52514e">Claudeの推論（Attentionメカニズム）に最適化したチップを目指す。データセンター稼働までは数年規模の時間軸。</text>
+  <text x="28" y="312" font-size="11" fill="#898781">出典：TechCrunch（8/5）／Forbes（8/6）</text>
+</svg>

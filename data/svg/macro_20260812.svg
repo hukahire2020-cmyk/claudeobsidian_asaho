@@ -1,0 +1,48 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="34" font-size="17" font-weight="700" fill="#0b0b0b">国際政治×マクロ：地政学リスクとCPIが綱引き</text>
+
+  <rect x="20" y="54" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="95" y="80" font-size="11" fill="#52514e" text-anchor="middle">ホルムズ海峡・</text>
+  <text x="95" y="96" font-size="11" fill="#52514e" text-anchor="middle">紅海の緊張なお不透明</text>
+  <text x="95" y="114" font-size="10" fill="#d03b3b" text-anchor="middle">地政学リスク継続</text>
+
+  <text x="182" y="94" font-size="18" fill="#898781">→</text>
+
+  <rect x="196" y="54" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="271" y="80" font-size="11" fill="#52514e" text-anchor="middle">WTI原油 83.39ドル</text>
+  <text x="271" y="96" font-size="11" fill="#52514e" text-anchor="middle">（8/11・前日比+1.53%）</text>
+  <text x="271" y="114" font-size="10" fill="#d03b3b" text-anchor="middle">原油じり高</text>
+
+  <text x="358" y="94" font-size="18" fill="#898781">→</text>
+
+  <rect x="372" y="54" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="447" y="80" font-size="11" fill="#52514e" text-anchor="middle">NY株軟調</text>
+  <text x="447" y="96" font-size="11" fill="#52514e" text-anchor="middle">ダウ▲184／ナスダック▲160</text>
+  <text x="447" y="114" font-size="10" fill="#52514e" text-anchor="middle">CPI発表待ちの警戒</text>
+
+  <text x="534" y="94" font-size="18" fill="#898781">→</text>
+
+  <rect x="548" y="54" width="144" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="620" y="80" font-size="11" fill="#52514e" text-anchor="middle">米7月CPI</text>
+  <text x="620" y="96" font-size="11" fill="#52514e" text-anchor="middle">本日8/12発表</text>
+  <text x="620" y="114" font-size="10" fill="#2a78d6" text-anchor="middle">市場は結果待ち</text>
+
+  <line x1="28" y1="144" x2="692" y2="144" stroke="#c3c2b7"/>
+
+  <text x="28" y="170" font-size="12" font-weight="700" fill="#0b0b0b">日経平均</text>
+  <text x="28" y="192" font-size="20" font-weight="700" fill="#2a78d6">66,970.22円</text>
+  <text x="28" y="210" font-size="11" fill="#898781">8/10終値（+1,363.51円・約4週間ぶり高値）</text>
+  <text x="28" y="226" font-size="11" fill="#898781">8/11夜間先物は▲440円の66,720円</text>
+
+  <text x="380" y="170" font-size="12" font-weight="700" fill="#0b0b0b">ドル円</text>
+  <text x="380" y="192" font-size="20" font-weight="700" fill="#2a78d6">159円台</text>
+  <text x="380" y="210" font-size="11" fill="#898781">8/11：159.17〜159.36円で推移</text>
+
+  <text x="380" y="232" font-size="12" font-weight="700" fill="#0b0b0b">政策日程</text>
+  <text x="380" y="250" font-size="11" fill="#898781">FOMC次回9/15-16、日銀次回9/17-18</text>
+
+  <rect x="28" y="264" width="664" height="60" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="288" font-size="12" font-weight="700" fill="#0b0b0b">役員と話すときの要点：</text>
+  <text x="44" y="308" font-size="12" fill="#52514e">「原油はなお83ドル台、今夜のCPI次第で市場は大きく振れる。地政学と金融政策、片方だけでは読めない」</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">ワークマン：撮影が「間に合わない時」の代替に画像生成AI</text>
+  <text x="28" y="58" font-size="12" fill="#898781">2026年8月6日報道（ITmedia）・全国1000店舗超を社員500人以下で運営</text>
+
+  <rect x="28" y="80" width="290" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="173" y="106" font-size="13" font-weight="700" fill="#52514e" text-anchor="middle">従来：実写撮影</text>
+  <text x="50" y="132" font-size="12" fill="#0b0b0b">・ロケ地選定</text>
+  <text x="50" y="152" font-size="12" fill="#0b0b0b">・モデル／カメラマン手配</text>
+  <text x="50" y="172" font-size="12" fill="#0b0b0b">・スケジュール調整</text>
+  <text x="50" y="194" font-size="11" fill="#d03b3b">→ 間に合わず断念するケースも</text>
+
+  <path d="M330 145 L390 145" stroke="#898781" stroke-width="3" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#898781"/></marker></defs>
+
+  <rect x="402" y="80" width="290" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="547" y="106" font-size="13" font-weight="700" fill="#2a78d6" text-anchor="middle">スポット代替：画像生成AI</text>
+  <text x="424" y="132" font-size="12" fill="#0b0b0b">Gemini 2.5 Flash Image（Nano Banana）</text>
+  <text x="424" y="152" font-size="12" fill="#0b0b0b">動画生成AI「Veo」（Google Cloud）</text>
+  <text x="424" y="174" font-size="12" fill="#0b0b0b">全画像を人がチェック・AI生成と明記</text>
+  <text x="424" y="196" font-size="11" fill="#008300">→「諦めていたケース」を救う</text>
+
+  <line x1="28" y1="232" x2="692" y2="232" stroke="#c3c2b7"/>
+  <rect x="28" y="252" width="664" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="288" font-size="40" font-weight="700" fill="#2a78d6" text-anchor="middle">約1.5倍</text>
+  <text x="360" y="312" font-size="13" fill="#52514e" text-anchor="middle">AI生成画像を使ったプッシュ通知の開封率（物撮り画像比）</text>
+  <text x="360" y="332" font-size="11" fill="#898781" text-anchor="middle">出典：ITmedia NEWS（2026/8/6）</text>
+</svg>
