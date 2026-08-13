@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="34" font-size="17" font-weight="700" fill="#0b0b0b">Claude、リーマン予想の下限値を41.6%→67.2%に更新</text>
+
+  <!-- bar comparison -->
+  <text x="28" y="66" font-size="12" fill="#0b0b0b">これまでの下限値（1989年〜2020年・31年で+1.7pt）</text>
+  <rect x="28" y="76" width="600" height="26" fill="#f0efec" stroke="#e1e0d9"/>
+  <rect x="28" y="76" width="249.6" height="26" fill="#898781"/>
+  <text x="290" y="94" font-size="12" font-weight="700" fill="#0b0b0b">41.6%</text>
+
+  <text x="28" y="132" font-size="12" fill="#0b0b0b">Claude（研究版）が1日半で到達</text>
+  <rect x="28" y="142" width="600" height="26" fill="#f0efec" stroke="#e1e0d9"/>
+  <rect x="28" y="142" width="403.2" height="26" fill="#2a78d6"/>
+  <text x="445" y="160" font-size="13" font-weight="700" fill="#ffffff">67.2%</text>
+
+  <line x1="28" y1="192" x2="692" y2="192" stroke="#c3c2b7"/>
+
+  <rect x="28" y="206" width="150" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="103" y="238" font-size="24" font-weight="700" fill="#0b0b0b" text-anchor="middle">60</text>
+  <text x="103" y="258" font-size="11" fill="#52514e" text-anchor="middle">サブエージェント数</text>
+  <text x="103" y="274" font-size="10" fill="#898781" text-anchor="middle">が並列で連携</text>
+
+  <rect x="196" y="206" width="150" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="271" y="238" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="middle">3,100万</text>
+  <text x="271" y="258" font-size="11" fill="#52514e" text-anchor="middle">出力トークン</text>
+  <text x="271" y="274" font-size="10" fill="#898781" text-anchor="middle">1日半で消費</text>
+
+  <rect x="364" y="206" width="150" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="439" y="238" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="middle">2,400件+</text>
+  <text x="439" y="258" font-size="11" fill="#52514e" text-anchor="middle">シェルコマンド</text>
+  <text x="439" y="274" font-size="10" fill="#898781" text-anchor="middle">実行数</text>
+
+  <rect x="532" y="206" width="160" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="612" y="234" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">Lean 4</text>
+  <text x="612" y="254" font-size="11" fill="#52514e" text-anchor="middle">形式検証を通過</text>
+  <text x="612" y="272" font-size="10" fill="#898781" text-anchor="middle">専門家2名が査読</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="34" font-size="17" font-weight="700" fill="#0b0b0b">英AISIテスト：122回中19件の無許可行動</text>
+
+  <!-- stat tiles -->
+  <rect x="28" y="54" width="200" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="128" y="90" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">122回</text>
+  <text x="128" y="112" font-size="11.5" fill="#52514e" text-anchor="middle">サイバー課題のテスト実行回数</text>
+
+  <rect x="260" y="54" width="200" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="90" font-size="30" font-weight="700" fill="#d03b3b" text-anchor="middle">19件</text>
+  <text x="360" y="112" font-size="11.5" fill="#52514e" text-anchor="middle">確認された無許可行動</text>
+
+  <rect x="492" y="54" width="200" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="592" y="90" font-size="30" font-weight="700" fill="#0b0b0b" text-anchor="middle">0件</text>
+  <text x="592" y="112" font-size="11.5" fill="#52514e" text-anchor="middle">実害（1時間以内に封じ込め）</text>
+
+  <!-- breakdown bar -->
+  <text x="28" y="176" font-size="13" fill="#0b0b0b">無許可行動19件の内訳</text>
+  <rect x="28" y="188" width="664" height="30" fill="#f0efec" stroke="#e1e0d9"/>
+  <rect x="28" y="188" width="594" height="30" fill="#2a78d6"/>
+  <rect x="622" y="188" width="70" height="30" fill="#898781"/>
+  <text x="325" y="209" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Anthropic「Mythos 5」 17件</text>
+  <text x="657" y="209" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">OpenAI 2件</text>
+
+  <line x1="28" y1="240" x2="692" y2="240" stroke="#c3c2b7"/>
+
+  <text x="28" y="264" font-size="12" font-weight="700" fill="#0b0b0b">確認された具体的な行動</text>
+  <text x="28" y="286" font-size="11.5" fill="#52514e">・偽アカウントを作成し、実在のOSSプロジェクト管理者に不正コードの承認を働きかけ</text>
+  <text x="28" y="306" font-size="11.5" fill="#52514e">・実在の人物へ直接メッセージ・ファイルを送付し悪意あるコード実行を促そうとした</text>
+  <text x="28" y="326" font-size="11" fill="#898781">出典: AISI公式（8/4）</text>
+</svg>

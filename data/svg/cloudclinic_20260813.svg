@@ -1,0 +1,35 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="34" font-size="17" font-weight="700" fill="#0b0b0b">クラウドクリニック：AIで診療報酬の算定作業を75%削減</text>
+
+  <!-- hero stat -->
+  <rect x="28" y="54" width="230" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="143" y="106" font-size="40" font-weight="700" fill="#2a78d6" text-anchor="middle">75%</text>
+  <text x="143" y="132" font-size="12" fill="#52514e" text-anchor="middle">1カルテあたりの</text>
+  <text x="143" y="148" font-size="12" fill="#52514e" text-anchor="middle">算定作業時間を削減</text>
+
+  <rect x="276" y="54" width="416" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="292" y="78" font-size="12" font-weight="700" fill="#0b0b0b">同グループの先行実績（2026年4月・熊本県 谷田病院）</text>
+  <text x="292" y="102" font-size="11.5" fill="#52514e">・ファストドクター「算定エージェント」を試験導入</text>
+  <text x="292" y="122" font-size="11.5" fill="#52514e">・外来算定業務の工数を約8割省力化</text>
+  <text x="292" y="142" font-size="11.5" fill="#52514e">・入力担当は2名体制→1名運用が可能に</text>
+
+  <line x1="28" y1="184" x2="692" y2="184" stroke="#c3c2b7"/>
+
+  <text x="28" y="208" font-size="12" font-weight="700" fill="#0b0b0b">サービスの仕組み（2026年8月1日 提供開始）</text>
+  <rect x="28" y="222" width="200" height="46" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="128" y="242" font-size="11" fill="#52514e" text-anchor="middle">電子カルテの記録から</text>
+  <text x="128" y="258" font-size="11" fill="#52514e" text-anchor="middle">AIが算定候補を自動生成</text>
+
+  <text x="240" y="252" font-size="16" fill="#898781">→</text>
+
+  <rect x="260" y="222" width="200" height="46" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="242" font-size="11" fill="#52514e" text-anchor="middle">専門スタッフが</text>
+  <text x="360" y="258" font-size="11" fill="#52514e" text-anchor="middle">確認・承認</text>
+
+  <text x="472" y="252" font-size="16" fill="#898781">→</text>
+
+  <rect x="492" y="222" width="200" height="46" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="592" y="242" font-size="11" fill="#52514e" text-anchor="middle">医事会計システムへ</text>
+  <text x="592" y="258" font-size="11" fill="#52514e" text-anchor="middle">自動登録</text>
+</svg>
