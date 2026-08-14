@@ -1,0 +1,41 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">NVIDIA×金融大手6社、コンピュート向け資金調達プラットフォーム</text>
+  <text x="24" y="54" font-size="12" fill="#52514e">2026年8月10日発表</text>
+
+  <!-- hero stat tile -->
+  <rect x="24" y="70" width="220" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="134" y="118" font-size="34" font-weight="700" fill="#2a78d6" text-anchor="middle">5000億ドル</text>
+  <text x="134" y="140" font-size="12" fill="#52514e" text-anchor="middle">超の第三者資本を動員（約80兆円）</text>
+
+  <!-- partner list panel -->
+  <rect x="260" y="70" width="436" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="280" y="92" font-size="12.5" font-weight="700" fill="#0b0b0b">提携金融機関6社</text>
+  <text x="280" y="114" font-size="12" fill="#52514e">BlackRock ／ Blackstone ／ Apollo</text>
+  <text x="280" y="134" font-size="12" fill="#52514e">KKR ／ Brookfield ／ Goldman Sachs</text>
+  <text x="280" y="153" font-size="11" fill="#898781">「世界初のコンピュート向け資金調達プラットフォーム」</text>
+
+  <!-- funnel: concept flow -->
+  <text x="24" y="188" font-size="12.5" font-weight="700" fill="#0b0b0b">仕組み</text>
+  <rect x="24" y="198" width="200" height="46" rx="6" fill="#eef4fb" stroke="#c3c2b7"/>
+  <text x="124" y="217" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="700">NVIDIA技術</text>
+  <text x="124" y="234" font-size="10.5" fill="#52514e" text-anchor="middle">投資可能な資産クラスに</text>
+
+  <path d="M 230 221 L 258 221" stroke="#898781" stroke-width="2" marker-end="url(#arrow2)"/>
+
+  <rect x="264" y="198" width="200" height="46" rx="6" fill="#eef4fb" stroke="#c3c2b7"/>
+  <text x="364" y="217" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="700">金融6社が融資</text>
+  <text x="364" y="234" font-size="10.5" fill="#52514e" text-anchor="middle">コンピュートを担保資産化</text>
+
+  <path d="M 470 221 L 498 221" stroke="#898781" stroke-width="2" marker-end="url(#arrow2)"/>
+
+  <rect x="504" y="198" width="192" height="46" rx="6" fill="#eef4fb" stroke="#c3c2b7"/>
+  <text x="600" y="217" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="700">AI研究所・企業</text>
+  <text x="600" y="234" font-size="10.5" fill="#52514e" text-anchor="middle">計算資源を大規模確保</text>
+
+  <defs>
+    <marker id="arrow2" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#898781"/>
+    </marker>
+  </defs>
+</svg>

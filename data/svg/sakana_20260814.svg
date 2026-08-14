@@ -1,0 +1,22 @@
+<svg viewBox="0 0 720 240" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="238" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">Sakana AI「Sakana Chat」アップデート（2026年8月13日）</text>
+  <text x="24" y="54" font-size="12" fill="#52514e">国産モデルに新機能・コード実行対応</text>
+
+  <rect x="24" y="72" width="320" height="140" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="96" font-size="13" font-weight="700" fill="#2a78d6">Sakana Fugu（新規）</text>
+  <text x="44" y="118" font-size="11.5" fill="#52514e">複雑な指示・複数ステップ</text>
+  <text x="44" y="136" font-size="11.5" fill="#52514e">タスクへの対応力を強化</text>
+
+  <line x1="44" y1="152" x2="324" y2="152" stroke="#e1e0d9"/>
+
+  <text x="44" y="174" font-size="13" font-weight="700" fill="#008300">Sakana Namazu（刷新）</text>
+  <text x="44" y="196" font-size="11.5" fill="#52514e">日本語応答品質・自律実行力を強化</text>
+
+  <rect x="368" y="72" width="328" height="140" rx="8" fill="#eef4fb" stroke="#c3c2b7"/>
+  <text x="388" y="96" font-size="13" font-weight="700" fill="#0b0b0b">新機能: コード実行対応</text>
+  <text x="388" y="122" font-size="11.5" fill="#52514e">Pythonサンドボックスで</text>
+  <text x="388" y="140" font-size="11.5" fill="#52514e">計算・データ処理・グラフ作成</text>
+  <text x="388" y="158" font-size="11.5" fill="#52514e">資料・スライド生成まで</text>
+  <text x="388" y="176" font-size="11.5" fill="#52514e">一つの対話内で完結</text>
+</svg>
