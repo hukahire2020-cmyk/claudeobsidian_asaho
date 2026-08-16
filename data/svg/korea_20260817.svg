@@ -1,0 +1,41 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="34" font-size="17" font-weight="bold" fill="#0b0b0b">光復節演説（8月15日）——休戦72年から終戦協議への提案</text>
+  <text x="24" y="54" font-size="11" fill="#898781">出典: 日本経済新聞・Bloomberg・NHK（8/15）</text>
+
+  <!-- Timeline -->
+  <line x1="60" y1="100" x2="660" y2="100" stroke="#c3c2b7" stroke-width="2"/>
+
+  <circle cx="90" cy="100" r="7" fill="#52514e"/>
+  <text x="90" y="80" font-size="12" font-weight="bold" fill="#0b0b0b" text-anchor="middle">1953年</text>
+  <text x="90" y="122" font-size="11" fill="#52514e" text-anchor="middle">休戦協定</text>
+  <text x="90" y="138" font-size="10.5" fill="#898781" text-anchor="middle">戦闘停止・法的には戦争状態継続</text>
+
+  <circle cx="380" cy="100" r="7" fill="#898781"/>
+  <text x="380" y="80" font-size="12" font-weight="bold" fill="#0b0b0b" text-anchor="middle">この1年</text>
+  <text x="380" y="122" font-size="11" fill="#52514e" text-anchor="middle">日韓シャトル外交</text>
+  <text x="380" y="138" font-size="10.5" fill="#898781" text-anchor="middle">信頼構築進む一方、南北は緊張継続</text>
+
+  <circle cx="640" cy="100" r="8" fill="#2a78d6"/>
+  <text x="640" y="80" font-size="12" font-weight="bold" fill="#2a78d6" text-anchor="middle">8月15日</text>
+  <text x="640" y="122" font-size="11" fill="#0b0b0b" font-weight="bold" text-anchor="middle">終戦協議を提案</text>
+  <text x="640" y="138" font-size="10.5" fill="#898781" text-anchor="middle">光復節81周年式典にて</text>
+
+  <line x1="24" y1="164" x2="696" y2="164" stroke="#e1e0d9"/>
+  <text x="24" y="188" font-size="12.5" fill="#0b0b0b" font-weight="bold">李在明大統領の3つの提案</text>
+
+  <rect x="24" y="204" width="216" height="108" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="132" y="228" font-size="26" font-weight="bold" fill="#2a78d6" text-anchor="middle">①</text>
+  <text x="132" y="256" font-size="11.5" fill="#0b0b0b" text-anchor="middle">敵対的な認識・規範・</text>
+  <text x="132" y="272" font-size="11.5" fill="#0b0b0b" text-anchor="middle">制度の削減</text>
+
+  <rect x="252" y="204" width="216" height="108" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="228" font-size="26" font-weight="bold" fill="#2a78d6" text-anchor="middle">②</text>
+  <text x="360" y="256" font-size="11.5" fill="#0b0b0b" text-anchor="middle">先制的かつ継続的な</text>
+  <text x="360" y="272" font-size="11.5" fill="#0b0b0b" text-anchor="middle">平和措置</text>
+
+  <rect x="480" y="204" width="216" height="108" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="588" y="228" font-size="26" font-weight="bold" fill="#2a78d6" text-anchor="middle">③</text>
+  <text x="588" y="256" font-size="11.5" fill="#0b0b0b" text-anchor="middle">休戦ではなく終戦に</text>
+  <text x="588" y="272" font-size="11.5" fill="#0b0b0b" text-anchor="middle">向けた議論の開始</text>
+</svg>

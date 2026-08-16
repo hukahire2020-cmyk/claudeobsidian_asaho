@@ -1,0 +1,55 @@
+<svg viewBox="0 0 720 330" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="328" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="34" font-size="17" font-weight="bold" fill="#0b0b0b">因果チェーン: 攻撃激化 → 原油高止まり → 円安・利上げ観測 → 株高</text>
+  <text x="24" y="54" font-size="11" fill="#898781">出典: 日本経済新聞・Bloomberg・ザイFX</text>
+
+  <defs>
+    <marker id="marrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#898781"/>
+    </marker>
+  </defs>
+
+  <!-- Box 1 -->
+  <rect x="16" y="90" width="150" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="91" y="115" font-size="12" font-weight="bold" fill="#d03b3b" text-anchor="middle">モスクワ攻撃</text>
+  <text x="91" y="132" font-size="12" font-weight="bold" fill="#d03b3b" text-anchor="middle">激化</text>
+  <text x="91" y="158" font-size="10" fill="#52514e" text-anchor="middle">600機飛来</text>
+  <text x="91" y="174" font-size="10" fill="#52514e" text-anchor="middle">822機迎撃</text>
+  <text x="91" y="200" font-size="9.5" fill="#898781" text-anchor="middle">和平交渉は</text>
+  <text x="91" y="214" font-size="9.5" fill="#898781" text-anchor="middle">停滞のまま</text>
+
+  <path d="M170 155 L 194 155" stroke="#898781" stroke-width="2" marker-end="url(#marrow)"/>
+
+  <!-- Box 2 -->
+  <rect x="198" y="90" width="150" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="273" y="123" font-size="12" font-weight="bold" fill="#0b0b0b" text-anchor="middle">原油高止まり</text>
+  <text x="273" y="158" font-size="10" fill="#52514e" text-anchor="middle">WTI</text>
+  <text x="273" y="176" font-size="16" font-weight="bold" fill="#2a78d6" text-anchor="middle">79〜80ドル</text>
+  <text x="273" y="200" font-size="9.5" fill="#898781" text-anchor="middle">地政学リスク</text>
+  <text x="273" y="214" font-size="9.5" fill="#898781" text-anchor="middle">プレミアム</text>
+
+  <path d="M352 155 L 376 155" stroke="#898781" stroke-width="2" marker-end="url(#marrow)"/>
+
+  <!-- Box 3 -->
+  <rect x="380" y="90" width="160" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="460" y="115" font-size="12" font-weight="bold" fill="#0b0b0b" text-anchor="middle">円安・物価上振れ</text>
+  <text x="460" y="132" font-size="12" font-weight="bold" fill="#0b0b0b" text-anchor="middle">警戒</text>
+  <text x="460" y="158" font-size="10" fill="#52514e" text-anchor="middle">ドル円</text>
+  <text x="460" y="176" font-size="16" font-weight="bold" fill="#2a78d6" text-anchor="middle">159円台</text>
+  <text x="460" y="200" font-size="9.5" fill="#898781" text-anchor="middle">日銀9月利上げ</text>
+  <text x="460" y="214" font-size="9.5" fill="#898781" text-anchor="middle">観測 7〜8割</text>
+
+  <path d="M544 155 L 568 155" stroke="#898781" stroke-width="2" marker-end="url(#marrow)"/>
+
+  <!-- Box 4 -->
+  <rect x="572" y="90" width="132" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="638" y="123" font-size="12" font-weight="bold" fill="#008300" text-anchor="middle">株高が継続</text>
+  <text x="638" y="158" font-size="10" fill="#52514e" text-anchor="middle">日経平均</text>
+  <text x="638" y="176" font-size="15" font-weight="bold" fill="#008300" text-anchor="middle">68,713円</text>
+  <text x="638" y="196" font-size="9.5" fill="#898781" text-anchor="middle">4日続伸</text>
+  <text x="638" y="212" font-size="9.5" fill="#898781" text-anchor="middle">TOPIX最高値</text>
+
+  <line x1="24" y1="248" x2="696" y2="248" stroke="#e1e0d9"/>
+  <text x="24" y="276" font-size="12.5" font-weight="bold" fill="#0b0b0b">役員と話すときの要点</text>
+  <text x="24" y="300" font-size="12" fill="#52514e">「和平交渉は続いても攻撃は止まらない——原油高と円安が同時進行する局面で、日銀は9月利上げに前のめりになっている」</text>
+</svg>

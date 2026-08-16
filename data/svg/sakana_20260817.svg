@@ -1,0 +1,29 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="34" font-size="17" font-weight="bold" fill="#0b0b0b">Sakana AI「Sakana Chat」刷新（8/13）——最上位モデルを無料開放</text>
+  <text x="24" y="54" font-size="11" fill="#898781">出典: Sakana AI公式・ITmedia・窓の杜（8/13）</text>
+
+  <rect x="24" y="72" width="330" height="210" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="189" y="100" font-size="13" font-weight="bold" fill="#2a78d6" text-anchor="middle">Sakana Fugu</text>
+  <text x="189" y="120" font-size="10.5" fill="#898781" text-anchor="middle">オーケストレーターモデル</text>
+  <text x="189" y="150" font-size="12" fill="#52514e" text-anchor="middle">複数AIモデルの</text>
+  <text x="189" y="168" font-size="12" fill="#52514e" text-anchor="middle">「集合知」を活用</text>
+  <rect x="64" y="196" width="250" height="60" rx="6" fill="#fcfcfb" stroke="#e1e0d9"/>
+  <text x="189" y="220" font-size="12" font-weight="bold" fill="#0b0b0b" text-anchor="middle">無料利用開放</text>
+  <text x="189" y="240" font-size="10.5" fill="#898781" text-anchor="middle">（メール登録のみで利用可）</text>
+
+  <rect x="370" y="72" width="326" height="210" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="533" y="100" font-size="13" font-weight="bold" fill="#008300" text-anchor="middle">Sakana Namazu 刷新</text>
+  <text x="533" y="120" font-size="10.5" fill="#898781" text-anchor="middle">ベースを刷新</text>
+
+  <circle cx="410" cy="152" r="4" fill="#008300"/>
+  <text x="422" y="156" font-size="11" fill="#52514e">中国Moonshot AI「Kimi K2.6」ベース</text>
+  <circle cx="410" cy="176" r="4" fill="#008300"/>
+  <text x="422" y="180" font-size="11" fill="#52514e">日本語処理・自律タスク実行力を向上</text>
+  <circle cx="410" cy="200" r="4" fill="#008300"/>
+  <text x="422" y="204" font-size="11" fill="#52514e">Python実行サンドボックス追加</text>
+  <circle cx="410" cy="224" r="4" fill="#008300"/>
+  <text x="422" y="228" font-size="11" fill="#52514e">Word/Excel/PDF添付に対応</text>
+  <circle cx="410" cy="248" r="4" fill="#008300"/>
+  <text x="422" y="252" font-size="11" fill="#52514e">HTML/ファイルのプレビュー表示</text>
+</svg>

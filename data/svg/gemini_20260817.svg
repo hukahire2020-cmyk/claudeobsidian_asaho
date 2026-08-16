@@ -1,0 +1,43 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="34" font-size="17" font-weight="bold" fill="#0b0b0b">Gemini 3.7 Flash（8/13発表）——3週間での更新でベンチマーク急伸</text>
+  <text x="24" y="54" font-size="11" fill="#898781">出典: Google公式ブログ・ITmedia・Impress Watch（8/13〜14）</text>
+
+  <text x="24" y="82" font-size="11" fill="#52514e">3.6 Flash（7/21投入）→ 3.7 Flash（8/13投入）</text>
+
+  <!-- Group 1: AutomationBench -->
+  <text x="150" y="108" font-size="12" font-weight="bold" fill="#0b0b0b" text-anchor="middle">AutomationBench</text>
+  <text x="150" y="122" font-size="9.5" fill="#898781" text-anchor="middle">（業務ワークフロー完了率）</text>
+  <line x1="60" y1="270" x2="240" y2="270" stroke="#c3c2b7"/>
+  <rect x="80" y="240" width="40" height="30" fill="#c3c2b7"/>
+  <text x="100" y="234" font-size="12" fill="#52514e" text-anchor="middle">17.0%</text>
+  <rect x="160" y="164" width="40" height="106" fill="#2a78d6"/>
+  <text x="180" y="158" font-size="13" font-weight="bold" fill="#2a78d6" text-anchor="middle">30.4%</text>
+
+  <!-- Group 2: DeepSWE -->
+  <text x="390" y="108" font-size="12" font-weight="bold" fill="#0b0b0b" text-anchor="middle">DeepSWE v1.1</text>
+  <text x="390" y="122" font-size="9.5" fill="#898781" text-anchor="middle">（コーディング性能）</text>
+  <line x1="300" y1="270" x2="480" y2="270" stroke="#c3c2b7"/>
+  <rect x="320" y="138" width="40" height="132" fill="#c3c2b7"/>
+  <text x="340" y="132" font-size="12" fill="#52514e" text-anchor="middle">49.0%</text>
+  <rect x="400" y="94" width="40" height="176" fill="#2a78d6"/>
+  <text x="420" y="88" font-size="13" font-weight="bold" fill="#2a78d6" text-anchor="middle">65.3%</text>
+
+  <!-- Group 3: FrontierCode -->
+  <text x="610" y="108" font-size="12" font-weight="bold" fill="#0b0b0b" text-anchor="middle">FrontierCode 1.1</text>
+  <text x="610" y="122" font-size="9.5" fill="#898781" text-anchor="middle">（複雑コーディング）</text>
+  <line x1="540" y1="270" x2="700" y2="270" stroke="#c3c2b7"/>
+  <rect x="555" y="177" width="40" height="93" fill="#c3c2b7"/>
+  <text x="575" y="171" font-size="12" fill="#52514e" text-anchor="middle">34.4%</text>
+  <rect x="625" y="153" width="40" height="117" fill="#2a78d6"/>
+  <text x="645" y="147" font-size="13" font-weight="bold" fill="#2a78d6" text-anchor="middle">43.6%</text>
+
+  <!-- Legend -->
+  <rect x="230" y="294" width="14" height="14" fill="#c3c2b7"/>
+  <text x="250" y="306" font-size="11" fill="#52514e">Gemini 3.6 Flash</text>
+  <rect x="400" y="294" width="14" height="14" fill="#2a78d6"/>
+  <text x="420" y="306" font-size="11" fill="#52514e">Gemini 3.7 Flash</text>
+
+  <line x1="24" y1="326" x2="696" y2="326" stroke="#e1e0d9"/>
+  <text x="24" y="350" font-size="11" fill="#52514e">料金（2026年12月末まで導入価格）: 入力 100万トークンあたり<tspan font-weight="bold" fill="#0b0b0b">0.75ドル</tspan>／出力<tspan font-weight="bold" fill="#0b0b0b">3.75ドル</tspan></text>
+</svg>

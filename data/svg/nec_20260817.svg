@@ -1,0 +1,36 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="398" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="34" font-size="17" font-weight="bold" fill="#0b0b0b">NEC「コーポレートAI・Workforce部門」——4階層のAI自律型組織</text>
+  <text x="24" y="54" font-size="11" fill="#898781">出典: NEC公式・ITmedia・朝日新聞（8/10、8/1付新設）</text>
+
+  <!-- Hero stat box -->
+  <rect x="24" y="72" width="140" height="298" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="94" y="180" font-size="14" fill="#52514e" text-anchor="middle">役員会議向け</text>
+  <text x="94" y="198" font-size="14" fill="#52514e" text-anchor="middle">経営分析の</text>
+  <text x="94" y="216" font-size="14" fill="#52514e" text-anchor="middle">所要時間</text>
+  <text x="94" y="270" font-size="40" font-weight="bold" fill="#d03b3b" text-anchor="middle">1/7</text>
+  <text x="94" y="296" font-size="12" fill="#0b0b0b" text-anchor="middle">に短縮</text>
+  <text x="94" y="330" font-size="10" fill="#898781" text-anchor="middle">7月実証・シミュレーション</text>
+  <text x="94" y="344" font-size="10" fill="#898781" text-anchor="middle">〜リスク予兆検知を一気通貫</text>
+
+  <!-- Org chart 4 tiers, centered at x=435 -->
+  <rect x="345" y="72" width="180" height="46" rx="8" fill="#2a78d6"/>
+  <text x="435" y="100" font-size="13" font-weight="bold" fill="#fcfcfb" text-anchor="middle">AI部門長</text>
+  <text x="435" y="130" font-size="10" fill="#898781" text-anchor="middle">組織全体の稼働状況を管理</text>
+
+  <line x1="435" y1="140" x2="435" y2="156" stroke="#c3c2b7"/>
+  <rect x="305" y="156" width="260" height="46" rx="8" fill="#3d8ce0"/>
+  <text x="435" y="184" font-size="13" font-weight="bold" fill="#fcfcfb" text-anchor="middle">AIボード（CxO機能）</text>
+  <text x="435" y="214" font-size="10" fill="#898781" text-anchor="middle">経営視点から組織を評価</text>
+
+  <line x1="435" y1="224" x2="435" y2="240" stroke="#c3c2b7"/>
+  <rect x="275" y="240" width="320" height="46" rx="8" fill="#6ba7e8"/>
+  <text x="435" y="268" font-size="13" font-weight="bold" fill="#fcfcfb" text-anchor="middle">AIマネージャー</text>
+  <text x="435" y="298" font-size="10" fill="#898781" text-anchor="middle">品質・コストを横断管理</text>
+
+  <line x1="435" y1="308" x2="435" y2="324" stroke="#c3c2b7"/>
+  <rect x="225" y="324" width="420" height="46" rx="8" fill="#a9cbf0"/>
+  <text x="435" y="352" font-size="13" font-weight="bold" fill="#0b0b0b" text-anchor="middle">AI社員</text>
+
+  <text x="435" y="386" font-size="10.5" fill="#52514e" text-anchor="middle">最終的な評価・意思決定・ガバナンス統制は人間の経営層が担う</text>
+</svg>

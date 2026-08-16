@@ -1,0 +1,36 @@
+<svg viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="358" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="34" font-size="17" font-weight="bold" fill="#0b0b0b">モスクワへのドローン攻撃（8月16日）——過去2年で最大規模</text>
+  <text x="24" y="54" font-size="11" fill="#898781">出典: 日本経済新聞・Bloomberg・Al Jazeera（8/16）</text>
+
+  <!-- Hero stat -->
+  <rect x="24" y="72" width="200" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="124" y="130" font-size="44" font-weight="bold" fill="#d03b3b" text-anchor="middle">600機</text>
+  <text x="124" y="154" font-size="12" fill="#52514e" text-anchor="middle">ドローン飛来（モスクワ周辺）</text>
+  <text x="124" y="174" font-size="10.5" fill="#898781" text-anchor="middle">ソビャニン市長発表・タス通信「過去2年で最大」</text>
+
+  <rect x="236" y="72" width="230" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="351" y="130" font-size="44" font-weight="bold" fill="#2a78d6" text-anchor="middle">822機</text>
+  <text x="351" y="154" font-size="12" fill="#52514e" text-anchor="middle">露国防省が発表した迎撃数</text>
+  <text x="351" y="174" font-size="10.5" fill="#898781" text-anchor="middle">ロシア各地＋クリミア半島上空</text>
+
+  <rect x="478" y="72" width="218" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="587" y="130" font-size="44" font-weight="bold" fill="#0b0b0b" text-anchor="middle">7人+</text>
+  <text x="587" y="154" font-size="12" fill="#52514e" text-anchor="middle">ロシア国内での死者</text>
+  <text x="587" y="174" font-size="10.5" fill="#898781" text-anchor="middle">モスクワ州・ロストフ州・ベルゴロド州等</text>
+
+  <!-- Detail rows -->
+  <line x1="24" y1="212" x2="696" y2="212" stroke="#e1e0d9"/>
+  <text x="24" y="236" font-size="12.5" fill="#0b0b0b" font-weight="bold">被害の内訳</text>
+
+  <circle cx="32" cy="258" r="4" fill="#d03b3b"/>
+  <text x="44" y="262" font-size="12" fill="#52514e">モスクワ州: 大手通販「ワイルドベリーズ」倉庫が炎上——1人死亡・5人負傷</text>
+
+  <circle cx="32" cy="284" r="4" fill="#d03b3b"/>
+  <text x="44" y="288" font-size="12" fill="#52514e">ロストフ州: 夜間の攻撃で5人死亡</text>
+
+  <circle cx="32" cy="310" r="4" fill="#d03b3b"/>
+  <text x="44" y="314" font-size="12" fill="#52514e">ベルゴロド州・クルスク州: バス等が標的となり計3人死亡</text>
+
+  <text x="24" y="344" font-size="10.5" fill="#898781">ウクライナ側は「ワイルドベリーズの倉庫はドローン部品など軍事物資を輸送」と主張し連日攻撃対象にしているという</text>
+</svg>
