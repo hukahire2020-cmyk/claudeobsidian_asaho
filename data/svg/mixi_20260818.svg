@@ -1,0 +1,27 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">MIXI：AI活用率99%達成の先に、CAIOを新設</text>
+
+  <!-- timeline -->
+  <line x1="60" y1="90" x2="660" y2="90" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="100" cy="90" r="6" fill="#2a78d6"/>
+  <text x="100" y="70" font-size="12" fill="#52514e" text-anchor="middle">2025年3月〜</text>
+  <text x="100" y="115" font-size="11" fill="#0b0b0b" text-anchor="middle">全社ワークショップ</text>
+  <text x="100" y="130" font-size="11" fill="#0b0b0b" text-anchor="middle">開始</text>
+
+  <circle cx="330" cy="90" r="6" fill="#2a78d6"/>
+  <text x="330" y="70" font-size="12" fill="#52514e" text-anchor="middle">約3か月後</text>
+  <text x="330" y="115" font-size="11" fill="#0b0b0b" text-anchor="middle">全45部門・グループ会社で</text>
+  <text x="330" y="130" font-size="11" fill="#0b0b0b" text-anchor="middle">AI活用率99%達成</text>
+
+  <circle cx="600" cy="90" r="6" fill="#008300"/>
+  <text x="600" y="70" font-size="12" fill="#52514e" text-anchor="middle">8月1日付</text>
+  <text x="600" y="115" font-size="11" fill="#0b0b0b" text-anchor="middle">村瀨龍馬氏が</text>
+  <text x="600" y="130" font-size="11" fill="#0b0b0b" text-anchor="middle">初代CAIOに就任</text>
+
+  <rect x="60" y="170" width="600" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="80" y="198" font-size="12" font-weight="700" fill="#0b0b0b">次のフェーズ：「使う」から「稼ぐ」へ</text>
+  <text x="80" y="222" font-size="12" fill="#52514e">CAIOが全社「AI推進委員会」を統括し、各部門の取り組みを事業KPI・</text>
+  <text x="80" y="242" font-size="12" fill="#52514e">売上利益への貢献に結びつける段階に移行</text>
+  <text x="80" y="260" font-size="11" fill="#898781">評価軸をコスト削減だけでなく「人と人の接点の増加」にも拡張</text>
+</svg>

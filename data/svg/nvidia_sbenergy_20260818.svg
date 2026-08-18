@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">NVIDIA、ソフトバンク子会社SB EnergyのAI電力基盤に15億ドル出資</text>
+
+  <rect x="24" y="54" width="215" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="131" y="95" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">15億ドル</text>
+  <text x="131" y="118" font-size="12" fill="#52514e" text-anchor="middle">NVIDIAの追加出資額</text>
+  <text x="131" y="134" font-size="11" fill="#898781" text-anchor="middle">（既存出資者はSBGとOpenAI）</text>
+
+  <rect x="252" y="54" width="215" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="359" y="95" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">最大8GW</text>
+  <text x="359" y="118" font-size="12" fill="#52514e" text-anchor="middle">AIファクトリー能力</text>
+  <text x="359" y="134" font-size="11" fill="#898781" text-anchor="middle">初期4.25GW＋追加3.75GWの選択権</text>
+
+  <rect x="480" y="54" width="216" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="588" y="95" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">42億ドル超</text>
+  <text x="588" y="118" font-size="12" fill="#52514e" text-anchor="middle">地域送電網への投資</text>
+  <text x="588" y="134" font-size="11" fill="#898781" text-anchor="middle">SB Energy・ソフトバンクが負担</text>
+
+  <rect x="24" y="174" width="672" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="202" font-size="12" font-weight="700" fill="#0b0b0b">場所と稼働時期</text>
+  <text x="44" y="226" font-size="12" fill="#52514e">米オハイオ州「PORTS-Pike Technology Campus」。OpenAI向けAI計算能力を提供</text>
+  <text x="44" y="248" font-size="12" fill="#52514e">10GW超の新規発電設備も建設し、2028年以降に段階稼働の計画</text>
+  <text x="44" y="264" font-size="11" fill="#898781">出典: NVIDIA公式ニュースルーム（8月17日）</text>
+</svg>

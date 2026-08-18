@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">米韓演習縮小 → 対話呼びかけ、その因果</text>
+
+  <!-- timeline -->
+  <line x1="50" y1="90" x2="670" y2="90" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="90" cy="90" r="6" fill="#2a78d6"/>
+  <circle cx="360" cy="90" r="6" fill="#2a78d6"/>
+  <circle cx="630" cy="90" r="6" fill="#d03b3b"/>
+
+  <text x="90" y="70" font-size="12" fill="#52514e" text-anchor="middle">従来</text>
+  <text x="90" y="115" font-size="11" fill="#0b0b0b" text-anchor="middle">米韓合同軍事演習</text>
+  <text x="90" y="130" font-size="11" fill="#0b0b0b" text-anchor="middle">通常規模で継続</text>
+
+  <text x="360" y="70" font-size="12" fill="#52514e" text-anchor="middle">背景</text>
+  <text x="360" y="115" font-size="11" fill="#0b0b0b" text-anchor="middle">韓国、イラン対応への</text>
+  <text x="360" y="130" font-size="11" fill="#0b0b0b" text-anchor="middle">協力要請を拒否</text>
+
+  <text x="630" y="70" font-size="12" fill="#52514e" text-anchor="middle">8月17日</text>
+  <text x="630" y="115" font-size="11" fill="#0b0b0b" text-anchor="middle">トランプ氏、演習縮小を指示</text>
+  <text x="630" y="130" font-size="11" fill="#0b0b0b" text-anchor="middle">「金正恩氏は応じた」と発言</text>
+
+  <rect x="50" y="170" width="620" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="70" y="198" font-size="12" font-weight="700" fill="#0b0b0b">トランプ氏の発言（8月17日・ホワイトハウス）</text>
+  <text x="70" y="222" font-size="12" fill="#52514e">「金正恩氏は常に私に大きな敬意を払ってきた。主要な会談を2回行った」</text>
+  <text x="70" y="244" font-size="12" fill="#52514e">背景には、韓国がイラン情勢対応への協力を断ったことへの不満もにじむ</text>
+  <text x="70" y="258" font-size="11" fill="#898781">※即座の南北・米朝対話再開が確定したわけではない（トランプ氏の発言のみ）</text>
+</svg>

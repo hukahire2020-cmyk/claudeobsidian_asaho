@@ -1,0 +1,30 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">千葉銀行：AIエージェント50体で「2,000人分」の労働力創出へ</text>
+
+  <rect x="24" y="56" width="330" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="189" y="110" font-size="34" font-weight="700" fill="#2a78d6" text-anchor="middle">50体</text>
+  <text x="189" y="135" font-size="13" fill="#52514e" text-anchor="middle">AIエージェント稼働目標</text>
+  <text x="189" y="155" font-size="11" fill="#898781" text-anchor="middle">Agentforce Financial Services基盤</text>
+
+  <rect x="366" y="56" width="330" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="531" y="110" font-size="34" font-weight="700" fill="#2a78d6" text-anchor="middle">2,000人分</text>
+  <text x="531" y="135" font-size="13" fill="#52514e" text-anchor="middle">創出目標とする労働力</text>
+  <text x="531" y="155" font-size="11" fill="#898781" text-anchor="middle">行員は顧客対応へ再配分</text>
+
+  <!-- timeline -->
+  <line x1="60" y1="220" x2="660" y2="220" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="120" cy="220" r="6" fill="#2a78d6"/>
+  <text x="120" y="205" font-size="12" fill="#52514e" text-anchor="middle">2024年度〜</text>
+  <text x="120" y="240" font-size="11" fill="#0b0b0b" text-anchor="middle">第16次中期経営計画</text>
+
+  <circle cx="360" cy="220" r="6" fill="#2a78d6"/>
+  <text x="360" y="205" font-size="12" fill="#52514e" text-anchor="middle">8月10日</text>
+  <text x="360" y="240" font-size="11" fill="#0b0b0b" text-anchor="middle">Salesforce・千葉銀行が発表</text>
+
+  <circle cx="600" cy="220" r="6" fill="#008300"/>
+  <text x="600" y="205" font-size="12" fill="#52514e" text-anchor="middle">2028年2月</text>
+  <text x="600" y="240" font-size="11" fill="#0b0b0b" text-anchor="middle">新営業支援システム稼働予定</text>
+
+  <text x="24" y="278" font-size="11" fill="#898781">Data 360・MuleSoftも採用し、グループ全体の顧客データを統合</text>
+</svg>

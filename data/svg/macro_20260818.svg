@@ -1,0 +1,45 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">因果チェーン：中東交渉停滞 → 円安・株安の同時進行</text>
+
+  <!-- chain boxes -->
+  <rect x="20" y="60" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="95" y="88" font-size="11" fill="#0b0b0b" text-anchor="middle">米・イラン核協議</text>
+  <text x="95" y="104" font-size="11" fill="#d03b3b" text-anchor="middle">停滞（8/17）</text>
+
+  <path d="M170 95 L195 95" stroke="#898781" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="198" y="60" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="273" y="88" font-size="11" fill="#0b0b0b" text-anchor="middle">原油高・米長期金利上昇</text>
+  <text x="273" y="104" font-size="11" fill="#52514e" text-anchor="middle">（8/17海外市場）</text>
+
+  <path d="M348 95 L373 95" stroke="#898781" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="376" y="60" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="451" y="88" font-size="11" fill="#0b0b0b" text-anchor="middle">米国株安</text>
+  <text x="451" y="104" font-size="11" fill="#52514e" text-anchor="middle">ダウ・ナスダック・S&amp;P続落</text>
+
+  <path d="M526 95 L551 95" stroke="#898781" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <rect x="554" y="60" width="146" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="627" y="88" font-size="11" fill="#0b0b0b" text-anchor="middle">東京市場に波及</text>
+  <text x="627" y="104" font-size="11" fill="#d03b3b" text-anchor="middle">円安・株安同時進行</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0 0 L8 4 L0 8 z" fill="#898781"/>
+    </marker>
+  </defs>
+
+  <rect x="24" y="160" width="330" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="188" font-size="12" font-weight="700" fill="#0b0b0b">日経平均（8/18寄り付き）</text>
+  <text x="44" y="216" font-size="22" font-weight="700" fill="#d03b3b">▲372.90円</text>
+  <text x="44" y="238" font-size="13" fill="#0b0b0b">68,847.35円（前日69,220.25円）</text>
+  <text x="44" y="256" font-size="11" fill="#898781">直近5日続伸(+3,600円超)の反動売りも重なる</text>
+
+  <rect x="366" y="160" width="330" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="386" y="188" font-size="12" font-weight="700" fill="#0b0b0b">ドル円（8/18朝8時）</text>
+  <text x="386" y="216" font-size="22" font-weight="700" fill="#2a78d6">159円41〜42銭</text>
+  <text x="386" y="238" font-size="13" fill="#0b0b0b">前日比▲46銭・159円割れでは押し目買い</text>
+  <text x="386" y="256" font-size="11" fill="#898781">日銀の早期利上げ観測が上値を抑制</text>
+</svg>

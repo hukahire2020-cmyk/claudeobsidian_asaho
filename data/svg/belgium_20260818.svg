@@ -1,0 +1,30 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">ベルギー史上最悪の山火事——延焼面積の推移</text>
+
+  <!-- bar chart: area growth -->
+  <text x="24" y="66" font-size="12" fill="#52514e">延焼面積（ヘクタール）</text>
+  <rect x="140" y="80" width="30" height="14" fill="#d03b3b"/>
+  <text x="180" y="92" font-size="12" fill="#0b0b0b">8/14時点：約80ha</text>
+
+  <rect x="140" y="110" width="500" height="14" fill="#d03b3b"/>
+  <text x="650" y="122" font-size="12" fill="#0b0b0b" text-anchor="end">8/15夜：2,700ha超</text>
+
+  <text x="140" y="150" font-size="11" fill="#898781">（バーの長さは面積比のイメージ。80ha→2,700ha超で約34倍に拡大）</text>
+
+  <!-- stat tiles -->
+  <rect x="24" y="170" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="126" y="205" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">約600人</text>
+  <text x="126" y="228" font-size="12" fill="#52514e" text-anchor="middle">住民に避難指示</text>
+  <text x="126" y="245" font-size="11" fill="#898781" text-anchor="middle">（リエージュ州2自治体）</text>
+
+  <rect x="257" y="170" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="359" y="205" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">250人超</text>
+  <text x="359" y="228" font-size="12" fill="#52514e" text-anchor="middle">緊急支援要員動員</text>
+  <text x="359" y="245" font-size="11" fill="#898781" text-anchor="middle">（独ベルギー消防士100人超含む）</text>
+
+  <rect x="490" y="170" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="592" y="205" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">8/17</text>
+  <text x="592" y="228" font-size="12" fill="#52514e" text-anchor="middle">降雨で消火進展</text>
+  <text x="592" y="245" font-size="11" fill="#898781" text-anchor="middle">独国境への延焼危険は後退</text>
+</svg>

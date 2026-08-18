@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">海外の裏付け：JPMorgan Chase「LLM Suite」の規模</text>
+
+  <rect x="24" y="54" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="126" y="95" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">23万人超</text>
+  <text x="126" y="118" font-size="12" fill="#52514e" text-anchor="middle">が生成AI基盤</text>
+  <text x="126" y="134" font-size="12" fill="#52514e" text-anchor="middle">「LLM Suite」を利用</text>
+
+  <rect x="257" y="54" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="359" y="95" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">30〜40%</text>
+  <text x="359" y="118" font-size="12" fill="#52514e" text-anchor="middle">利用者の生産性</text>
+  <text x="359" y="134" font-size="12" fill="#52514e" text-anchor="middle">向上</text>
+
+  <rect x="490" y="54" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="592" y="95" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">約20億ドル</text>
+  <text x="592" y="118" font-size="12" fill="#52514e" text-anchor="middle">年間の削減効果</text>
+  <text x="592" y="134" font-size="12" fill="#52514e" text-anchor="middle">（ダイモンCEO）</text>
+
+  <rect x="24" y="174" width="671" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="202" font-size="12" font-weight="700" fill="#0b0b0b">今後の見立て（2025年に投資家へ説明）</text>
+  <text x="44" y="228" font-size="13" fill="#0b0b0b">運営・口座サービス部門で<tspan fill="#d03b3b" font-weight="700">10%の人員削減</tspan>が可能——「保守的な見積もり」</text>
+  <text x="44" y="252" font-size="12" fill="#52514e">契約解析AI「COiN」は年間36万時間分の法務作業を自動化</text>
+  <text x="44" y="272" font-size="11" fill="#898781">出典: CNBC（2025年9月）／Forbes（2026年7月）※原典は米国基準の数字、日本の労務慣行と単純比較不可</text>
+</svg>
