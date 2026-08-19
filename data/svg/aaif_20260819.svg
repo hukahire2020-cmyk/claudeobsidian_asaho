@@ -1,0 +1,20 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">Agentic AI Foundation、加盟団体が8カ月で6倍超</text>
+  <text x="24" y="54" font-size="11" fill="#898781">Anthropic・OpenAI・Blockなどが設立。2025年12月発足→2026年8月</text>
+
+  <!-- horizontal bar comparison -->
+  <g>
+    <text x="150" y="100" font-size="12" fill="#52514e" text-anchor="end">2025年12月発足時</text>
+    <rect x="160" y="82" width="45" height="24" fill="#c3c2b7"/>
+    <text x="215" y="100" font-size="13" font-weight="700" fill="#52514e">40未満の団体</text>
+
+    <text x="150" y="150" font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="700">2026年8月17日</text>
+    <rect x="160" y="132" width="290" height="24" fill="#2a78d6"/>
+    <text x="460" y="150" font-size="13" font-weight="700" fill="#2a78d6">250団体超</text>
+  </g>
+
+  <rect x="24" y="190" width="672" height="70" rx="8" fill="#f9f9f7"/>
+  <text x="44" y="216" font-size="12" fill="#52514e">A2A（Agent2Agent Protocol）がGoogle発の規格からAAIF傘下へ移管。</text>
+  <text x="44" y="238" font-size="12" fill="#52514e">エージェント間の相互接続を担うMCP（Model Context Protocol）と同じ組織に集約された。</text>
+</svg>

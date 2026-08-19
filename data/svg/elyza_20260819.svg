@@ -1,0 +1,19 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">ELYZA×三井住友カード：入会審査の2割を自動判定</text>
+  <text x="24" y="54" font-size="11" fill="#898781">2026年3月下旬 本番運用開始／7月10日 成果発表</text>
+
+  <!-- funnel: total review -> automated portion -->
+  <g transform="translate(60,90)">
+    <rect x="0" y="0" width="560" height="46" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="280" y="30" font-size="13" fill="#52514e" text-anchor="middle">担当者による入会審査（全体）</text>
+  </g>
+  <g transform="translate(60,150)">
+    <rect x="0" y="0" width="112" height="46" rx="8" fill="#2a78d6"/>
+    <text x="56" y="30" font-size="13" fill="#fff" text-anchor="middle" font-weight="700">20%</text>
+    <text x="56" y="70" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="700">自動判定AIが代替</text>
+  </g>
+
+  <rect x="24" y="212" width="672" height="34" rx="6" fill="#f9f9f7"/>
+  <text x="44" y="234" font-size="11" fill="#52514e">目視で行っていた判定プロセスの一部を自動化し、審査の迅速化と担当者の業務削減を実現</text>
+</svg>

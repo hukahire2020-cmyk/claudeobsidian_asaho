@@ -1,0 +1,32 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">京都銀行：融資稟議書AIで審査合格率が急上昇</text>
+  <text x="24" y="54" font-size="11" fill="#898781">NTTデータ「LITRON Generative Assistant on finposs」導入検証結果（2026年7月本番稼働）</text>
+
+  <!-- donut gauge before/after -->
+  <g transform="translate(150,170)">
+    <circle r="70" fill="none" stroke="#e1e0d9" stroke-width="18"/>
+    <circle r="70" fill="none" stroke="#c3c2b7" stroke-width="18"
+      stroke-dasharray="131.9 439.8" stroke-dashoffset="109.9" transform="rotate(-90)"/>
+    <text y="8" font-size="24" font-weight="700" fill="#52514e" text-anchor="middle">30%</text>
+    <text y="-90" font-size="12" fill="#52514e" text-anchor="middle">導入前</text>
+  </g>
+
+  <g transform="translate(400,170)">
+    <circle r="70" fill="none" stroke="#e1e0d9" stroke-width="18"/>
+    <circle r="70" fill="none" stroke="#2a78d6" stroke-width="18"
+      stroke-dasharray="417.8 439.8" stroke-dashoffset="109.9" transform="rotate(-90)"/>
+    <text y="8" font-size="24" font-weight="700" fill="#2a78d6" text-anchor="middle">95%</text>
+    <text y="-90" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="700">導入後</text>
+  </g>
+
+  <text x="275" y="175" font-size="20" fill="#898781" text-anchor="middle">→</text>
+
+  <rect x="500" y="110" width="196" height="130" rx="8" fill="#f9f9f7"/>
+  <text x="598" y="136" font-size="12" fill="#52514e" text-anchor="middle">稟議書 作成時間</text>
+  <text x="598" y="166" font-size="22" font-weight="700" fill="#2a78d6" text-anchor="middle">約50%削減</text>
+  <text x="598" y="196" font-size="12" fill="#52514e" text-anchor="middle">年間削減効果</text>
+  <text x="598" y="220" font-size="18" font-weight="700" fill="#0b0b0b" text-anchor="middle">最大11,700時間</text>
+
+  <text x="24" y="280" font-size="11" fill="#898781">「審査役評価の合格ライン到達率」＝稟議書素案がそのまま審査を通過できる水準に達した割合</text>
+</svg>

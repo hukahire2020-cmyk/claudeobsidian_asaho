@@ -1,0 +1,34 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">Anthropicの年換算売上、7カ月で7倍に</text>
+  <text x="24" y="54" font-size="11" fill="#898781">2025年末→2026年7月末の年換算収益（ランレート）推移</text>
+
+  <!-- bar chart: run rate growth -->
+  <g>
+    <!-- axis baseline -->
+    <line x1="70" y1="230" x2="660" y2="230" stroke="#c3c2b7" stroke-width="1"/>
+    <!-- bar 1: end 2025, $9B -->
+    <rect x="110" y="222" width="70" height="8" fill="#c3c2b7"/>
+    <text x="145" y="248" font-size="11" fill="#52514e" text-anchor="middle">2025年末</text>
+    <text x="145" y="212" font-size="13" font-weight="700" fill="#52514e" text-anchor="middle">90億ドル</text>
+
+    <!-- bar 2: May 2026, $47B -->
+    <rect x="290" y="120" width="70" height="110" fill="#c3c2b7"/>
+    <text x="325" y="248" font-size="11" fill="#52514e" text-anchor="middle">2026年5月</text>
+    <text x="325" y="110" font-size="13" font-weight="700" fill="#52514e" text-anchor="middle">470億ドル</text>
+
+    <!-- bar 3: July 2026, $65B -->
+    <rect x="470" y="70" width="70" height="160" fill="#2a78d6"/>
+    <text x="505" y="248" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">2026年7月末</text>
+    <text x="505" y="60" font-size="15" font-weight="700" fill="#2a78d6" text-anchor="middle">650億ドル</text>
+  </g>
+
+  <!-- side stat panel -->
+  <rect x="580" y="70" width="0" height="0" fill="none"/>
+  <g transform="translate(24,266)">
+    <rect x="0" y="0" width="330" height="0" fill="none"/>
+  </g>
+
+  <rect x="24" y="262" width="672" height="26" rx="6" fill="#f9f9f7"/>
+  <text x="36" y="279" font-size="11" fill="#52514e">Q2売上115億ドル（前年比14倍）／四半期の営業利益が初の黒字化／IPOは2兆ドル評価も視野</text>
+</svg>
