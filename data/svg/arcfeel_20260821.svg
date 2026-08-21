@@ -1,0 +1,39 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">ARCFEELGROUP: 半年でAIツール8本を内製</text>
+  <text x="24" y="60" font-size="12" fill="#52514e">建設グループ・社員110名 — 2026年8月10日発表（着手 2026年1月）</text>
+
+  <g font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+    <rect x="24" y="82" width="160" height="96" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="104" y="126" font-size="30" font-weight="800" fill="#2a78d6" text-anchor="middle">8本</text>
+    <text x="104" y="148" font-size="11" fill="#52514e" text-anchor="middle">内製したAIツール数</text>
+
+    <rect x="196" y="82" width="160" height="96" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="276" y="126" font-size="30" font-weight="800" fill="#0b0b0b" text-anchor="middle">約6ヶ月</text>
+    <text x="276" y="148" font-size="11" fill="#52514e" text-anchor="middle">開発期間（外注ゼロ）</text>
+
+    <rect x="368" y="82" width="160" height="96" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="448" y="126" font-size="30" font-weight="800" fill="#008300" text-anchor="middle">5,126件</text>
+    <text x="448" y="148" font-size="11" fill="#52514e" text-anchor="middle">日報運用実績（4月〜8/7）</text>
+
+    <rect x="540" y="82" width="156" height="96" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="618" y="126" font-size="30" font-weight="800" fill="#0b0b0b" text-anchor="middle">58名</text>
+    <text x="618" y="148" font-size="11" fill="#52514e" text-anchor="middle">日常的な利用者数</text>
+  </g>
+
+  <text x="24" y="204" font-size="12.5" font-weight="700" fill="#0b0b0b">内製した8本の内訳</text>
+  <g font-size="10.8" fill="#0b0b0b">
+    <rect x="24" y="216" width="158" height="26" rx="13" fill="#f9f9f7" stroke="#e1e0d9"/><text x="103" y="233" text-anchor="middle">建設日報アプリ</text>
+    <rect x="188" y="216" width="158" height="26" rx="13" fill="#f9f9f7" stroke="#e1e0d9"/><text x="267" y="233" text-anchor="middle">経費精算AI</text>
+    <rect x="352" y="216" width="158" height="26" rx="13" fill="#f9f9f7" stroke="#e1e0d9"/><text x="431" y="233" text-anchor="middle">キャッシュフローAI</text>
+    <rect x="516" y="216" width="176" height="26" rx="13" fill="#f9f9f7" stroke="#e1e0d9"/><text x="604" y="233" text-anchor="middle">経営ダッシュボードAI</text>
+
+    <rect x="24" y="248" width="158" height="26" rx="13" fill="#f9f9f7" stroke="#e1e0d9"/><text x="103" y="265" text-anchor="middle">社内掲示板</text>
+    <rect x="188" y="248" width="158" height="26" rx="13" fill="#f9f9f7" stroke="#e1e0d9"/><text x="267" y="265" text-anchor="middle">工程管理AI</text>
+    <rect x="352" y="248" width="158" height="26" rx="13" fill="#f9f9f7" stroke="#e1e0d9"/><text x="431" y="265" text-anchor="middle">積算AI（図面→数量）</text>
+    <rect x="516" y="248" width="176" height="26" rx="13" fill="#f9f9f7" stroke="#e1e0d9"/><text x="604" y="265" text-anchor="middle">顧問専用アプリ</text>
+  </g>
+
+  <text x="24" y="300" font-size="11.5" fill="#52514e">「既製システムは業種が同じでも会社ごとに業務フローが違い、必ずどこか合わなくなる」——導入背景</text>
+  <text x="24" y="322" font-size="10.5" fill="#898781">出典: ARCFEELGROUP公式プレスリリース（PR TIMES, 8/10）</text>
+</svg>

@@ -1,0 +1,53 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">トランプ、イランに「前例のない経済戦争」</text>
+  <text x="24" y="60" font-size="12" fill="#52514e">2026年8月19日発表 — 支援国も制裁対象に</text>
+
+  <!-- timeline -->
+  <line x1="40" y1="100" x2="680" y2="100" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="70" cy="100" r="5" fill="#898781"/>
+  <text x="70" y="88" font-size="10.5" fill="#898781" text-anchor="middle">2026/2/28</text>
+  <text x="70" y="118" font-size="10.5" fill="#52514e" text-anchor="middle">米・イスラエル</text>
+  <text x="70" y="131" font-size="10.5" fill="#52514e" text-anchor="middle">対イラン攻撃開始</text>
+
+  <circle cx="270" cy="100" r="5" fill="#898781"/>
+  <text x="270" y="88" font-size="10.5" fill="#898781" text-anchor="middle">2026/6</text>
+  <text x="270" y="118" font-size="10.5" fill="#52514e" text-anchor="middle">戦闘終結の覚書</text>
+  <text x="270" y="131" font-size="10.5" fill="#52514e" text-anchor="middle">核協議は停滞</text>
+
+  <circle cx="470" cy="100" r="5" fill="#898781"/>
+  <text x="470" y="88" font-size="10.5" fill="#898781" text-anchor="middle">2026/8上旬</text>
+  <text x="470" y="118" font-size="10.5" fill="#52514e" text-anchor="middle">ホルムズ海峡</text>
+  <text x="470" y="131" font-size="10.5" fill="#52514e" text-anchor="middle">通航交渉が難航</text>
+
+  <circle cx="650" cy="100" r="7" fill="#d03b3b"/>
+  <text x="650" y="88" font-size="11" fill="#d03b3b" font-weight="700" text-anchor="middle">8/19</text>
+  <text x="650" y="118" font-size="10.5" fill="#0b0b0b" font-weight="600" text-anchor="middle">大規模制裁</text>
+  <text x="650" y="131" font-size="10.5" fill="#0b0b0b" font-weight="600" text-anchor="middle">強化を表明</text>
+
+  <!-- sanction targets -->
+  <text x="24" y="170" font-size="12.5" font-weight="700" fill="#0b0b0b">制裁対象とされた主な手口</text>
+  <g font-size="11.5" fill="#0b0b0b">
+    <rect x="24" y="182" width="106" height="30" rx="15" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="77" y="201" text-anchor="middle">原油密輸</text>
+    <rect x="140" y="182" width="106" height="30" rx="15" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="193" y="201" text-anchor="middle">通貨スワップ</text>
+    <rect x="256" y="182" width="106" height="30" rx="15" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="309" y="201" text-anchor="middle">現金移転</text>
+    <rect x="372" y="182" width="106" height="30" rx="15" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="425" y="201" text-anchor="middle">両替所</text>
+    <rect x="488" y="182" width="106" height="30" rx="15" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="541" y="201" text-anchor="middle">船舶登録</text>
+    <rect x="604" y="182" width="92" height="30" rx="15" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="650" y="201" text-anchor="middle">ペーパー会社</text>
+  </g>
+
+  <!-- quote box -->
+  <rect x="24" y="234" width="672" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="260" font-size="12.5" fill="#0b0b0b">「イランに生命線を提供するいかなる国も甚大な経済的打撃を被る」</text>
+  <text x="44" y="282" font-size="12.5" fill="#0b0b0b">「これまでどの国にも科したことのない、最も壊滅的な経済作戦」</text>
+  <text x="44" y="298" font-size="10.5" fill="#898781">—トランプ大統領（8/19、SNS投稿）</text>
+
+  <text x="24" y="330" font-size="11.5" fill="#52514e">対象: [[二次制裁（セカンダリー・サンクション）]] の枠組みで第三国の企業・金融機関にも波及</text>
+  <text x="24" y="352" font-size="10.5" fill="#898781">出典: 読売新聞オンライン・産経新聞・AFPBB News（いずれも8/19）</text>
+</svg>

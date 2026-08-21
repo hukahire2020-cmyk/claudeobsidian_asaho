@@ -1,0 +1,32 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">建設業のAI「成果実感」率、1年で倍増</text>
+  <text x="24" y="60" font-size="12" fill="#52514e">ServiceTitan「2026 Commercial Specialty Contractor Industry Report」(3/30公表・1,000人超調査)</text>
+
+  <!-- bar comparison -->
+  <text x="60" y="100" font-size="12" fill="#52514e">2025年</text>
+  <rect x="120" y="86" width="90" height="24" fill="#c3c2b7" rx="3"/>
+  <text x="220" y="103" font-size="13" font-weight="700" fill="#0b0b0b">17%</text>
+
+  <text x="60" y="140" font-size="12" fill="#52514e">2026年</text>
+  <rect x="120" y="126" width="201" height="24" fill="#2a78d6" rx="3"/>
+  <text x="331" y="143" font-size="13" font-weight="700" fill="#2a78d6">38%</text>
+  <text x="120" y="168" font-size="10.5" fill="#898781">「AIによる測定可能な事業インパクトがあった」との回答割合</text>
+
+  <rect x="24" y="188" width="672" height="1" fill="#e1e0d9"/>
+
+  <text x="24" y="216" font-size="12.5" font-weight="700" fill="#0b0b0b">AI活用領域トップ2</text>
+  <g font-size="11.5" fill="#0b0b0b">
+    <rect x="24" y="228" width="220" height="28" rx="14" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="134" y="247" text-anchor="middle">原価見積・予算管理（24%）</text>
+    <rect x="256" y="228" width="180" height="28" rx="14" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="346" y="247" text-anchor="middle">入札管理（22%）</text>
+  </g>
+
+  <rect x="460" y="204" width="236" height="86" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="578" y="238" font-size="26" font-weight="800" fill="#008300" text-anchor="middle">+14〜15%</text>
+  <text x="578" y="260" font-size="11" fill="#52514e" text-anchor="middle">McKinsey試算: デジタル化・AI</text>
+  <text x="578" y="276" font-size="11" fill="#52514e" text-anchor="middle">浸透時の業界全体の生産性向上幅</text>
+
+  <text x="24" y="322" font-size="10.5" fill="#898781">出典: ServiceTitan公式プレスリリース(3/30) / McKinsey公式サイト</text>
+</svg>

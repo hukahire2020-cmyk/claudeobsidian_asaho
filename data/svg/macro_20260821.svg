@@ -1,0 +1,45 @@
+<svg viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="358" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">国際政治×マクロ: 逆方向の材料が同時進行</text>
+  <text x="24" y="60" font-size="12" fill="#52514e">2026年8月19〜20日</text>
+
+  <!-- causal chain -->
+  <g font-size="11" fill="#0b0b0b">
+    <rect x="24" y="80" width="140" height="52" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="94" y="102" text-anchor="middle">イラン制裁強化</text>
+    <text x="94" y="118" text-anchor="middle" fill="#d03b3b">地政学リスク再燃</text>
+
+    <text x="172" y="112" font-size="16" fill="#898781">→</text>
+
+    <rect x="188" y="80" width="140" height="52" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="258" y="102" text-anchor="middle">米財務省</text>
+    <text x="258" y="118" text-anchor="middle">国債買い戻し増額</text>
+
+    <text x="336" y="112" font-size="16" fill="#898781">→</text>
+
+    <rect x="352" y="80" width="140" height="52" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="422" y="102" text-anchor="middle">米長期金利</text>
+    <text x="422" y="118" text-anchor="middle" fill="#2a78d6">低下</text>
+
+    <text x="500" y="112" font-size="16" fill="#898781">→</text>
+
+    <rect x="516" y="80" width="180" height="52" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="606" y="102" text-anchor="middle">ドル円下げ渋り</text>
+    <text x="606" y="118" text-anchor="middle" fill="#008300">日経平均は反発</text>
+  </g>
+
+  <!-- stats -->
+  <rect x="24" y="156" width="330" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="189" y="200" font-size="30" font-weight="800" fill="#2a78d6" text-anchor="middle">158円11〜12銭</text>
+  <text x="189" y="222" font-size="11.5" fill="#52514e" text-anchor="middle">ドル円（8/20 朝7時、前日比+1円06銭）</text>
+  <text x="189" y="242" font-size="10.5" fill="#898781" text-anchor="middle">米長期金利低下でドル買い一服</text>
+
+  <rect x="366" y="156" width="330" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="531" y="200" font-size="26" font-weight="800" fill="#008300" text-anchor="middle">66,216.79円</text>
+  <text x="531" y="222" font-size="11.5" fill="#52514e" text-anchor="middle">日経平均（8/20終値）</text>
+  <text x="531" y="242" font-size="14" font-weight="700" fill="#008300" text-anchor="middle">前日比 +890.37円（+1.36%）</text>
+
+  <rect x="24" y="286" width="672" height="1" fill="#e1e0d9"/>
+  <text x="24" y="312" font-size="11.5" fill="#0b0b0b" font-weight="600">役員と話すときの要点: 地政学リスクと金利、片方だけ見ていると読み違える局面</text>
+  <text x="24" y="336" font-size="10.5" fill="#898781">出典: oanda.jp(8/20) / 財経新聞(8/20) / 読売新聞オンライン(8/19)</text>
+</svg>

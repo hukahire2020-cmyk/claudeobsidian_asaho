@@ -1,0 +1,27 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">NTT-AT: WinActor Ver.7.7.0にAIヘルプ搭載</text>
+  <text x="24" y="60" font-size="12" fill="#52514e">2026年8月19日発表 — 9月1日販売開始</text>
+
+  <!-- timeline -->
+  <line x1="60" y1="110" x2="660" y2="110" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="120" cy="110" r="6" fill="#2a78d6"/>
+  <text x="120" y="96" font-size="11" fill="#2a78d6" font-weight="700" text-anchor="middle">8/19</text>
+  <text x="120" y="130" font-size="11" fill="#0b0b0b" text-anchor="middle">販売開始発表</text>
+
+  <circle cx="600" cy="110" r="6" fill="#008300"/>
+  <text x="600" y="96" font-size="11" fill="#008300" font-weight="700" text-anchor="middle">9/1</text>
+  <text x="600" y="130" font-size="11" fill="#0b0b0b" text-anchor="middle">販売開始</text>
+
+  <rect x="24" y="160" width="330" height="86" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="186" font-size="13" font-weight="700" fill="#0b0b0b">新機能: AIヘルプ</text>
+  <text x="44" y="208" font-size="11" fill="#52514e">操作方法・エラーの疑問をその場で解決</text>
+  <text x="44" y="228" font-size="11" fill="#52514e">生成AI連携で開発・運用の両面を支援</text>
+
+  <rect x="366" y="160" width="330" height="86" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="386" y="186" font-size="13" font-weight="700" fill="#0b0b0b">解決する課題</text>
+  <text x="386" y="208" font-size="11" fill="#52514e">「操作・エラー対応に時間がかかる」</text>
+  <text x="386" y="228" font-size="11" fill="#52514e">「環境変化で既存シナリオの保守が難しい」</text>
+
+  <text x="24" y="278" font-size="10.5" fill="#898781">出典: NTT-AT公式(8/19)</text>
+</svg>
