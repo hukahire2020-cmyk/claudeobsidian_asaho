@@ -1,0 +1,39 @@
+<svg viewBox="0 0 720 420" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="418" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">OpenAI・Nvidia、オハイオに8GW級データセンター</text>
+  <text x="30" y="58" font-size="12" fill="#898781">2026年8月17日発表——統計タイル</text>
+
+  <!-- tile 1 -->
+  <rect x="30" y="90" width="200" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="46" y="118" font-size="11" fill="#898781">Nvidiaの資金保証(第一期)</text>
+  <text x="46" y="155" font-size="30" font-weight="700" fill="#2a78d6">最大$105B</text>
+  <text x="46" y="178" font-size="11" fill="#898781">約16.5兆円相当</text>
+
+  <!-- tile 2 -->
+  <rect x="250" y="90" width="200" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="266" y="118" font-size="11" fill="#898781">最終的な計算能力</text>
+  <text x="266" y="155" font-size="30" font-weight="700" fill="#0b0b0b">8GW</text>
+  <text x="266" y="178" font-size="11" fill="#898781">新規発電10GW超が必要</text>
+
+  <!-- tile 3 -->
+  <rect x="470" y="90" width="220" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="486" y="118" font-size="11" fill="#898781">雇用創出(建設〜2032年)</text>
+  <text x="486" y="155" font-size="30" font-weight="700" fill="#008300">35,000人</text>
+  <text x="486" y="178" font-size="11" fill="#898781">長期雇用は2,500人</text>
+
+  <text x="30" y="255" font-size="12" font-weight="700" fill="#0b0b0b">整備スケジュール</text>
+  <line x1="30" y1="280" x2="690" y2="280" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="60" cy="280" r="5" fill="#2a78d6"/>
+  <text x="60" y="305" font-size="11" text-anchor="middle" fill="#52514e">2026年8月</text>
+  <text x="60" y="320" font-size="11" text-anchor="middle" fill="#52514e">正式発表</text>
+
+  <circle cx="360" cy="280" r="5" fill="#c3c2b7"/>
+  <text x="360" y="305" font-size="11" text-anchor="middle" fill="#52514e">建設フェーズ</text>
+  <text x="360" y="320" font-size="11" text-anchor="middle" fill="#52514e">SB Energy(ソフトバンク子会社)が担当</text>
+
+  <circle cx="660" cy="280" r="5" fill="#008300"/>
+  <text x="660" y="305" font-size="11" text-anchor="middle" fill="#52514e">2028年</text>
+  <text x="660" y="320" font-size="11" text-anchor="middle" fill="#52514e">稼働開始予定</text>
+
+  <text x="30" y="370" font-size="11" fill="#898781">立地: オハイオ州パイクカウンティ(PORTS-Pikeテクノロジーキャンパス)</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">生成AI最新トレンド——「賢さ」から「信頼性」へ</text>
+  <text x="30" y="58" font-size="12" fill="#898781">2026年8月の主要発表タイムライン</text>
+
+  <line x1="80" y1="110" x2="640" y2="110" stroke="#c3c2b7" stroke-width="2"/>
+
+  <circle cx="120" cy="110" r="6" fill="#2a78d6"/>
+  <text x="120" y="90" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">8月6日</text>
+  <text x="120" y="140" font-size="11" text-anchor="middle" fill="#52514e">OpenAI</text>
+  <text x="120" y="156" font-size="11" text-anchor="middle" fill="#52514e">GPT-5.6 Sol/Luna</text>
+  <text x="120" y="172" font-size="11" text-anchor="middle" fill="#52514e">プラン別に刷新</text>
+
+  <circle cx="380" cy="110" r="6" fill="#008300"/>
+  <text x="380" y="90" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">8月14日</text>
+  <text x="380" y="140" font-size="11" text-anchor="middle" fill="#52514e">Anthropic</text>
+  <text x="380" y="156" font-size="11" text-anchor="middle" fill="#52514e">Claude生成物に</text>
+  <text x="380" y="172" font-size="11" text-anchor="middle" fill="#52514e">電子透かしを付与</text>
+
+  <circle cx="600" cy="110" r="6" fill="#008300"/>
+  <text x="600" y="90" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">8月20日</text>
+  <text x="600" y="140" font-size="11" text-anchor="middle" fill="#52514e">Anthropic</text>
+  <text x="600" y="156" font-size="11" text-anchor="middle" fill="#52514e">Claude Academy</text>
+  <text x="600" y="172" font-size="11" text-anchor="middle" fill="#52514e">無料講座26本を公開</text>
+
+  <rect x="30" y="220" width="660" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="46" y="248" font-size="12" font-weight="700" fill="#0b0b0b">競争軸の変化</text>
+  <text x="46" y="275" font-size="12" fill="#52514e">これまで: 「フラッグシップモデルがどれだけ賢いか」の性能競争</text>
+  <text x="46" y="300" font-size="12" fill="#52514e">いま: 真贋判定(電子透かし)・無料での裾野拡大(教育)など</text>
+  <text x="46" y="322" font-size="12" fill="#52514e">「安全に定着させる仕組み」が各社共通の投資先に</text>
+</svg>

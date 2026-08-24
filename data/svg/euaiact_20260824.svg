@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 420" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="418" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">EU AI法「透明性義務」8月2日発効</text>
+  <text x="30" y="58" font-size="12" fill="#898781">施行タイムラインと日本企業への影響</text>
+
+  <line x1="60" y1="110" x2="660" y2="110" stroke="#c3c2b7" stroke-width="2"/>
+
+  <circle cx="90" cy="110" r="6" fill="#c3c2b7"/>
+  <text x="90" y="140" font-size="11" text-anchor="middle" fill="#0b0b0b" font-weight="700">2025年2月</text>
+  <text x="90" y="156" font-size="11" text-anchor="middle" fill="#52514e">禁止行為の規制開始</text>
+
+  <circle cx="290" cy="110" r="6" fill="#2a78d6"/>
+  <text x="290" y="140" font-size="11" text-anchor="middle" fill="#0b0b0b" font-weight="700">7月20日</text>
+  <text x="290" y="156" font-size="11" text-anchor="middle" fill="#52514e">欧州委員会がガイドライン採択</text>
+
+  <circle cx="450" cy="110" r="7" fill="#d03b3b"/>
+  <text x="450" y="140" font-size="11" text-anchor="middle" fill="#0b0b0b" font-weight="700">8月2日 ★発効</text>
+  <text x="450" y="156" font-size="11" text-anchor="middle" fill="#52514e">透明性義務スタート</text>
+
+  <circle cx="620" cy="110" r="6" fill="#c3c2b7"/>
+  <text x="620" y="140" font-size="11" text-anchor="middle" fill="#0b0b0b" font-weight="700">12月2日</text>
+  <text x="620" y="156" font-size="11" text-anchor="middle" fill="#52514e">電子透かし義務の経過措置終了</text>
+
+  <text x="30" y="205" font-size="12" font-weight="700" fill="#0b0b0b">義務の中身(第50条)</text>
+  <rect x="30" y="220" width="320" height="34" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="242" font-size="12" fill="#52514e">チャットボット等は「AIである」ことを明示</text>
+  <rect x="370" y="220" width="320" height="34" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="382" y="242" font-size="12" fill="#52514e">ディープフェイクにはラベル表示義務</text>
+  <rect x="30" y="264" width="320" height="34" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="286" font-size="12" fill="#52514e">AI生成コンテンツに機械可読な電子透かし</text>
+  <rect x="370" y="264" width="320" height="34" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="382" y="286" font-size="12" fill="#52514e">違反時は最大1,500万ユーロ or 売上高3%</text>
+
+  <rect x="30" y="320" width="660" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="46" y="345" font-size="12" font-weight="700" fill="#d03b3b">域外適用の対象に</text>
+  <text x="46" y="365" font-size="12" fill="#52514e">EU域内向けにチャットボット・生成AIサービスを提供する日本企業も、日本の法整備を待たずEU基準での対応が必要</text>
+</svg>

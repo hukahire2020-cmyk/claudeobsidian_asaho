@@ -1,0 +1,23 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">「AI投資拡大＝人員削減」は思い込みだった</text>
+  <text x="30" y="58" font-size="12" fill="#898781">AI白書2026調査(角川アスキー総合研究所・8/20発表・有効回答310件)</text>
+
+  <!-- comparison bars -->
+  <text x="30" y="110" font-size="12" fill="#52514e">AI投資を「増やす」見込みの企業</text>
+  <rect x="280" y="95" width="130" height="24" rx="4" fill="#2a78d6"/>
+  <text x="420" y="112" font-size="13" font-weight="700" fill="#0b0b0b">約14%が人員減少見込み</text>
+
+  <text x="30" y="160" font-size="12" fill="#52514e">AI投資が「横ばい」見込みの企業</text>
+  <rect x="280" y="145" width="130" height="24" rx="4" fill="#c3c2b7"/>
+  <text x="420" y="162" font-size="13" font-weight="700" fill="#0b0b0b">約14%が人員減少見込み</text>
+
+  <line x1="280" y1="95" x2="280" y2="169" stroke="#e1e0d9" stroke-width="1"/>
+
+  <rect x="30" y="210" width="660" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="46" y="245" font-size="13" fill="#0b0b0b" font-weight="700">投資を増やしても増やさなくても、人員削減の見込みは変わらない</text>
+
+  <rect x="30" y="290" width="660" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="46" y="318" font-size="12" fill="#52514e">国内企業では「AIで人を減らす」より</text>
+  <text x="46" y="340" font-size="14" font-weight="700" fill="#008300">「AIも人も増やす」シナリオが多数派</text>
+</svg>
