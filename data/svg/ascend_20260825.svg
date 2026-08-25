@@ -1,0 +1,23 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">アセンド「ロジックス」: 点検・整備費の入力工数削減</text>
+  <text x="24" y="54" font-size="12" fill="#898781">2026年8月20日発表 / トラック運送業</text>
+
+  <rect x="24" y="80" width="260" height="200" rx="8" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="48" y="112" font-size="12" fill="#52514e">AI-OCR導入による</text>
+  <text x="48" y="130" font-size="12" fill="#52514e">データ入力工数の削減</text>
+  <text x="48" y="220" font-size="60" font-weight="700" fill="#2a78d6">70%</text>
+  <text x="48" y="248" font-size="12" fill="#52514e">最大削減幅（従来比）</text>
+
+  <rect x="304" y="80" width="392" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="324" y="106" font-size="12" font-weight="700" fill="#0b0b0b">原価上昇を実感する事業者</text>
+  <text x="324" y="150" font-size="34" font-weight="700" fill="#d03b3b">約9割</text>
+  <text x="480" y="150" font-size="12" fill="#52514e">燃料費・車両費の高騰が背景</text>
+
+  <rect x="304" y="186" width="392" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="324" y="212" font-size="12" font-weight="700" fill="#0b0b0b">原価を分析・改善に活かせている事業者</text>
+  <text x="324" y="256" font-size="34" font-weight="700" fill="#008300">4社に1社</text>
+  <text x="500" y="256" font-size="12" fill="#52514e">残る7〜8割に伸びしろ</text>
+
+  <text x="24" y="302" font-size="10" fill="#898781">出典: アセンド株式会社公式（PR TIMES）(8/20)</text>
+</svg>

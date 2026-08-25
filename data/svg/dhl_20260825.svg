@@ -1,0 +1,19 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">DHL×HappyRobot: AIエージェントの年間対応量</text>
+  <text x="24" y="54" font-size="12" fill="#898781">DHLサプライチェーン、複数拠点で稼働中</text>
+
+  <rect x="24" y="80" width="320" height="170" rx="8" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="48" y="112" font-size="12" fill="#52514e">年間メール対応件数</text>
+  <text x="48" y="180" font-size="44" font-weight="700" fill="#2a78d6">数十万件</text>
+  <text x="48" y="216" font-size="12" fill="#52514e">予約調整・ドライバー連絡</text>
+  <text x="48" y="234" font-size="12" fill="#52514e">倉庫との優先調整など</text>
+
+  <rect x="368" y="80" width="328" height="170" rx="8" fill="#f9f9f7" stroke="#008300" stroke-width="1.5"/>
+  <text x="392" y="112" font-size="12" fill="#52514e">年間音声対応時間</text>
+  <text x="392" y="180" font-size="44" font-weight="700" fill="#008300">数百万分</text>
+  <text x="392" y="216" font-size="12" fill="#52514e">電話での自律応対を</text>
+  <text x="392" y="234" font-size="12" fill="#52514e">複数リージョンで実施</text>
+
+  <text x="24" y="282" font-size="10" fill="#898781">出典: DHL Group公式プレスリリース（2025年11月・継続稼働中）</text>
+</svg>

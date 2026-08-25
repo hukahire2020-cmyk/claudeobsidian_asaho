@@ -1,0 +1,43 @@
+<svg viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="358" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">中東緊張の再燃——対仏外交摩擦とホルムズ海峡</text>
+  <text x="24" y="54" font-size="12" fill="#898781">2026年8月18日〜24日の経緯</text>
+
+  <!-- timeline -->
+  <line x1="60" y1="110" x2="660" y2="110" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="90" cy="110" r="6" fill="#2a78d6"/>
+  <circle cx="300" cy="110" r="6" fill="#d03b3b"/>
+  <circle cx="510" cy="110" r="6" fill="#d03b3b"/>
+  <circle cx="660" cy="110" r="7" fill="#d03b3b"/>
+
+  <text x="90" y="90" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">7月</text>
+  <text x="90" y="135" font-size="11" fill="#52514e" text-anchor="middle">フーシ派がサウジ</text>
+  <text x="90" y="149" font-size="11" fill="#52514e" text-anchor="middle">籍タンカーを攻撃</text>
+
+  <text x="300" y="90" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">8月18日</text>
+  <text x="300" y="135" font-size="11" fill="#52514e" text-anchor="middle">仏、イラン外交官</text>
+  <text x="300" y="149" font-size="11" fill="#52514e" text-anchor="middle">2人の追放を発表</text>
+
+  <text x="510" y="90" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">8月24日</text>
+  <text x="510" y="135" font-size="11" fill="#52514e" text-anchor="middle">イラン外務省が</text>
+  <text x="510" y="149" font-size="11" fill="#52514e" text-anchor="middle">「違法」と非難</text>
+
+  <text x="660" y="90" font-size="12" font-weight="700" fill="#d03b3b" text-anchor="middle">同日</text>
+  <text x="660" y="135" font-size="11" fill="#52514e" text-anchor="middle">タンカー45隻を</text>
+  <text x="660" y="149" font-size="11" fill="#52514e" text-anchor="middle">ブラックリスト化</text>
+
+  <!-- stat panel -->
+  <rect x="24" y="190" width="672" height="150" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="222" font-size="12" fill="#52514e">ペルシャ湾海峡庁が名指しした対象</text>
+  <text x="48" y="278" font-size="46" font-weight="700" fill="#d03b3b">45隻</text>
+  <text x="150" y="260" font-size="12" fill="#52514e">タンカー・LNG/LPG船・製品船が対象</text>
+  <text x="150" y="278" font-size="12" fill="#52514e">違反時: 罰金・拿捕・積荷没収の対象に</text>
+  <text x="150" y="296" font-size="12" fill="#52514e">対象船社にはADNOC L&amp;S・サウジ「バーリ」等</text>
+
+  <rect x="420" y="222" width="252" height="90" rx="6" fill="#fcfcfb" stroke="#e1e0d9"/>
+  <text x="440" y="246" font-size="12" fill="#52514e">世界の海上貿易における</text>
+  <text x="440" y="264" font-size="12" fill="#52514e">ホルムズ海峡の通過シェア</text>
+  <text x="440" y="298" font-size="26" font-weight="700" fill="#2a78d6">1割超</text>
+
+  <text x="24" y="352" font-size="10" fill="#898781">出典: France 24 (8/24) / The Business Standard (8/24) / OilPrice.com (8/24)</text>
+</svg>

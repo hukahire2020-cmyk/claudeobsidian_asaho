@@ -1,0 +1,26 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">MIXI: 「利用拡大」から「事業価値創出」へ</text>
+  <text x="24" y="54" font-size="12" fill="#898781">2026年8月1日付でCAIO新設</text>
+
+  <rect x="24" y="80" width="216" height="170" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="108" font-size="12" fill="#52514e">全社AI活用率</text>
+  <text x="42" y="176" font-size="42" font-weight="700" fill="#2a78d6">99%超</text>
+  <text x="42" y="206" font-size="11" fill="#52514e">「AI推進委員会」主導</text>
+  <text x="42" y="222" font-size="11" fill="#52514e">で全社浸透</text>
+
+  <rect x="252" y="80" width="216" height="170" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="270" y="108" font-size="12" fill="#52514e">年間コスト削減額</text>
+  <text x="270" y="176" font-size="34" font-weight="700" fill="#008300">約10億円</text>
+  <text x="270" y="206" font-size="11" fill="#52514e">既存のAI活用推進</text>
+  <text x="270" y="222" font-size="11" fill="#52514e">による実績</text>
+
+  <rect x="480" y="80" width="216" height="170" rx="8" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="498" y="108" font-size="12" fill="#52514e">新設ポジション</text>
+  <text x="498" y="152" font-size="24" font-weight="700" fill="#0b0b0b">CAIO</text>
+  <text x="498" y="176" font-size="12" fill="#52514e">最高AI責任者</text>
+  <text x="498" y="206" font-size="11" fill="#52514e">村瀨龍馬 取締役</text>
+  <text x="498" y="222" font-size="11" fill="#52514e">上級執行役員が就任</text>
+
+  <text x="24" y="282" font-size="10" fill="#898781">出典: MIXI公式 (8/1)</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">国内AIベンダーの動き（8月）</text>
+  <text x="24" y="54" font-size="12" fill="#898781">機微データ対応と業界特化、2つの方向性</text>
+
+  <rect x="24" y="80" width="320" height="190" rx="8" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="44" y="108" font-size="12" font-weight="700" fill="#2a78d6">8月17日</text>
+  <text x="44" y="132" font-size="13" font-weight="700" fill="#0b0b0b">NTTドコモビジネス</text>
+  <text x="44" y="150" font-size="13" font-weight="700" fill="#0b0b0b">×エクサウィザーズ</text>
+  <text x="44" y="178" font-size="12" fill="#52514e">「クローズドAIエージェント」</text>
+  <text x="44" y="196" font-size="12" fill="#52514e">閉域網・専用環境で提供</text>
+  <text x="44" y="214" font-size="12" fill="#52514e">機微データを外部に出さず</text>
+  <text x="44" y="232" font-size="12" fill="#52514e">NTTの「tsuzumi 2」に対応</text>
+
+  <rect x="368" y="80" width="328" height="190" rx="8" fill="#f9f9f7" stroke="#008300" stroke-width="1.5"/>
+  <text x="388" y="108" font-size="12" font-weight="700" fill="#008300">8月4日</text>
+  <text x="388" y="132" font-size="13" font-weight="700" fill="#0b0b0b">KENCOPA×丸田組</text>
+  <text x="388" y="150" font-size="13" font-weight="700" fill="#0b0b0b">（北海道網走市）</text>
+  <text x="388" y="178" font-size="12" fill="#52514e">「Kencopa工程AIエージェント」</text>
+  <text x="388" y="196" font-size="12" fill="#52514e">建設業特化型、製品版導入</text>
+  <text x="388" y="214" font-size="12" fill="#52514e">工程表作成の負荷軽減</text>
+  <text x="388" y="232" font-size="12" fill="#52514e">若手技術者の工程作成を支援</text>
+
+  <text x="24" y="290" font-size="10" fill="#898781">出典: NTTドコモビジネス公式 (8/17) / KENCOPA公式（PR TIMES）(8/4)</text>
+</svg>

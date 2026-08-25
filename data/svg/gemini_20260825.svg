@@ -1,0 +1,39 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">Gemini Enterprise Agent Platform GA化の歩み</text>
+  <text x="24" y="54" font-size="12" fill="#898781">2026年4月の発表構想から一般提供（GA）まで</text>
+
+  <line x1="60" y1="110" x2="660" y2="110" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="90" cy="110" r="6" fill="#898781"/>
+  <circle cx="330" cy="110" r="6" fill="#2a78d6"/>
+  <circle cx="600" cy="110" r="7" fill="#2a78d6"/>
+
+  <text x="90" y="90" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">4月</text>
+  <text x="90" y="135" font-size="11" fill="#52514e" text-anchor="middle">Cloud Nextで</text>
+  <text x="90" y="149" font-size="11" fill="#52514e" text-anchor="middle">構想を発表</text>
+
+  <text x="330" y="90" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">7月29日</text>
+  <text x="330" y="135" font-size="11" fill="#52514e" text-anchor="middle">Agent Runtime・</text>
+  <text x="330" y="149" font-size="11" fill="#52514e" text-anchor="middle">Memory BankがGA化</text>
+
+  <text x="600" y="90" font-size="12" font-weight="700" fill="#2a78d6" text-anchor="middle">8月17日</text>
+  <text x="600" y="135" font-size="11" fill="#52514e" text-anchor="middle">エージェント・</text>
+  <text x="600" y="149" font-size="11" fill="#52514e" text-anchor="middle">モデル評価機能がGA化</text>
+
+  <rect x="24" y="190" width="216" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="216" font-size="12" font-weight="700" fill="#0b0b0b">Agent Runtime</text>
+  <text x="42" y="260" font-size="26" font-weight="700" fill="#2a78d6">7日間</text>
+  <text x="42" y="284" font-size="11" fill="#52514e">非同期で稼働し続ける</text>
+
+  <rect x="252" y="190" width="216" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="270" y="216" font-size="12" font-weight="700" fill="#0b0b0b">Memory Bank</text>
+  <text x="270" y="250" font-size="13" fill="#52514e">構造化プロフィールを</text>
+  <text x="270" y="268" font-size="13" fill="#52514e">LLMが自動生成・更新</text>
+
+  <rect x="480" y="190" width="216" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="498" y="216" font-size="12" font-weight="700" fill="#0b0b0b">統制機能</text>
+  <text x="498" y="250" font-size="13" fill="#52514e">アイデンティティ管理</text>
+  <text x="498" y="268" font-size="13" fill="#52514e">エージェント乱立防止</text>
+
+  <text x="24" y="322" font-size="10" fill="#898781">出典: Enterprise DNA (8月) / Google Developers Blog (8/17)</text>
+</svg>

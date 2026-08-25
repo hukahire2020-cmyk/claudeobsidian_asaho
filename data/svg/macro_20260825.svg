@@ -1,0 +1,43 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">今週の因果チェーン</text>
+  <text x="24" y="54" font-size="12" fill="#898781">中東リスクとAI株調整が同時進行</text>
+
+  <rect x="24" y="80" width="150" height="66" rx="8" fill="#f9f9f7" stroke="#d03b3b"/>
+  <text x="99" y="106" font-size="11" font-weight="700" fill="#0b0b0b" text-anchor="middle">ホルムズ海峡</text>
+  <text x="99" y="122" font-size="11" font-weight="700" fill="#0b0b0b" text-anchor="middle">の緊張再燃</text>
+  <path d="M178 113 L206 113" stroke="#898781" stroke-width="2" marker-end="url(#a2)"/>
+
+  <rect x="210" y="80" width="150" height="66" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="285" y="106" font-size="11" font-weight="700" fill="#0b0b0b" text-anchor="middle">中東リスク</text>
+  <text x="285" y="122" font-size="11" font-weight="700" fill="#0b0b0b" text-anchor="middle">プレミアム懸念</text>
+  <path d="M364 113 L392 113" stroke="#898781" stroke-width="2" marker-end="url(#a2)"/>
+
+  <rect x="396" y="80" width="150" height="66" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="471" y="106" font-size="11" font-weight="700" fill="#0b0b0b" text-anchor="middle">NVIDIA決算前の</text>
+  <text x="471" y="122" font-size="11" font-weight="700" fill="#0b0b0b" text-anchor="middle">AI株持ち高調整</text>
+  <path d="M550 113 L578 113" stroke="#898781" stroke-width="2" marker-end="url(#a2)"/>
+
+  <rect x="582" y="80" width="114" height="66" rx="8" fill="#f9f9f7" stroke="#d03b3b"/>
+  <text x="639" y="106" font-size="11" font-weight="700" fill="#d03b3b" text-anchor="middle">日経平均</text>
+  <text x="639" y="122" font-size="11" font-weight="700" fill="#d03b3b" text-anchor="middle">続落</text>
+
+  <defs>
+    <marker id="a2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#898781"/>
+    </marker>
+  </defs>
+
+  <rect x="24" y="180" width="320" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="206" font-size="12" fill="#52514e">日経平均株価（8/24終値）</text>
+  <text x="44" y="252" font-size="30" font-weight="700" fill="#d03b3b">65,528円09銭</text>
+  <text x="44" y="274" font-size="12" fill="#52514e">前週末比 488円27銭安</text>
+
+  <rect x="368" y="180" width="328" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="388" y="206" font-size="12" fill="#52514e">ドル円 / 今週の予定</text>
+  <text x="388" y="240" font-size="22" font-weight="700" fill="#0b0b0b">158円台後半</text>
+  <text x="388" y="262" font-size="11" fill="#52514e">8/26 米PCE物価指数、8/28 ジャクソンホール</text>
+  <text x="388" y="278" font-size="11" fill="#52514e">日銀次回会合は9/18</text>
+
+  <text x="24" y="308" font-size="10" fill="#898781">出典: 財経新聞 (8/24) / 外為どっとコム (8/24)</text>
+</svg>

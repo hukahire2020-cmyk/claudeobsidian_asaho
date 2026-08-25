@@ -1,0 +1,23 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">OpenAI、IPOを2027年へ延期検討</text>
+  <text x="24" y="54" font-size="12" fill="#898781">SpaceX株の不安定な値動きが判断材料に</text>
+
+  <rect x="24" y="80" width="330" height="200" rx="8" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="44" y="108" font-size="12" fill="#52514e">目標評価額</text>
+  <text x="44" y="160" font-size="38" font-weight="700" fill="#2a78d6">1兆ドル</text>
+  <text x="44" y="184" font-size="11" fill="#52514e">アルトマンCEOは評価額を</text>
+  <text x="44" y="200" font-size="11" fill="#52514e">下げての早期上場を「論外」と</text>
+  <text x="44" y="216" font-size="11" fill="#52514e">位置付けたと報じられる</text>
+  <text x="44" y="248" font-size="12" fill="#52514e">直近の私募評価額: 8,520億ドル</text>
+  <text x="44" y="264" font-size="12" fill="#52514e">2025年売上高: 約130億ドル</text>
+
+  <rect x="368" y="80" width="328" height="200" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="388" y="108" font-size="12" font-weight="700" fill="#0b0b0b">SpaceX株価（参考指標）</text>
+  <text x="388" y="132" font-size="11" fill="#52514e">6月上場（IPO価格135ドル）</text>
+  <polyline points="388,220 430,160 470,175 510,230 550,250 590,215 630,205" fill="none" stroke="#d03b3b" stroke-width="2.5"/>
+  <text x="388" y="252" font-size="11" fill="#52514e">上場直後に急伸→調整局面で下落</text>
+  <text x="388" y="268" font-size="13" font-weight="700" fill="#d03b3b">8/24時点: 136ドル前後（IPO価格付近）</text>
+
+  <text x="24" y="304" font-size="10" fill="#898781">出典: Forbes JAPAN (8月、NYT報道を引用) / Bloomberg (6/25)</text>
+</svg>
