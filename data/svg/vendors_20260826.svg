@@ -1,0 +1,21 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">国内AIベンダー：業界特化の国産基盤モデルへ投資加速</text>
+
+  <rect x="24" y="60" width="330" height="200" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="88" font-size="12" font-weight="700" fill="#0b0b0b">8/10 ソフトバンク</text>
+  <text x="44" y="114" font-size="12" fill="#0b0b0b">医療特化型LLM「Med-Sarashina」</text>
+  <text x="44" y="134" font-size="12" fill="#0b0b0b">を活用した共同研究を開始</text>
+  <text x="44" y="164" font-size="11" fill="#52514e">汎用LLMから業界特化型へ、</text>
+  <text x="44" y="182" font-size="11" fill="#52514e">医療分野での実用化を先行</text>
+
+  <rect x="366" y="60" width="330" height="200" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="386" y="88" font-size="12" font-weight="700" fill="#0b0b0b">経済産業省 × 新会社「Noetra」</text>
+  <text x="386" y="114" font-size="12" fill="#0b0b0b">ソフトバンク・NEC・ホンダ・</text>
+  <text x="386" y="132" font-size="12" fill="#0b0b0b">ソニー等が出資</text>
+  <text x="524" y="185" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">3,873億円</text>
+  <text x="524" y="207" font-size="11" fill="#0b0b0b" text-anchor="middle">2026年度・フィジカルAI基盤</text>
+  <text x="524" y="223" font-size="11" fill="#0b0b0b" text-anchor="middle">モデル開発への政府拠出方針</text>
+
+  <text x="24" y="284" font-size="11" fill="#898781">出典: SoftBank関連報道（8/10）／日本経済新聞（Noetra関連）</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">NVIDIA、本日決算発表——AI投資の試金石</text>
+
+  <rect x="24" y="60" width="210" height="200" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="129" y="88" font-size="12" fill="#52514e" text-anchor="middle">市場予想・売上高</text>
+  <text x="129" y="140" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">$920億</text>
+  <text x="129" y="163" font-size="12" fill="#0b0b0b" text-anchor="middle">前年比 +97.4%</text>
+  <text x="129" y="200" font-size="12" fill="#52514e" text-anchor="middle">市場予想EPS</text>
+  <text x="129" y="230" font-size="22" font-weight="700" fill="#0b0b0b" text-anchor="middle">$2.09</text>
+
+  <rect x="254" y="60" width="210" height="200" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="359" y="88" font-size="12" fill="#52514e" text-anchor="middle">発表タイミング</text>
+  <text x="359" y="140" font-size="24" font-weight="700" fill="#0b0b0b" text-anchor="middle">8/26引け後</text>
+  <text x="359" y="163" font-size="12" fill="#0b0b0b" text-anchor="middle">（米国時間）</text>
+  <text x="359" y="200" font-size="12" fill="#52514e" text-anchor="middle">2027年度</text>
+  <text x="359" y="222" font-size="16" font-weight="700" fill="#0b0b0b" text-anchor="middle">第2四半期決算</text>
+
+  <rect x="484" y="60" width="212" height="200" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="590" y="88" font-size="12" fill="#52514e" text-anchor="middle">日経平均(8/25終値)</text>
+  <text x="590" y="140" font-size="26" font-weight="700" fill="#008300" text-anchor="middle">65,856円</text>
+  <text x="590" y="163" font-size="12" fill="#008300" text-anchor="middle">前日比 +328円(+0.50%)</text>
+  <text x="590" y="200" font-size="12" fill="#52514e" text-anchor="middle">3日ぶり反発・様子見継続</text>
+</svg>

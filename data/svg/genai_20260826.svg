@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">生成AI各社アップデート（2026年8月24日〜25日）</text>
+
+  <line x1="50" y1="70" x2="50" y2="300" stroke="#c3c2b7" stroke-width="2"/>
+
+  <circle cx="50" cy="90" r="6" fill="#d03b3b"/>
+  <text x="70" y="86" font-size="12" font-weight="700" fill="#d03b3b">8/24 13:50〜16:36</text>
+  <text x="70" y="106" font-size="12" fill="#0b0b0b">Claude Opus 5等で大規模障害（約2時間46分）</text>
+
+  <circle cx="50" cy="140" r="6" fill="#2a78d6"/>
+  <text x="70" y="136" font-size="12" font-weight="700" fill="#2a78d6">8/25</text>
+  <text x="70" y="156" font-size="12" fill="#0b0b0b">Claude、チャットとCoworkの会話メモリーを統合</text>
+
+  <circle cx="50" cy="190" r="6" fill="#2a78d6"/>
+  <text x="70" y="186" font-size="12" font-weight="700" fill="#2a78d6">8/25</text>
+  <text x="70" y="206" font-size="12" fill="#0b0b0b">学習ハブ「Claude Academy」開設</text>
+
+  <circle cx="50" cy="240" r="6" fill="#2a78d6"/>
+  <text x="70" y="236" font-size="12" font-weight="700" fill="#2a78d6">8/25</text>
+  <text x="70" y="256" font-size="12" fill="#0b0b0b">Claude Code 2.1.243：Linux版インストールサイズを</text>
+  <text x="70" y="272" font-size="12" fill="#0b0b0b">約340MB→約75MBへ大幅軽量化</text>
+
+  <circle cx="50" cy="290" r="6" fill="#008300"/>
+  <text x="600" y="286" font-size="12" font-weight="700" fill="#008300" text-anchor="end">Gemini：DNA等の3D構造生成に対応</text>
+
+  <text x="24" y="326" font-size="11" fill="#898781">出典: 各社アップデートまとめ記事（8/25）。個別の障害時間・機能詳細は各社公式ステータス/リリースノートでの確認を推奨</text>
+</svg>

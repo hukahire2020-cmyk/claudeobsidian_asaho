@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">Jalapeño初ベンチマーク——Nvidia GB200/GB300との比較</text>
+  <text x="24" y="54" font-size="11" fill="#898781">SemiAnalysis「InferenceX」ベンチマーク／3モデル（GPT-OSS 120B・DeepSeek R1・Kimi K2.5 1T）平均</text>
+
+  <!-- horizontal bars: multiplier vs Nvidia baseline=1x -->
+  <text x="24" y="100" font-size="12" fill="#52514e">電力あたりAI処理量（Perf/Watt）</text>
+  <rect x="220" y="86" width="90" height="20" fill="#c3c2b7"/>
+  <text x="316" y="101" font-size="11" fill="#52514e">Nvidia基準 1.0x</text>
+  <rect x="220" y="110" width="153" height="20" fill="#2a78d6"/>
+  <text x="379" y="125" font-size="12" font-weight="700" fill="#2a78d6">Jalapeño 1.5〜1.9x</text>
+
+  <text x="24" y="165" font-size="12" fill="#52514e">応答レイテンシ短縮（低いほど高速）</text>
+  <rect x="220" y="151" width="90" height="20" fill="#c3c2b7"/>
+  <text x="316" y="166" font-size="11" fill="#52514e">Nvidia基準 1.0x</text>
+  <rect x="220" y="175" width="234" height="20" fill="#2a78d6"/>
+  <text x="460" y="190" font-size="12" font-weight="700" fill="#2a78d6">Jalapeño 1.7〜3.6x高速</text>
+
+  <text x="24" y="230" font-size="12" fill="#52514e">対話型ワークロード性能</text>
+  <rect x="220" y="216" width="90" height="20" fill="#c3c2b7"/>
+  <text x="316" y="231" font-size="11" fill="#52514e">Nvidia基準 1.0x</text>
+  <rect x="220" y="240" width="270" height="20" fill="#2a78d6"/>
+  <text x="496" y="255" font-size="12" font-weight="700" fill="#2a78d6">Jalapeño 2.1〜4.1x</text>
+
+  <rect x="24" y="290" width="672" height="66" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="315" font-size="12" fill="#0b0b0b" font-weight="700">2026年8月25日・Hot Chips会議で公表（OpenAI×Broadcom共同開発）</text>
+  <text x="44" y="337" font-size="11" fill="#52514e">設計開始からテープアウトまで9カ月。年内後半に自社モデルでの実運用開始を予定</text>
+</svg>
