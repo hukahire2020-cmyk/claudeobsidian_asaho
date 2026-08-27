@@ -1,0 +1,24 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">JPMorgan：2026年テック予算を198億ドルに増額</text>
+  <text x="24" y="60" font-size="12" fill="#898781">2026年2月 投資家向け説明会</text>
+
+  <!-- horizontal bars -->
+  <text x="24" y="104" font-size="12" fill="#52514e">2025年</text>
+  <rect x="140" y="90" width="392" height="24" rx="4" fill="#c3c2b7"/>
+  <text x="540" y="107" font-size="13" font-weight="700" fill="#0b0b0b">約178億ドル</text>
+
+  <text x="24" y="144" font-size="12" fill="#52514e">2026年</text>
+  <rect x="140" y="130" width="436" height="24" rx="4" fill="#2a78d6"/>
+  <text x="584" y="147" font-size="13" font-weight="700" fill="#0b0b0b">198億ドル</text>
+  <text x="140" y="172" font-size="11" fill="#008300">前年比+約20億ドル（+約10%）</text>
+
+  <line x1="24" y1="192" x2="696" y2="192" stroke="#e1e0d9"/>
+
+  <rect x="24" y="208" width="672" height="86" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="232" text-anchor="middle" font-size="13" font-weight="700" fill="#0b0b0b">増額分のうちAI関連プロジェクトへ</text>
+  <text x="360" y="266" text-anchor="middle" font-size="26" font-weight="700" fill="#2a78d6">12億ドル</text>
+  <text x="360" y="286" text-anchor="middle" font-size="11" fill="#52514e">コールセンター効率化／顧客インサイト／ソフトウェア開発支援</text>
+
+  <text x="24" y="322" font-size="11" fill="#898781">出典：mlq.ai／Fortune（投資家向け説明会の報道に基づく。詳細はJPMorgan Chase公式資料での確認を推奨）</text>
+</svg>

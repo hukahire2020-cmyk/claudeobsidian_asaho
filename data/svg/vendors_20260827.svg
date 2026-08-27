@@ -1,0 +1,29 @@
+<svg viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="358" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">Rapidus：政府の追加出資1500億円を2027年度予算に計上へ</text>
+  <text x="24" y="60" font-size="12" fill="#898781">2026年8月20日〜24日報道　経済産業省・IPA経由</text>
+
+  <!-- stacked bar: cumulative government investment -->
+  <text x="24" y="100" font-size="12" fill="#52514e">IPA経由の政府出資（累計）</text>
+
+  <rect x="140" y="112" width="250" height="28" rx="4" fill="#c3c2b7"/>
+  <text x="150" y="132" font-size="12" fill="#0b0b0b">既存 2,500億円</text>
+
+  <rect x="390" y="112" width="150" height="28" rx="4" fill="#2a78d6"/>
+  <text x="400" y="132" font-size="12" fill="#ffffff">追加 1,500億円</text>
+
+  <line x1="140" y1="150" x2="540" y2="150" stroke="#c3c2b7" stroke-dasharray="3,3"/>
+  <text x="340" y="168" text-anchor="middle" font-size="20" font-weight="700" fill="#2a78d6">累計 4,000億円へ</text>
+
+  <line x1="24" y1="196" x2="696" y2="196" stroke="#e1e0d9"/>
+
+  <rect x="24" y="212" width="326" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="236" font-size="12" fill="#52514e">2027年度</text>
+  <text x="40" y="264" font-size="18" font-weight="700" fill="#0b0b0b">2ナノ世代 量産開始</text>
+
+  <rect x="370" y="212" width="326" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="386" y="236" font-size="12" fill="#52514e">その後</text>
+  <text x="386" y="264" font-size="18" font-weight="700" fill="#0b0b0b">1.4ナノ世代へ展開</text>
+
+  <text x="24" y="336" font-size="11" fill="#898781">出典：時事通信（8/24）／Bloomberg（8/21）／NHKニュース（8/21）</text>
+</svg>

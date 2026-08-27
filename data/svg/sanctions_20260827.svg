@@ -1,0 +1,39 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">米国、対イラン「経済版Dデー」——制裁対象5分野</text>
+  <text x="24" y="60" font-size="12" fill="#898781">2026年8月24日発表　ベッセント財務長官</text>
+
+  <!-- 5 sector tiles -->
+  <g font-size="13" fill="#0b0b0b">
+    <rect x="24" y="82" width="128" height="86" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="88" y="118" text-anchor="middle" font-size="24" fill="#d03b3b">🪙</text>
+    <text x="88" y="150" text-anchor="middle">デジタル資産</text>
+
+    <rect x="164" y="82" width="128" height="86" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="228" y="118" text-anchor="middle" font-size="24" fill="#d03b3b">💻</text>
+    <text x="228" y="150" text-anchor="middle">テクノロジー</text>
+
+    <rect x="304" y="82" width="128" height="86" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="368" y="118" text-anchor="middle" font-size="24" fill="#d03b3b">🥇</text>
+    <text x="368" y="150" text-anchor="middle">金</text>
+
+    <rect x="444" y="82" width="128" height="86" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="508" y="118" text-anchor="middle" font-size="24" fill="#d03b3b">✈️</text>
+    <text x="508" y="150" text-anchor="middle">航空</text>
+
+    <rect x="584" y="82" width="112" height="86" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="640" y="118" text-anchor="middle" font-size="24" fill="#d03b3b">🚢</text>
+    <text x="640" y="150" text-anchor="middle">海運</text>
+  </g>
+
+  <line x1="24" y1="190" x2="696" y2="190" stroke="#e1e0d9"/>
+
+  <text x="24" y="224" font-size="14" font-weight="700" fill="#0b0b0b">対象の広さ：イランと取引する第三国も制裁対象</text>
+  <rect x="24" y="240" width="672" height="46" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="268" text-anchor="middle" font-size="13" fill="#52514e">「イランの金融ネットワークに経済的な猛攻撃を開始する」——ベッセント財務長官</text>
+
+  <text x="24" y="322" font-size="12" fill="#52514e">🕰 2月〜: イスラエル・米の軍事作戦　→　8/24: 軍事から金融包囲網への戦略転換</text>
+  <rect x="24" y="336" width="672" height="4" rx="2" fill="#e1e0d9"/>
+  <rect x="24" y="336" width="480" height="4" rx="2" fill="#2a78d6"/>
+  <text x="24" y="362" font-size="11" fill="#898781">出典：Bloomberg / 日本経済新聞 / NHKニュース（各8月24日・25日）</text>
+</svg>

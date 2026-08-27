@@ -1,0 +1,42 @@
+<svg viewBox="0 0 720 420" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="418" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">NVIDIA 2027年度Q2決算（2026年8月26日発表）</text>
+  <text x="24" y="60" font-size="12" fill="#898781">2026年5〜7月期</text>
+
+  <!-- stat tiles row 1 -->
+  <rect x="24" y="80" width="212" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="112" text-anchor="middle" font-size="12" fill="#52514e">売上高</text>
+  <text x="130" y="148" text-anchor="middle" font-size="30" font-weight="700" fill="#2a78d6">962億ドル</text>
+  <text x="130" y="168" text-anchor="middle" font-size="12" fill="#008300">前年比+106%／前期比+18%</text>
+
+  <rect x="254" y="80" width="212" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="112" text-anchor="middle" font-size="12" fill="#52514e">データセンター部門</text>
+  <text x="360" y="148" text-anchor="middle" font-size="30" font-weight="700" fill="#2a78d6">890億ドル</text>
+  <text x="360" y="168" text-anchor="middle" font-size="12" fill="#008300">前年比+117%</text>
+
+  <rect x="484" y="80" width="212" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="590" y="112" text-anchor="middle" font-size="12" fill="#52514e">Q3ガイダンス</text>
+  <text x="590" y="148" text-anchor="middle" font-size="30" font-weight="700" fill="#2a78d6">1080億ドル</text>
+  <text x="590" y="168" text-anchor="middle" font-size="12" fill="#52514e">±2%（市場予想1039億ドル超）</text>
+
+  <line x1="24" y1="198" x2="696" y2="198" stroke="#e1e0d9"/>
+
+  <!-- EPS comparison bars -->
+  <text x="24" y="228" font-size="14" font-weight="700" fill="#0b0b0b">EPS：GAAPが非GAAPを逆転</text>
+  <text x="140" y="252" font-size="12" fill="#52514e">GAAP希薄化後EPS</text>
+  <rect x="260" y="240" width="246" height="18" rx="4" fill="#e1e0d9"/>
+  <rect x="260" y="240" width="246" height="18" rx="4" fill="#2a78d6"/>
+  <text x="514" y="254" font-size="13" font-weight="700" fill="#0b0b0b">2.46ドル</text>
+
+  <text x="140" y="282" font-size="12" fill="#52514e">非GAAP EPS</text>
+  <rect x="260" y="270" width="222" height="18" rx="4" fill="#e1e0d9"/>
+  <rect x="260" y="270" width="222" height="18" rx="4" fill="#c3c2b7"/>
+  <text x="490" y="284" font-size="13" font-weight="700" fill="#0b0b0b">2.22ドル</text>
+  <text x="140" y="304" font-size="11" fill="#898781">（市場予想2.09ドル）</text>
+
+  <rect x="24" y="322" width="672" height="52" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="344" text-anchor="middle" font-size="12" fill="#52514e">逆転の主因：持分証券評価益（主にSpaceX株）約78億ドル</text>
+  <text x="360" y="364" text-anchor="middle" font-size="12" fill="#0b0b0b">決算後、時間外取引で株価は+4%（218.77ドル）</text>
+
+  <text x="24" y="404" font-size="11" fill="#898781">出典：NVIDIA公式（8/26）／Yahoo Finance（8/26）</text>
+</svg>

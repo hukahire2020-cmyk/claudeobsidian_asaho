@@ -1,0 +1,40 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="398" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">Anthropic × ベイン・アンド・カンパニー グローバル提携（2026/8/25）</text>
+  <text x="24" y="60" font-size="12" fill="#898781">Claude Partner Network 最上位「Global Premier」入り</text>
+
+  <!-- funnel -->
+  <g font-size="13">
+    <rect x="24" y="82" width="672" height="46" rx="6" fill="#2a78d6" fill-opacity="0.12" stroke="#2a78d6"/>
+    <text x="360" y="111" text-anchor="middle" font-size="15" font-weight="700" fill="#2a78d6">全世界 19,000人 にClaudeを全社展開</text>
+
+    <path d="M 84 128 L 656 128 L 596 178 L 144 178 Z" fill="#2a78d6" fill-opacity="0.20" stroke="#2a78d6"/>
+    <text x="360" y="158" text-anchor="middle" font-size="14" font-weight="700" fill="#0b0b0b">パイロット期間中、数週間で7,000人超が利用開始</text>
+
+    <path d="M 144 178 L 596 178 L 536 226 L 204 226 Z" fill="#2a78d6" fill-opacity="0.30" stroke="#2a78d6"/>
+    <text x="360" y="206" text-anchor="middle" font-size="13" fill="#0b0b0b">参加者の3分の2以上がExcel向けClaude機能を活用</text>
+  </g>
+
+  <line x1="24" y1="244" x2="696" y2="244" stroke="#e1e0d9"/>
+  <text x="24" y="270" font-size="14" font-weight="700" fill="#0b0b0b">Global Premier階層 認定要件</text>
+
+  <g font-size="12" fill="#0b0b0b">
+    <rect x="24" y="284" width="326" height="42" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="36" y="309" fill="#52514e">認証済みアクティブ利用者</text>
+    <text x="330" y="309" text-anchor="end" font-weight="700" fill="#2a78d6">1,000人以上</text>
+
+    <rect x="370" y="284" width="326" height="42" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="382" y="309" fill="#52514e">導入実績（3リージョン以上）</text>
+    <text x="684" y="309" text-anchor="end" font-weight="700" fill="#2a78d6">100件以上</text>
+
+    <rect x="24" y="332" width="326" height="42" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="36" y="357" fill="#52514e">公開可能な顧客事例</text>
+    <text x="330" y="357" text-anchor="end" font-weight="700" fill="#2a78d6">15件以上</text>
+
+    <rect x="370" y="332" width="326" height="42" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="382" y="357" fill="#52514e">役員を明記した共同事業計画</text>
+    <text x="684" y="357" text-anchor="end" font-weight="700" fill="#2a78d6">必須</text>
+  </g>
+
+  <text x="24" y="392" font-size="11" fill="#898781">出典：Bain &amp; Company公式（8/25）／Unite.AI（8/25）</text>
+</svg>
