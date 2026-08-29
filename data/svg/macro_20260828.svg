@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">今週の因果チェーン</text>
+
+  <g font-size="12" fill="#0b0b0b">
+    <rect x="24" y="58" width="150" height="64" rx="8" fill="#2a78d6" fill-opacity="0.10" stroke="#2a78d6"/>
+    <text x="99" y="84" text-anchor="middle" font-weight="700">ジャクソンホール</text>
+    <text x="99" y="102" text-anchor="middle" font-size="11" fill="#52514e">会議開幕(8/28)</text>
+
+    <text x="182" y="96" font-size="18" fill="#898781">→</text>
+
+    <rect x="200" y="58" width="150" height="64" rx="8" fill="#2a78d6" fill-opacity="0.10" stroke="#2a78d6"/>
+    <text x="275" y="84" text-anchor="middle" font-weight="700">ウォーシュ議長</text>
+    <text x="275" y="102" text-anchor="middle" font-size="11" fill="#52514e">初講演(23時)を待つ</text>
+
+    <text x="358" y="96" font-size="18" fill="#898781">→</text>
+
+    <rect x="376" y="58" width="150" height="64" rx="8" fill="#008300" fill-opacity="0.10" stroke="#008300"/>
+    <text x="451" y="84" text-anchor="middle" font-weight="700">ドル円</text>
+    <text x="451" y="102" text-anchor="middle" font-size="11" fill="#52514e">159円台半ばで様子見</text>
+
+    <text x="534" y="96" font-size="18" fill="#898781">→</text>
+
+    <rect x="552" y="58" width="144" height="64" rx="8" fill="#d03b3b" fill-opacity="0.10" stroke="#d03b3b"/>
+    <text x="624" y="84" text-anchor="middle" font-weight="700">日経平均</text>
+    <text x="624" y="102" text-anchor="middle" font-size="11" fill="#52514e">3日ぶり反落</text>
+  </g>
+
+  <line x1="24" y1="140" x2="696" y2="140" stroke="#e1e0d9"/>
+
+  <rect x="24" y="156" width="326" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="180" font-size="12" fill="#52514e">日経平均株価（8/27終値）</text>
+  <text x="40" y="216" font-size="26" font-weight="700" fill="#d03b3b">66,131円98銭</text>
+  <text x="40" y="238" font-size="12" fill="#52514e">前日比 -130円18銭　3日ぶり反落</text>
+
+  <rect x="370" y="156" width="326" height="94" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="386" y="180" font-size="12" fill="#52514e">ドル円（8/28午前）</text>
+  <text x="386" y="216" font-size="26" font-weight="700" fill="#2a78d6">159円30〜50銭台</text>
+  <text x="386" y="238" font-size="12" fill="#52514e">薄商いで方向感に乏しい</text>
+
+  <rect x="24" y="266" width="672" height="56" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="292" text-anchor="middle" font-size="12" fill="#0b0b0b">ウォーシュ新議長の初講演は日本時間8/28 23時。生産性・人口動態など構造テーマが中心の見通し</text>
+  <text x="360" y="310" text-anchor="middle" font-size="11" fill="#898781">内容次第で長期金利・ドル円のレンジが動く可能性</text>
+
+  <text x="24" y="358" font-size="11" fill="#898781">出典：財経新聞（8/27）／NHKニュース（8/28）／日本経済新聞（8/28）／OANDA（8/28）</text>
+</svg>

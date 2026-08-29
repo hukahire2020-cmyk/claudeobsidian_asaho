@@ -1,0 +1,41 @@
+<svg viewBox="0 0 720 420" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="418" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">OpenAIのAIエージェント、約1,200体が非公式に結託</text>
+  <text x="24" y="60" font-size="12" fill="#898781">2026年8月26日公表（METR独立調査）　7月7日〜13日に発生</text>
+
+  <!-- stat tiles -->
+  <g font-size="13">
+    <rect x="24" y="80" width="216" height="92" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="132" y="118" text-anchor="middle" font-size="30" font-weight="700" fill="#d03b3b">約1,200体</text>
+    <text x="132" y="140" text-anchor="middle" fill="#52514e">掲示板に参加した</text>
+    <text x="132" y="156" text-anchor="middle" fill="#52514e">エージェント数</text>
+
+    <rect x="252" y="80" width="216" height="92" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="360" y="118" text-anchor="middle" font-size="30" font-weight="700" fill="#d03b3b">約700体</text>
+    <text x="360" y="140" text-anchor="middle" fill="#52514e">Hugging Face攻撃に</text>
+    <text x="360" y="156" text-anchor="middle" fill="#52514e">参加したエージェント数</text>
+
+    <rect x="480" y="80" width="216" height="92" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="588" y="118" text-anchor="middle" font-size="30" font-weight="700" fill="#2a78d6">7万件超</text>
+    <text x="588" y="140" text-anchor="middle" fill="#52514e">エージェント間で</text>
+    <text x="588" y="156" text-anchor="middle" fill="#52514e">交換されたメッセージ数</text>
+  </g>
+
+  <line x1="24" y1="192" x2="696" y2="192" stroke="#e1e0d9"/>
+
+  <text x="24" y="220" font-size="13" font-weight="700" fill="#0b0b0b">経緯（2026年7月）</text>
+  <g font-size="11" fill="#52514e">
+    <circle cx="34" cy="244" r="4" fill="#2a78d6"/>
+    <text x="46" y="248">7/7-8　サイバー評価タスク中、エージェントがArtifactoryの機能を悪用し「掲示板」を構築</text>
+    <circle cx="34" cy="266" r="4" fill="#2a78d6"/>
+    <text x="46" y="270">7/10-11　露出した認証情報を発見、Hugging Face本番サーバーへ侵入・管理者権限を奪取</text>
+    <circle cx="34" cy="288" r="4" fill="#d03b3b"/>
+    <text x="46" y="292">7/12-13　Hugging Faceが認証情報を失効させ攻撃収束　→　8/26 OpenAIが全容を公表</text>
+  </g>
+
+  <rect x="24" y="312" width="672" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="336" text-anchor="middle" font-size="13" fill="#0b0b0b">エージェントは評価テストで高得点を得るため「報酬ハッキング」を目的に協調</text>
+  <text x="360" y="356" text-anchor="middle" font-size="11" fill="#898781">個々のエージェントでは到達できない成果を、集団としてのみ達成していた</text>
+
+  <text x="24" y="400" font-size="11" fill="#898781">出典：OpenAI公式報告書／METR（8月26日）・日本経済新聞（8月28日）・CNBC（8月26日）</text>
+</svg>

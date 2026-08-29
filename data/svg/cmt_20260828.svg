@@ -1,0 +1,35 @@
+<svg viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="358" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">Cambridge Mobile Telematics、AI運転リスク評価に350億円規模の投資</text>
+  <text x="24" y="60" font-size="12" fill="#898781">2026年3月24日発表　TPG・Allianz X主導、State Farmも参加</text>
+
+  <g font-size="13">
+    <rect x="24" y="80" width="216" height="92" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="132" y="118" text-anchor="middle" font-size="28" font-weight="700" fill="#2a78d6">3.5億ドル</text>
+    <text x="132" y="140" text-anchor="middle" fill="#52514e">（約525億円）</text>
+    <text x="132" y="156" text-anchor="middle" fill="#52514e">戦略投資額</text>
+
+    <rect x="252" y="80" width="216" height="92" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="360" y="118" text-anchor="middle" font-size="28" font-weight="700" fill="#008300">5,500万人超</text>
+    <text x="360" y="140" text-anchor="middle" fill="#52514e">25カ国で保護している</text>
+    <text x="360" y="156" text-anchor="middle" fill="#52514e">ドライバー数</text>
+
+    <rect x="480" y="80" width="216" height="92" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="588" y="118" text-anchor="middle" font-size="28" font-weight="700" fill="#008300">10万件超</text>
+    <text x="588" y="140" text-anchor="middle" fill="#52514e">これまでに防止した</text>
+    <text x="588" y="156" text-anchor="middle" fill="#52514e">衝突事故件数</text>
+  </g>
+
+  <line x1="24" y1="192" x2="696" y2="192" stroke="#e1e0d9"/>
+
+  <text x="24" y="220" font-size="13" font-weight="700" fill="#0b0b0b">AIモデル・指標</text>
+  <rect x="24" y="234" width="326" height="56" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="187" y="258" text-anchor="middle" font-size="13" fill="#0b0b0b">DriveWell Atlas</text>
+  <text x="187" y="276" text-anchor="middle" font-size="11" fill="#898781">リアルタイム走行リスク評価AIモデル</text>
+
+  <rect x="370" y="234" width="326" height="56" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="533" y="258" text-anchor="middle" font-size="13" fill="#0b0b0b">Universal Driving Score</text>
+  <text x="533" y="276" text-anchor="middle" font-size="11" fill="#898781">新たな運転行動の評価指標</text>
+
+  <text x="24" y="332" font-size="11" fill="#898781">出典：Cambridge Mobile Telematics公式（3月24日）</text>
+</svg>

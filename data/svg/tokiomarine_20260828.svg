@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">東京海上日動、自動車保険にAI事故防止機能を追加</text>
+  <text x="24" y="60" font-size="12" fill="#898781">2026年8月17日発表　／　2026年12月提供開始</text>
+
+  <g font-size="13" fill="#0b0b0b">
+    <rect x="24" y="82" width="326" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="187" y="118" text-anchor="middle" font-size="28">📱</text>
+    <text x="187" y="146" text-anchor="middle" font-weight="700">スマホながら運転警告機能</text>
+    <text x="187" y="166" text-anchor="middle" font-size="11" fill="#52514e">運転中のスマホ操作をリアルタイム検知</text>
+
+    <rect x="370" y="82" width="326" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="533" y="118" text-anchor="middle" font-size="28">🚦</text>
+    <text x="533" y="146" text-anchor="middle" font-weight="700">誤踏み注意喚起機能</text>
+    <text x="533" y="166" text-anchor="middle" font-size="11" fill="#52514e">アクセル・ブレーキ踏み間違いの兆候を検知</text>
+  </g>
+
+  <line x1="24" y1="210" x2="696" y2="210" stroke="#e1e0d9"/>
+
+  <text x="24" y="238" font-size="13" font-weight="700" fill="#0b0b0b">仕組み</text>
+  <rect x="24" y="250" width="672" height="46" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="278" text-anchor="middle" font-size="12" fill="#52514e">自動車保険「DAP（ドライブエージェントパーソナル）」が蓄積してきた走行データ・事故データ　×　AI技術</text>
+
+  <text x="24" y="320" font-size="11" fill="#898781">出典：保険業界ニュース tmj.jp（8月17日）</text>
+</svg>

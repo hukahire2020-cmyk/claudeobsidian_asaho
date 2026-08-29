@@ -1,0 +1,40 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)" stroke-width="1"/>
+  <text x="24" y="38" font-size="17" font-weight="700" fill="#0b0b0b">Salesforce×Anthropic「Claudeforce」——株価急伸</text>
+  <text x="24" y="60" font-size="12" fill="#898781">2026年8月26日発表（Salesforce Q2 '27決算と同時）</text>
+
+  <rect x="24" y="80" width="326" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="106" font-size="12" fill="#52514e">Salesforce株価（発表後）</text>
+  <text x="40" y="156" font-size="40" font-weight="700" fill="#2a78d6">最大+23%</text>
+  <text x="40" y="182" font-size="12" fill="#008300">上場来2番目の上げ幅</text>
+  <text x="40" y="200" font-size="11" fill="#898781">決算増収増益・通期見通し上方修正も重なる</text>
+
+  <rect x="370" y="80" width="326" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="386" y="106" font-size="12" fill="#52514e">新プラグイン「Salesforce in Claude」</text>
+  <text x="386" y="146" font-size="30" font-weight="700" fill="#0b0b0b">37種類</text>
+  <text x="386" y="168" font-size="12" fill="#52514e">の事前構築済み営業スキル</text>
+  <text x="386" y="188" font-size="11" fill="#898781">会議準備／商談健全性レビュー／パイプライン更新 等</text>
+
+  <line x1="24" y1="224" x2="696" y2="224" stroke="#e1e0d9"/>
+
+  <text x="24" y="250" font-size="13" font-weight="700" fill="#0b0b0b">提供スケジュール</text>
+  <g font-size="12" fill="#0b0b0b">
+    <rect x="24" y="264" width="180" height="46" rx="6" fill="#2a78d6" fill-opacity="0.10" stroke="#2a78d6"/>
+    <text x="114" y="284" text-anchor="middle" font-weight="700">即日</text>
+    <text x="114" y="300" text-anchor="middle" font-size="11" fill="#52514e">パイロット顧客へ提供</text>
+
+    <text x="212" y="292" font-size="18" fill="#898781">→</text>
+
+    <rect x="228" y="264" width="180" height="46" rx="6" fill="#2a78d6" fill-opacity="0.10" stroke="#2a78d6"/>
+    <text x="318" y="284" text-anchor="middle" font-weight="700">2026年9月</text>
+    <text x="318" y="300" text-anchor="middle" font-size="11" fill="#52514e">オープンベータ開始</text>
+
+    <text x="416" y="292" font-size="18" fill="#898781">→</text>
+
+    <rect x="432" y="264" width="264" height="46" rx="6" fill="#2a78d6" fill-opacity="0.10" stroke="#2a78d6"/>
+    <text x="564" y="284" text-anchor="middle" font-weight="700">2026年Q3以降</text>
+    <text x="564" y="300" text-anchor="middle" font-size="11" fill="#52514e">他部門向けスキルを順次追加</text>
+  </g>
+
+  <text x="24" y="352" font-size="11" fill="#898781">出典：Salesforce公式（8月26日）／CNBC（8月26・27日）／Motley Fool（8月27日）</text>
+</svg>
