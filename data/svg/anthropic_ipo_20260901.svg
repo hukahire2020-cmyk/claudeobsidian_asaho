@@ -1,0 +1,23 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="718" height="398" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="42" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="17" font-weight="700" fill="#0b0b0b">Anthropic IPO、史上最大規模の観測</text>
+  <text x="30" y="64" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" fill="#898781">投資家想定の評価額とSpaceXの調達実績を比較</text>
+
+  <!-- Hero stat -->
+  <text x="360" y="140" font-family="system-ui,-apple-system,sans-serif" font-size="46" font-weight="700" fill="#2a78d6" text-anchor="middle">2兆ドル</text>
+  <text x="360" y="163" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#52514e" text-anchor="middle">投資家が想定するAnthropicの上場時評価額（約318兆円）</text>
+
+  <!-- Comparison bars -->
+  <text x="60" y="205" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#0b0b0b" font-weight="700">SpaceX（過去最大のIPO調達額）</text>
+  <rect x="60" y="212" width="230" height="22" rx="4" fill="#c3c2b7"/>
+  <text x="300" y="228" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#52514e">862億ドル</text>
+
+  <text x="60" y="258" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#0b0b0b" font-weight="700">Anthropic（想定・上回る可能性）</text>
+  <rect x="60" y="265" width="560" height="22" rx="4" fill="#2a78d6"/>
+  <text x="630" y="281" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#0b0b0b" font-weight="700">超える観測</text>
+
+  <rect x="60" y="315" width="600" height="66" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="80" y="336" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#52514e">6/1 SECへ非公開でS-1提出（評価額9,650億ドル）</text>
+  <text x="80" y="354" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#52514e">8月末までに公開版S-1を提出する見通し（Bloomberg報道）</text>
+  <text x="80" y="372" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#52514e">年換算売上高（ARR）は5月時点で既に470億ドル超</text>
+</svg>

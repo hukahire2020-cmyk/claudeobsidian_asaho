@@ -1,0 +1,26 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="42" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="17" font-weight="700" fill="#0b0b0b">パナソニック コネクト ConnectAI 削減時間の推移</text>
+  <text x="30" y="64" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" fill="#898781">国内全社員約1.18万人が対象。2030年に総労働時間10%削減が目標</text>
+
+  <!-- bar chart -->
+  <line x1="80" y1="300" x2="640" y2="300" stroke="#c3c2b7" stroke-width="1"/>
+
+  <rect x="130" y="255" width="90" height="45" fill="#c3c2b7" rx="3"/>
+  <text x="175" y="248" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="700">18.6万h</text>
+  <text x="175" y="318" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#52514e" text-anchor="middle">2023年度</text>
+
+  <rect x="290" y="195" width="90" height="105" fill="#898781" rx="3"/>
+  <text x="335" y="188" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="700">44.8万h</text>
+  <text x="335" y="318" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#52514e" text-anchor="middle">2024年度</text>
+
+  <rect x="450" y="115" width="90" height="185" fill="#2a78d6" rx="3"/>
+  <text x="495" y="108" font-family="system-ui,-apple-system,sans-serif" font-size="13" fill="#0b0b0b" text-anchor="middle" font-weight="700">78.8万h</text>
+  <text x="495" y="318" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">2025年度</text>
+
+  <text x="600" y="90" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#008300" font-weight="700">総労働時間の</text>
+  <text x="600" y="105" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#008300" font-weight="700">3.4%相当</text>
+
+  <rect x="80" y="335" width="560" height="35" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="100" y="357" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#52514e">2026年7月29日発表：ConnectAI利用回数361万回（前年度比1.6倍）、1回あたり33分削減</text>
+</svg>

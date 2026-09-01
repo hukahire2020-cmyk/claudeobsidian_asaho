@@ -1,0 +1,26 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="42" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="17" font-weight="700" fill="#0b0b0b">Accenture、Microsoft 365 Copilotを全社員に展開</text>
+  <text x="30" y="64" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="12" fill="#898781">史上最大規模の企業向けAI導入（2026年4月発表）</text>
+
+  <text x="360" y="150" font-family="system-ui,-apple-system,sans-serif" font-size="48" font-weight="700" fill="#2a78d6" text-anchor="middle">743,000人</text>
+  <text x="360" y="174" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#52514e" text-anchor="middle">全世界・全部門の社員が対象（2024年の30万人試験導入から拡大）</text>
+
+  <!-- 3 stat tiles -->
+  <rect x="60" y="210" width="170" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="145" y="255" font-family="system-ui,-apple-system,sans-serif" font-size="28" font-weight="700" fill="#008300" text-anchor="middle">89%</text>
+  <text x="145" y="278" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#52514e" text-anchor="middle">20万人規模で</text>
+  <text x="145" y="293" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#52514e" text-anchor="middle">月間アクティブ利用率</text>
+
+  <rect x="275" y="210" width="170" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="255" font-family="system-ui,-apple-system,sans-serif" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">15倍</text>
+  <text x="360" y="278" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#52514e" text-anchor="middle">97%が「定型業務が</text>
+  <text x="360" y="293" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#52514e" text-anchor="middle">最大15倍速く」と回答</text>
+
+  <rect x="490" y="210" width="170" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="575" y="255" font-family="system-ui,-apple-system,sans-serif" font-size="28" font-weight="700" fill="#008300" text-anchor="middle">53%</text>
+  <text x="575" y="278" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#52514e" text-anchor="middle">「大幅な生産性</text>
+  <text x="575" y="293" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#52514e" text-anchor="middle">向上」を報告</text>
+
+  <text x="360" y="352" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#898781" text-anchor="middle">出典：Microsoft公式Sourceブログ（2026年4月28日）</text>
+</svg>
