@@ -1,0 +1,45 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">今週の因果チェーン</text>
+
+  <rect x="24" y="60" width="150" height="72" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="82" font-size="10" fill="#52514e">8/30-9/1</text>
+  <text x="40" y="102" font-size="11" fill="#0b0b0b">米イラン紛争</text>
+  <text x="40" y="118" font-size="11" fill="#0b0b0b">再燃・結婚式場被害</text>
+
+  <text x="185" y="102" font-size="16" fill="#c3c2b7">→</text>
+
+  <rect x="204" y="60" width="150" height="72" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="220" y="82" font-size="10" fill="#52514e">9/2</text>
+  <text x="220" y="102" font-size="11" fill="#0b0b0b">原油96ドル台</text>
+  <text x="220" y="118" font-size="11" fill="#0b0b0b">長期金利3.015%</text>
+
+  <text x="365" y="102" font-size="16" fill="#c3c2b7">→</text>
+
+  <rect x="384" y="60" width="150" height="72" rx="8" fill="#d03b3b" opacity="0.10"/>
+  <rect x="384" y="60" width="150" height="72" rx="8" fill="none" stroke="#d03b3b"/>
+  <text x="400" y="82" font-size="10" fill="#d03b3b">9/2</text>
+  <text x="400" y="102" font-size="11" fill="#0b0b0b" font-weight="700">日経平均</text>
+  <text x="400" y="118" font-size="11" fill="#d03b3b" font-weight="700">1889円安・全面安</text>
+
+  <text x="545" y="102" font-size="16" fill="#c3c2b7">→</text>
+
+  <rect x="564" y="60" width="132" height="72" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="580" y="82" font-size="10" fill="#52514e">9/1</text>
+  <text x="580" y="102" font-size="11" fill="#0b0b0b">米財務長官が</text>
+  <text x="580" y="118" font-size="11" fill="#0b0b0b">円安けん制</text>
+
+  <!-- dollar yen -->
+  <rect x="24" y="160" width="330" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="185" font-size="11" fill="#52514e">ドル円（9/2 東京市場）</text>
+  <text x="40" y="222" font-size="26" font-weight="700" fill="#2a78d6">160円20〜30銭</text>
+
+  <rect x="364" y="160" width="332" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="380" y="185" font-size="11" fill="#52514e">次回の政策イベント</text>
+  <text x="380" y="215" font-size="12" fill="#0b0b0b">FOMC: 9月15〜16日</text>
+  <text x="380" y="235" font-size="12" fill="#0b0b0b">日銀会合: 9月17〜18日</text>
+
+  <rect x="24" y="270" width="672" height="50" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="290" font-size="11" fill="#52514e" font-weight="700">役員と話すときの要点はこれだけ</text>
+  <text x="40" y="308" font-size="12" fill="#0b0b0b">「停戦」が崩れるたびに原油高・金利高が上乗せされる局面——一過性と見ない方がいい</text>
+</svg>

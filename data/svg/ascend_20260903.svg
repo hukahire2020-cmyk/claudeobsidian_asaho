@@ -1,0 +1,24 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">アセンド「ロジックス」、整備費データ入力をAI-OCRで自動化</text>
+  <text x="24" y="54" font-size="11" fill="#898781">2026年8月20日発表・先行導入企業で実証</text>
+
+  <!-- before/after bar -->
+  <text x="24" y="90" font-size="12" fill="#52514e" font-weight="700">点検・整備費のデータ入力工数</text>
+
+  <text x="24" y="120" font-size="11" fill="#52514e">従来（手作業で費目を仕分け・入力）</text>
+  <rect x="24" y="128" width="640" height="28" rx="4" fill="#e1e0d9"/>
+  <text x="672" y="147" font-size="12" fill="#52514e" text-anchor="end">100%</text>
+
+  <text x="24" y="180" font-size="11" fill="#52514e">AI-OCR導入後</text>
+  <rect x="24" y="188" width="192" height="28" rx="4" fill="#2a78d6"/>
+  <text x="672" y="207" font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="700">最大30%（-70%）</text>
+
+  <!-- how it works -->
+  <rect x="24" y="240" width="668" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="264" font-size="12" fill="#52514e" font-weight="700">仕組み</text>
+  <text x="44" y="286" font-size="12" fill="#0b0b0b">整備工場からの請求書・整備明細を生成AI(LLM)搭載のAI-OCRが自動読取</text>
+  <text x="44" y="306" font-size="12" fill="#0b0b0b">事業者ごとに書式が異なる帳票でも、費目を自動で判別・仕分け</text>
+
+  <text x="24" y="350" font-size="10" fill="#898781">出典: ★アセンド株式会社公式（PR TIMES, 8/20）</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="398" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">UPS「Network of the Future」——AIメガハブ化で拠点集約</text>
+  <text x="24" y="54" font-size="11" fill="#898781">2026年1月27日決算説明で詳細公表・2028年までの計画</text>
+
+  <!-- stat tiles row -->
+  <rect x="24" y="80" width="215" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="105" font-size="11" fill="#52514e">自動化投資額（〜2028年）</text>
+  <text x="40" y="150" font-size="28" font-weight="700" fill="#2a78d6">90<tspan font-size="14" fill="#52514e">億ドル</tspan></text>
+  <text x="40" y="175" font-size="11" fill="#898781">約1.3兆円規模</text>
+
+  <rect x="252" y="80" width="215" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="268" y="105" font-size="11" fill="#52514e">2年間の人員削減</text>
+  <text x="268" y="150" font-size="28" font-weight="700" fill="#d03b3b">7.8<tspan font-size="14" fill="#52514e">万人</tspan></text>
+  <text x="268" y="175" font-size="11" fill="#898781">全従業員の約16%（2025-26年）</text>
+
+  <rect x="481" y="80" width="215" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="497" y="105" font-size="11" fill="#52514e">自動化拠点のコスト</text>
+  <text x="497" y="150" font-size="28" font-weight="700" fill="#008300">-28<tspan font-size="14" fill="#52514e">%</tspan></text>
+  <text x="497" y="175" font-size="11" fill="#898781">従来型施設との比較</text>
+
+  <!-- what's happening -->
+  <rect x="24" y="220" width="672" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="246" font-size="12" fill="#52514e" font-weight="700">実施内容</text>
+  <text x="44" y="270" font-size="12" fill="#0b0b0b">労働集約的な小規模仕分け拠点を、自動化されたメガ地域ハブへ統合（100拠点超を閉鎖）</text>
+  <text x="44" y="292" font-size="12" fill="#0b0b0b">Pickle Robots 400台（1.2億ドル）による自動トラック荷降ろし、RFID全米導入</text>
+  <text x="44" y="314" font-size="12" fill="#0b0b0b">顧客対応は2026年末までにAI+人で98%超をカバーする計画（20カ国以上で展開）</text>
+
+  <text x="24" y="360" font-size="10" fill="#898781">出典: ☆各種報道（UPS 2026年1月決算説明・6月AI発表を集約）</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="398" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">米財務長官、日本に「リフレ政策卒業」要求（9/1）</text>
+  <text x="24" y="54" font-size="11" fill="#898781">植田日銀総裁・片山財務相と相次ぎ会談</text>
+
+  <!-- causal chain -->
+  <rect x="24" y="90" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="115" font-size="11" fill="#52514e">8/30</text>
+  <text x="40" y="135" font-size="12" fill="#0b0b0b">ベッセント氏</text>
+  <text x="40" y="151" font-size="12" fill="#0b0b0b">植田総裁と会談</text>
+
+  <text x="185" y="132" font-size="18" fill="#c3c2b7">→</text>
+
+  <rect x="205" y="90" width="150" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="221" y="115" font-size="11" fill="#52514e">8/31</text>
+  <text x="221" y="135" font-size="12" fill="#0b0b0b">片山財務相</text>
+  <text x="221" y="151" font-size="12" fill="#0b0b0b">とも会談</text>
+
+  <text x="366" y="132" font-size="18" fill="#c3c2b7">→</text>
+
+  <rect x="386" y="90" width="306" height="70" rx="8" fill="#d03b3b" opacity="0.10"/>
+  <rect x="386" y="90" width="306" height="70" rx="8" fill="none" stroke="#d03b3b"/>
+  <text x="402" y="115" font-size="11" fill="#d03b3b" font-weight="700">9/1 記者会見で明かす</text>
+  <text x="402" y="137" font-size="12" fill="#0b0b0b" font-weight="700">「リフレ政策をやめるべきだ」</text>
+  <text x="402" y="153" font-size="11" fill="#52514e">アベノミクスの成功を一巡させよ、と主張</text>
+
+  <!-- quote box -->
+  <rect x="24" y="190" width="668" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="218" font-size="12" fill="#52514e">「日本はアベノミクスで大きな成功を収めた。今はその帰結について考える『タカイチノミクス』の出番だ」</text>
+  <text x="44" y="242" font-size="12" fill="#0b0b0b">円安・ドル高（1ドル=160円前後）を念頭に「断固とした市場・金融政策上の措置」も要求</text>
+
+  <!-- dollar yen tile -->
+  <rect x="24" y="290" width="330" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="315" font-size="11" fill="#52514e">ドル円（9/2 東京市場）</text>
+  <text x="40" y="352" font-size="26" font-weight="700" fill="#2a78d6">160円20〜30銭</text>
+
+  <rect x="364" y="290" width="332" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="380" y="315" font-size="11" fill="#52514e">会談の相手</text>
+  <text x="380" y="345" font-size="13" fill="#0b0b0b">植田和男 日銀総裁（8/30）</text>
+  <text x="380" y="365" font-size="13" fill="#0b0b0b">片山さつき 財務相（8/31）</text>
+
+  <text x="24" y="393" font-size="10" fill="#898781">出典: 日本経済新聞／Yahoo!ニュース（各9/1）</text>
+</svg>

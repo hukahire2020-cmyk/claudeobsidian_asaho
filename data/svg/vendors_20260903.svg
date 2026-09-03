@@ -1,0 +1,41 @@
+<svg viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="358" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">国内SaaSのMCP対応が進む——AIエージェントに自社データを開放</text>
+  <text x="24" y="54" font-size="11" fill="#898781">baserCMS／アドエビス</text>
+
+  <!-- MCP hub diagram -->
+  <rect x="300" y="90" width="120" height="46" rx="6" fill="#2a78d6" opacity="0.15"/>
+  <rect x="300" y="90" width="120" height="46" rx="6" fill="none" stroke="#2a78d6"/>
+  <text x="360" y="118" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="700">AIエージェント</text>
+
+  <line x1="300" y1="113" x2="230" y2="113" stroke="#c3c2b7" stroke-width="2"/>
+  <line x1="420" y1="113" x2="490" y2="113" stroke="#c3c2b7" stroke-width="2"/>
+  <text x="360" y="105" font-size="9" fill="#898781" text-anchor="middle"></text>
+  <text x="265" y="105" font-size="9" fill="#898781" text-anchor="middle">MCP</text>
+  <text x="455" y="105" font-size="9" fill="#898781" text-anchor="middle">MCP</text>
+
+  <rect x="60" y="90" width="170" height="46" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="145" y="112" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">baserCMS 5.4.0</text>
+  <text x="145" y="128" font-size="10" fill="#52514e" text-anchor="middle">Web更新を代行</text>
+
+  <rect x="490" y="90" width="170" height="46" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="575" y="112" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">アドエビス</text>
+  <text x="575" y="128" font-size="10" fill="#52514e" text-anchor="middle">広告効果測定データ</text>
+
+  <!-- details -->
+  <rect x="24" y="170" width="332" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="194" font-size="11" fill="#52514e" font-weight="700">baserCMS（国産OSS CMS）</text>
+  <text x="40" y="216" font-size="11" fill="#0b0b0b">5.4.0でMCP対応を実装</text>
+  <text x="40" y="236" font-size="11" fill="#0b0b0b">AIエージェントがMCP経由で</text>
+  <text x="40" y="254" font-size="11" fill="#0b0b0b">Web更新作業を代行できる</text>
+  <text x="40" y="280" font-size="10" fill="#898781">運営: NPO法人baserFoundation</text>
+
+  <rect x="364" y="170" width="332" height="130" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="380" y="194" font-size="11" fill="#52514e" font-weight="700">アドエビス（イルグルム）</text>
+  <text x="380" y="216" font-size="11" fill="#0b0b0b">2026年9月上旬よりMCP対応</text>
+  <text x="380" y="236" font-size="11" fill="#0b0b0b">AIが「コンバージョンが多い</text>
+  <text x="380" y="254" font-size="11" fill="#0b0b0b">広告」等を対話的に分析</text>
+  <text x="380" y="280" font-size="10" fill="#898781">発表: 8/28（PR TIMES）</text>
+
+  <text x="24" y="330" font-size="10" fill="#898781">出典: ★イルグルム公式（8/28）／☆note 国内AIエージェント動向（8/29）</text>
+</svg>

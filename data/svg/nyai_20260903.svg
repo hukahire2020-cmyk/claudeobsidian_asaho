@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="398" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">NY市、公立小中学校でのAI利用を原則禁止（9/2発表）</text>
+  <text x="24" y="54" font-size="11" fill="#898781">全米最大の学区・約1年間の措置</text>
+
+  <!-- scope bar: grade range -->
+  <text x="24" y="90" font-size="12" fill="#52514e" font-weight="700">対象学年と扱いの違い</text>
+  <rect x="24" y="102" width="330" height="46" rx="6" fill="#d03b3b" opacity="0.12"/>
+  <rect x="24" y="102" width="330" height="46" rx="6" fill="none" stroke="#d03b3b"/>
+  <text x="40" y="122" font-size="12" font-weight="700" fill="#d03b3b">就学前 〜 中学2年（8年生）</text>
+  <text x="40" y="140" font-size="11" fill="#52514e">生成AI利用は原則禁止（学習支援AI・メンタルケアAI含む）</text>
+
+  <rect x="364" y="102" width="332" height="46" rx="6" fill="#2a78d6" opacity="0.10"/>
+  <rect x="364" y="102" width="332" height="46" rx="6" fill="none" stroke="#2a78d6"/>
+  <text x="380" y="122" font-size="12" font-weight="700" fill="#2a78d6">中学3年（9年生）以上</text>
+  <text x="380" y="140" font-size="11" fill="#52514e">「AI技術そのものを学ぶ」等の限定用途のみ許可</text>
+
+  <!-- screen time -->
+  <text x="24" y="185" font-size="12" fill="#52514e" font-weight="700">画面視聴時間の推奨上限（1日あたり）</text>
+  <rect x="24" y="197" width="180" height="90" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="222" font-size="11" fill="#52514e">小学3〜5年生</text>
+  <text x="40" y="260" font-size="26" font-weight="700" fill="#0b0b0b">30<tspan font-size="13" fill="#52514e">分</tspan></text>
+
+  <rect x="220" y="197" width="180" height="90" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="236" y="222" font-size="11" fill="#52514e">6年生〜中学2年生</text>
+  <text x="236" y="260" font-size="26" font-weight="700" fill="#0b0b0b">45<tspan font-size="13" fill="#52514e">分</tspan></text>
+
+  <rect x="416" y="197" width="280" height="90" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="432" y="222" font-size="11" fill="#52514e">教員は対象外</text>
+  <text x="432" y="248" font-size="12" fill="#0b0b0b">授業準備・業務でのAI利用は</text>
+  <text x="432" y="266" font-size="12" fill="#0b0b0b">引き続き認められる</text>
+
+  <text x="24" y="330" font-size="12" fill="#52514e" font-weight="700">禁止の理由</text>
+  <text x="24" y="352" font-size="12" fill="#0b0b0b">子どものメンタルヘルス・認知発達への悪影響、環境負荷への懸念</text>
+
+  <text x="24" y="385" font-size="10" fill="#898781">出典: AFP（9/2）／Yahoo!ニュース（9/2）</text>
+</svg>

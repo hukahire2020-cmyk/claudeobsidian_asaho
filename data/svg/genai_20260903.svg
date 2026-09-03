@@ -1,0 +1,38 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="398" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">Claude Fable 5.1——性能とセーフガードを同時に底上げ</text>
+  <text x="24" y="54" font-size="11" fill="#898781">2026年9月1日発表分の詳細</text>
+
+  <!-- benchmark bar -->
+  <text x="24" y="90" font-size="12" fill="#52514e" font-weight="700">科学研究ベンチマーク Terminal-Bench-Science 0.1</text>
+  <text x="24" y="112" font-size="11" fill="#52514e">Fable 5</text>
+  <rect x="90" y="100" width="112" height="20" rx="4" fill="#c3c2b7"/>
+  <text x="210" y="115" font-size="11" fill="#52514e">24.7%</text>
+
+  <text x="24" y="140" font-size="11" fill="#52514e">Fable 5.1</text>
+  <rect x="90" y="128" width="238" height="20" rx="4" fill="#2a78d6"/>
+  <text x="336" y="143" font-size="11" fill="#0b0b0b" font-weight="700">52.6%（2倍超）</text>
+
+  <!-- price tiles -->
+  <rect x="24" y="175" width="215" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="40" y="198" font-size="11" fill="#52514e">キャッシュ読込価格</text>
+  <text x="40" y="235" font-size="22" font-weight="700" fill="#008300">-75%</text>
+  <text x="40" y="256" font-size="11" fill="#898781">$1→$0.25/100万トークン</text>
+
+  <rect x="252" y="175" width="215" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="268" y="198" font-size="11" fill="#52514e">実質コスト削減（自動処理）</text>
+  <text x="268" y="235" font-size="22" font-weight="700" fill="#008300">最大45%</text>
+  <text x="268" y="256" font-size="11" fill="#898781">一般用途では約25%</text>
+
+  <rect x="481" y="175" width="215" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="497" y="198" font-size="11" fill="#52514e">サイバー関連の誤検知介入</text>
+  <text x="497" y="235" font-size="22" font-weight="700" fill="#008300">-60%</text>
+  <text x="497" y="256" font-size="11" fill="#898781">Enterprise Frontier Safeguards</text>
+
+  <!-- scientists program -->
+  <rect x="24" y="295" width="672" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="44" y="320" font-size="12" fill="#52514e" font-weight="700">あわせて発表: Claude team plan for scientists</text>
+  <text x="44" y="343" font-size="12" fill="#0b0b0b">研究者向けに1万席を無料〜割引提供（1年間）。大学・非営利研究機関のPI対象</text>
+
+  <text x="24" y="390" font-size="10" fill="#898781">出典: ★Anthropic公式（9/1）／☆ITmedia／Impress Watch（9/2）</text>
+</svg>

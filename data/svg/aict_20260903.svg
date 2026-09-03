@@ -1,0 +1,31 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">情報戦略テクノロジー、社長直轄「AICT部」を新設</text>
+  <text x="24" y="54" font-size="11" fill="#898781">2026年9月1日付・AI CoEから正式な事業組織へ格上げ</text>
+
+  <!-- org chart -->
+  <rect x="290" y="80" width="140" height="40" rx="6" fill="#2a78d6" opacity="0.15"/>
+  <rect x="290" y="80" width="140" height="40" rx="6" fill="none" stroke="#2a78d6"/>
+  <text x="360" y="105" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="700">社長</text>
+
+  <line x1="360" y1="120" x2="360" y2="150" stroke="#c3c2b7" stroke-width="2"/>
+
+  <rect x="255" y="150" width="210" height="46" rx="6" fill="#d03b3b" opacity="0.10"/>
+  <rect x="255" y="150" width="210" height="46" rx="6" fill="none" stroke="#d03b3b"/>
+  <text x="360" y="172" font-size="13" fill="#d03b3b" text-anchor="middle" font-weight="700">AICT部（新設）</text>
+  <text x="360" y="188" font-size="10" fill="#52514e" text-anchor="middle">社長直轄・正式な事業組織</text>
+
+  <!-- 4 pillars -->
+  <text x="24" y="240" font-size="12" fill="#52514e" font-weight="700">4つの柱</text>
+  <rect x="24" y="252" width="320" height="50" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="38" y="272" font-size="11" fill="#0b0b0b">① AICT基盤の統合・開発・運用</text>
+  <text x="38" y="292" font-size="11" fill="#0b0b0b">② 全社業務のAX（AI Transformation）推進</text>
+
+  <rect x="360" y="252" width="332" height="50" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="374" y="272" font-size="11" fill="#0b0b0b">③ AIガバナンス・認定制度の構築</text>
+  <text x="374" y="292" font-size="11" fill="#0b0b0b">④ 次世代ビジネスモデルの創出</text>
+
+  <text x="24" y="345" font-size="12" fill="#0b0b0b">狙い: 「人間ドリブン」な業務構造から「AIドリブン」な組織・事業モデルへ全面転換</text>
+
+  <text x="24" y="368" font-size="10" fill="#898781">出典: ★情報戦略テクノロジー公式（PR TIMES, 9/1）</text>
+</svg>
