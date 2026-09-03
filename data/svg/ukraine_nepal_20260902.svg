@@ -1,0 +1,26 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">同時多発する地政学リスク（2026/9/1時点）</text>
+
+  <rect x="28" y="58" width="322" height="210" rx="8" fill="#f9f9f7" stroke="#d03b3b" stroke-width="1.5"/>
+  <text x="189" y="82" font-size="13" font-weight="700" fill="#d03b3b" text-anchor="middle">ウクライナ（9/1未明の攻撃）</text>
+  <text x="189" y="118" font-size="26" font-weight="700" fill="#0b0b0b" text-anchor="middle">死者12人</text>
+  <text x="189" y="136" font-size="10.5" fill="#52514e" text-anchor="middle">インド国籍者含む</text>
+  <text x="189" y="168" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="middle">無人機187機超</text>
+  <text x="189" y="186" font-size="10.5" fill="#52514e" text-anchor="middle">弾道5発・巡航5発も同時発射</text>
+  <text x="189" y="218" font-size="16" font-weight="700" fill="#0b0b0b" text-anchor="middle">ボリスピリ集合住宅損壊</text>
+  <text x="189" y="236" font-size="10.5" fill="#52514e" text-anchor="middle">住民50人避難・4人死亡</text>
+  <text x="189" y="256" font-size="10" fill="#898781" text-anchor="middle">出典: Ukrinform (9/1)</text>
+
+  <rect x="370" y="58" width="322" height="210" rx="8" fill="#f9f9f7" stroke="#c3c2b7" stroke-width="1.5"/>
+  <text x="531" y="82" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">ネパール・中国国境（氷河崩壊起点、8/26発生）</text>
+  <text x="531" y="118" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">死者1,000人超</text>
+  <text x="531" y="136" font-size="10.5" fill="#52514e" text-anchor="middle">ネパール1,050人・チベット16人</text>
+  <text x="531" y="168" font-size="20" font-weight="700" fill="#2a78d6" text-anchor="middle">行方不明 約4,500人</text>
+  <text x="531" y="186" font-size="10.5" fill="#52514e" text-anchor="middle">うち外国人583人（38カ国）</text>
+  <text x="531" y="218" font-size="16" font-weight="700" fill="#0b0b0b" text-anchor="middle">原因: 氷河崩壊による洪水</text>
+  <text x="531" y="236" font-size="10.5" fill="#52514e" text-anchor="middle">高山地帯からの土砂・水流</text>
+  <text x="531" y="256" font-size="10" fill="#898781" text-anchor="middle">出典: CNN・TBS News (9/1)</text>
+
+  <text x="28" y="288" font-size="11" fill="#898781">単一シナリオ前提のBCPでは、戦争と自然災害の同時発生に対応しきれない。</text>
+</svg>

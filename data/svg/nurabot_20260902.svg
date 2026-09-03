@@ -1,0 +1,23 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">台湾Foxconn／川崎重工「Nurabot」— 病院の実運用データ</text>
+
+  <rect x="28" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="82" font-size="12" fill="#52514e" text-anchor="middle">1日あたりのタスク数</text>
+  <text x="130" y="124" font-size="28" font-weight="700" fill="#2a78d6" text-anchor="middle">75〜80件</text>
+  <text x="130" y="144" font-size="10.5" fill="#898781" text-anchor="middle">薬剤配送・検体搬送等</text>
+
+  <rect x="245" y="58" width="205" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="347" y="82" font-size="12" fill="#52514e" text-anchor="middle">看護師の業務負荷削減</text>
+  <text x="347" y="124" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">約30%</text>
+  <text x="347" y="144" font-size="10.5" fill="#898781" text-anchor="middle">Foxconn推定</text>
+
+  <rect x="462" y="58" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="577" y="82" font-size="12" fill="#52514e" text-anchor="middle">展開先</text>
+  <text x="577" y="124" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="middle">複数病院・教育機関</text>
+  <text x="577" y="144" font-size="10.5" fill="#898781" text-anchor="middle">台北榮總 他</text>
+
+  <text x="28" y="188" font-size="12.5" fill="#52514e">開発: 鴻海（Foxconn）× 川崎重工業 　発表: COMPUTEX 2026（2026/6/1）　商用展開: 2026年中を計画</text>
+  <rect x="28" y="200" width="664" height="30" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="42" y="219" font-size="11" fill="#898781">出典: Foxconn公式（6/1）・CNN・Fox News</text>
+</svg>

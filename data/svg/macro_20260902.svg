@@ -1,0 +1,30 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="258" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">今週の因果チェーン — 地政学リスクから金利・為替まで</text>
+
+  <g font-size="11.5" text-anchor="middle">
+    <rect x="28" y="60" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#d03b3b" stroke-width="1.5"/>
+    <text x="128" y="82" font-weight="700" fill="#d03b3b">①ウクライナ攻撃激化</text>
+    <text x="128" y="102" font-size="10.5" fill="#52514e">地政学リスク多発</text>
+
+    <rect x="260" y="60" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#c3c2b7"/>
+    <text x="360" y="82" font-weight="700" fill="#0b0b0b">②FOMC(9/16-17)の織込</text>
+    <text x="360" y="102" font-size="10.5" fill="#52514e">「金利3%時代」を意識</text>
+
+    <rect x="492" y="60" width="200" height="58" rx="8" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+    <text x="592" y="82" font-weight="700" fill="#2a78d6">③日銀会合(9/17-18)も同週</text>
+    <text x="592" y="102" font-size="10.5" fill="#52514e">ドル円は160円で綱引き</text>
+  </g>
+  <path d="M228 89 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
+  <path d="M460 89 h24 m-8 -6 8 6 -8 6" stroke="#898781" stroke-width="2" fill="none"/>
+
+  <rect x="28" y="134" width="322" height="72" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="48" y="158" font-size="12" fill="#52514e">ドル円（9/1 NY市場）</text>
+  <text x="48" y="192" font-size="26" font-weight="700" fill="#0b0b0b">159.90〜160.27円</text>
+
+  <rect x="370" y="134" width="322" height="72" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="390" y="158" font-size="12" fill="#52514e">日経平均 終値（9/1）</text>
+  <text x="390" y="192" font-size="28" font-weight="700" fill="#0b0b0b">66,215円（-96円）</text>
+
+  <text x="28" y="232" font-size="11.5" fill="#52514e">💬 役員との共通言語: 「日米の金融政策決定がほぼ同じ週に重なる——片方だけでは読めない」</text>
+</svg>
