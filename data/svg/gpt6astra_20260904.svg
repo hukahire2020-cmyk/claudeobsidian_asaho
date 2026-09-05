@@ -1,0 +1,58 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">GPT-6 Astra——サイバー能力「Critical」区分に初到達</text>
+  <text x="30" y="58" font-size="12" fill="#898781">2026年9月3日（米国時間）発表</text>
+
+  <!-- stat tiles -->
+  <g>
+    <rect x="30" y="80" width="195" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="127" y="130" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">100%</text>
+    <text x="127" y="152" font-size="11" fill="#52514e" text-anchor="middle">ExploitBench</text>
+    <text x="127" y="166" font-size="10" fill="#898781" text-anchor="middle">(前世代GPT-5.6 Solは78.5%)</text>
+  </g>
+  <g>
+    <rect x="245" y="80" width="195" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="342" y="130" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">99.9%</text>
+    <text x="342" y="152" font-size="11" fill="#52514e" text-anchor="middle">ARC-AGI-3</text>
+    <text x="342" y="166" font-size="10" fill="#898781" text-anchor="middle">汎用知能指標</text>
+  </g>
+  <g>
+    <rect x="460" y="80" width="230" height="100" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="575" y="130" font-size="30" font-weight="700" fill="#2a78d6" text-anchor="middle">98%</text>
+    <text x="575" y="152" font-size="11" fill="#52514e" text-anchor="middle">FrontierMath Tier 4</text>
+    <text x="575" y="166" font-size="10" fill="#898781" text-anchor="middle">数学ベンチマーク</text>
+  </g>
+
+  <!-- Preparedness Framework scale -->
+  <text x="30" y="212" font-size="12" font-weight="700" fill="#0b0b0b">Preparedness Framework サイバー区分</text>
+  <g font-size="11">
+    <rect x="30" y="222" width="150" height="30" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="105" y="241" text-anchor="middle" fill="#52514e">Low</text>
+    <rect x="180" y="222" width="150" height="30" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="255" y="241" text-anchor="middle" fill="#52514e">Medium</text>
+    <rect x="330" y="222" width="150" height="30" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="405" y="241" text-anchor="middle" fill="#52514e">High</text>
+    <rect x="480" y="222" width="210" height="30" fill="#d03b3b" opacity="0.15" stroke="#d03b3b"/>
+    <text x="585" y="241" text-anchor="middle" fill="#d03b3b" font-weight="700">Critical ← GPT-6 Astra 到達</text>
+  </g>
+
+  <!-- flow: escort -->
+  <text x="30" y="278" font-size="12" font-weight="700" fill="#0b0b0b">提供スケジュール</text>
+  <g font-size="11" fill="#52514e">
+    <rect x="30" y="288" width="150" height="34" rx="6" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="105" y="309" text-anchor="middle">審査制の限定提供</text>
+    <path d="M185 305 L215 305" stroke="#898781" stroke-width="2" marker-end="url(#arrow1)"/>
+    <rect x="220" y="288" width="180" height="34" rx="6" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="310" y="309" text-anchor="middle">数日中にChatGPT各プラン</text>
+    <path d="M405 305 L435 305" stroke="#898781" stroke-width="2" marker-end="url(#arrow1)"/>
+    <rect x="440" y="288" width="220" height="34" rx="6" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="550" y="309" text-anchor="middle">API・AWS経由へ拡大</text>
+  </g>
+  <defs>
+    <marker id="arrow1" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#898781"/>
+    </marker>
+  </defs>
+
+  <text x="30" y="358" font-size="11" fill="#52514e">Greg Brockman社長: 「AGI時代へようこそ」——ただし人間超越の実証はまだ示されていない</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">シーメンス「Eigen Engineering Agent」の効果</text>
+  <text x="30" y="58" font-size="12" fill="#898781">2026年4月20日発表・10億ユーロ規模の産業AI投資の一環</text>
+
+  <g font-size="12" fill="#52514e">
+    <text x="30" y="105">処理速度（手作業比）</text>
+    <rect x="230" y="88" width="420" height="24" fill="#e1e0d9"/>
+    <rect x="230" y="88" width="336" height="24" fill="#2a78d6"/>
+    <text x="580" y="105" fill="#0b0b0b" font-weight="700">2〜5倍速い</text>
+
+    <text x="30" y="155">成果物の品質向上</text>
+    <rect x="230" y="138" width="420" height="24" fill="#e1e0d9"/>
+    <rect x="230" y="138" width="336" height="24" fill="#008300"/>
+    <text x="580" y="155" fill="#0b0b0b" font-weight="700">最大80%</text>
+
+    <text x="30" y="205">エンジニアリング効率</text>
+    <rect x="230" y="188" width="420" height="24" fill="#e1e0d9"/>
+    <rect x="230" y="188" width="210" height="24" fill="#2a78d6"/>
+    <text x="460" y="205" fill="#0b0b0b" font-weight="700">50%向上</text>
+  </g>
+
+  <rect x="30" y="240" width="640" height="55" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="350" y="273" font-size="12" fill="#52514e" text-anchor="middle">「支援するAI」から「実行するAI」へ——自動化エンジニアリング業務を自律的に遂行する新カテゴリの産業AI</text>
+</svg>

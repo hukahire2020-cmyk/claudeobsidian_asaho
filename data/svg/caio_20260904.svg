@@ -1,0 +1,27 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">アップル引越センター CAIO新設の経緯と成果</text>
+  <text x="30" y="58" font-size="12" fill="#898781">2026年8月26日発表</text>
+
+  <!-- timeline -->
+  <line x1="60" y1="110" x2="660" y2="110" stroke="#c3c2b7" stroke-width="2"/>
+  <circle cx="120" cy="110" r="6" fill="#898781"/>
+  <text x="120" y="90" font-size="11" text-anchor="middle" fill="#52514e">5月</text>
+  <text x="120" y="132" font-size="11" text-anchor="middle" fill="#0b0b0b">谷和俊氏 CAIO就任</text>
+
+  <circle cx="380" cy="110" r="6" fill="#2a78d6"/>
+  <text x="380" y="90" font-size="11" text-anchor="middle" fill="#2a78d6" font-weight="700">8月26日</text>
+  <text x="380" y="132" font-size="11" text-anchor="middle" fill="#0b0b0b">CAIO新設を正式発表</text>
+
+  <circle cx="600" cy="110" r="7" fill="#008300"/>
+  <text x="600" y="90" font-size="11" text-anchor="middle" fill="#008300" font-weight="700">就任約3カ月</text>
+  <text x="600" y="132" font-size="11" text-anchor="middle" fill="#0b0b0b">効果を測定</text>
+
+  <!-- stat -->
+  <g>
+    <rect x="200" y="175" width="320" height="110" rx="8" fill="#008300" opacity="0.08" stroke="#008300"/>
+    <text x="360" y="235" font-size="34" font-weight="700" fill="#008300" text-anchor="middle">月320時間</text>
+    <text x="360" y="260" font-size="12" fill="#52514e" text-anchor="middle">営業・経理・バックオフィスの定型業務で省力化</text>
+    <text x="360" y="278" font-size="11" fill="#898781" text-anchor="middle">＝約2人月分/月</text>
+  </g>
+</svg>

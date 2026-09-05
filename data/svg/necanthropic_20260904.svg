@@ -1,0 +1,49 @@
+<svg viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="358" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">NEC×Anthropic「BluStellar Intelligent Managed Service」</text>
+  <text x="30" y="58" font-size="12" fill="#898781">2026年9月2日発表・9月末提供開始（金融・製造・流通サービス業向け）</text>
+
+  <!-- funnel process -->
+  <g font-size="11" fill="#0b0b0b">
+    <rect x="30" y="85" width="128" height="60" rx="6" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="94" y="112" text-anchor="middle">資産の発見</text>
+    <text x="94" y="128" text-anchor="middle" fill="#898781">IT/ネットワーク</text>
+    <path d="M162 115 L188 115" stroke="#898781" stroke-width="2" marker-end="url(#arrow2)"/>
+
+    <rect x="192" y="85" width="128" height="60" rx="6" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="256" y="112" text-anchor="middle">脆弱性検出</text>
+    <text x="256" y="128" text-anchor="middle" fill="#898781">cotomi Security</text>
+    <path d="M324 115 L350 115" stroke="#898781" stroke-width="2" marker-end="url(#arrow2)"/>
+
+    <rect x="354" y="85" width="128" height="60" rx="6" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="418" y="107" text-anchor="middle">リスク分析</text>
+    <text x="418" y="123" text-anchor="middle">優先順位付け</text>
+    <path d="M486 115 L512 115" stroke="#898781" stroke-width="2" marker-end="url(#arrow2)"/>
+
+    <rect x="516" y="85" width="128" height="60" rx="6" fill="#f9f9f7" stroke="#c3c2b7"/>
+    <text x="580" y="112" text-anchor="middle">パッチ適用</text>
+    <text x="580" y="128" text-anchor="middle" fill="#898781">仮想パッチ生成</text>
+  </g>
+  <g font-size="11" fill="#0b0b0b">
+    <path d="M94 145 L94 165" stroke="#898781" stroke-width="2" marker-end="url(#arrow2)"/>
+    <rect x="30" y="169" width="614" height="50" rx="6" fill="#2a78d6" opacity="0.08" stroke="#2a78d6"/>
+    <text x="337" y="199" text-anchor="middle" font-weight="700" fill="#2a78d6">進捗管理・運用改善まで一気通貫で支援（Anthropicのフロンティア AI = Claude を活用）</text>
+  </g>
+  <defs>
+    <marker id="arrow2" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#898781"/>
+    </marker>
+  </defs>
+
+  <!-- stat tiles -->
+  <g>
+    <rect x="30" y="240" width="300" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="180" y="285" font-size="30" font-weight="700" fill="#008300" text-anchor="middle">300億円</text>
+    <text x="180" y="308" font-size="11" fill="#52514e" text-anchor="middle">3年間の売上目標</text>
+  </g>
+  <g>
+    <rect x="344" y="240" width="346" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+    <text x="517" y="277" font-size="18" font-weight="700" fill="#0b0b0b" text-anchor="middle">対象: 金融機関・製造業・流通サービス業</text>
+    <text x="517" y="300" font-size="12" fill="#52514e" text-anchor="middle">2027年度: AI主体の統合対応を目指す</text>
+  </g>
+</svg>
