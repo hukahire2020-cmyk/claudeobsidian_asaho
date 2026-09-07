@@ -1,0 +1,33 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">ウクライナ和平交渉が約8カ月ぶりに再始動</text>
+
+  <line x1="60" y1="90" x2="660" y2="90" stroke="#c3c2b7" stroke-width="2"/>
+
+  <circle cx="90" cy="90" r="6" fill="#898781"/>
+  <text x="90" y="70" font-size="11" fill="#52514e" text-anchor="middle">2026/5/8-11</text>
+  <text x="90" y="112" font-size="11.5" fill="#0b0b0b" text-anchor="middle">3日間停戦・</text>
+  <text x="90" y="127" font-size="11.5" fill="#0b0b0b" text-anchor="middle">捕虜交換各1000人</text>
+  <text x="90" y="145" font-size="10.5" fill="#898781" text-anchor="middle">→ 双方が違反主張、</text>
+  <text x="90" y="159" font-size="10.5" fill="#898781" text-anchor="middle">交渉は凍結</text>
+
+  <circle cx="360" cy="90" r="7" fill="#2a78d6"/>
+  <text x="360" y="70" font-size="11" fill="#52514e" text-anchor="middle">2026/9/5</text>
+  <text x="360" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">モスクワで</text>
+  <text x="360" y="127" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">プーチン氏と3時間超会談</text>
+  <text x="360" y="145" font-size="10.5" fill="#898781" text-anchor="middle">米特使ウィトコフ・</text>
+  <text x="360" y="159" font-size="10.5" fill="#898781" text-anchor="middle">クシュナー両氏</text>
+
+  <circle cx="630" cy="90" r="7" fill="#2a78d6"/>
+  <text x="630" y="70" font-size="11" fill="#52514e" text-anchor="middle">2026/9/6</text>
+  <text x="630" y="112" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">キーウで</text>
+  <text x="630" y="127" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">ウクライナ側と協議</text>
+  <text x="630" y="145" font-size="10.5" fill="#898781" text-anchor="middle">「実質的」と両者表明</text>
+
+  <rect x="28" y="190" width="664" height="70" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="46" y="216" font-size="12.5" fill="#0b0b0b" font-weight="700">クレムリンの評価</text>
+  <text x="46" y="238" font-size="12" fill="#52514e">「実質的で建設的、極めて率直かつ信頼できる」会談（ロシア大統領府ウシャコフ補佐官）</text>
+
+  <rect x="28" y="270" width="664" height="24" rx="6" fill="none"/>
+  <text x="28" y="288" font-size="11" fill="#898781">出典: Washington Post・Al Jazeera・NPR・CNN（2026/9/5-6）</text>
+</svg>

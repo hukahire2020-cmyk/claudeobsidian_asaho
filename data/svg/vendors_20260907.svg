@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="278" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">国内AIベンダーの動き</text>
+
+  <rect x="28" y="58" width="320" height="196" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="188" y="84" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">みずほ銀行「あおまるバンク」</text>
+  <text x="188" y="104" font-size="11" fill="#898781" text-anchor="middle">2026年9月（予定）提供開始</text>
+  <rect x="48" y="118" width="280" height="50" rx="6" fill="#fcfcfb" stroke="#c3c2b7"/>
+  <text x="188" y="140" font-size="11" fill="#0b0b0b" text-anchor="middle">第1弾: 問い合わせへの回答機能</text>
+  <text x="188" y="158" font-size="10.5" fill="#898781" text-anchor="middle">OpenAI技術を活用</text>
+  <path d="M188 172 v14 m-6 -6 6 6 6 -6" stroke="#2a78d6" stroke-width="2" fill="none"/>
+  <rect x="48" y="190" width="280" height="50" rx="6" fill="#fcfcfb" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="188" y="210" font-size="11" fill="#2a78d6" font-weight="700" text-anchor="middle">今後: 各種手続き・</text>
+  <text x="188" y="226" font-size="11" fill="#2a78d6" font-weight="700" text-anchor="middle">資産形成相談へ拡張予定</text>
+
+  <rect x="372" y="58" width="320" height="196" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="532" y="84" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">エコモット×GRIFFY</text>
+  <text x="532" y="104" font-size="11" fill="#898781" text-anchor="middle">特定音声検知エッジAI（8/31発表）</text>
+  <text x="532" y="150" font-size="12" fill="#52514e" text-anchor="middle">戸田建設 施工現場 実証での検知率</text>
+  <text x="532" y="196" font-size="40" font-weight="700" fill="#008300" text-anchor="middle">98%</text>
+  <text x="532" y="222" font-size="10.5" fill="#898781" text-anchor="middle">緊急車両サイレン等をリアルタイム検知</text>
+  <text x="532" y="238" font-size="10.5" fill="#898781" text-anchor="middle">パトランプ・カーゲートと連動、2026年9月提供開始</text>
+
+  <text x="28" y="268" font-size="11" fill="#898781">出典: みずほ銀行公式（5/18発表）・GRIFFY公式（8/31発表）</text>
+</svg>

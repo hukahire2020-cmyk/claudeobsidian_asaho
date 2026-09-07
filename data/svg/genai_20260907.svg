@@ -1,0 +1,29 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="40" font-size="17" font-weight="700" fill="#0b0b0b">生成AIトレンド — モデル・コスト・研究自動化が同時に進む</text>
+
+  <rect x="28" y="58" width="205" height="98" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="80" font-size="12" fill="#52514e" text-anchor="middle">Lambda社とのクラウド契約</text>
+  <text x="130" y="120" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">350億ドル</text>
+  <text x="130" y="142" font-size="10.5" fill="#898781" text-anchor="middle">Anthropic（8/31発表）</text>
+
+  <rect x="245" y="58" width="230" height="98" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="80" font-size="12" fill="#52514e" text-anchor="middle">プロンプトキャッシュのコスト削減</text>
+  <text x="360" y="120" font-size="24" font-weight="700" fill="#008300" text-anchor="middle">最大45%</text>
+  <text x="360" y="142" font-size="10.5" fill="#898781" text-anchor="middle">Claude Fable 5.1（エージェント用途）</text>
+
+  <rect x="487" y="58" width="205" height="98" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="589" y="80" font-size="12" fill="#52514e" text-anchor="middle">Anthropic IPO目標評価額</text>
+  <text x="589" y="120" font-size="24" font-weight="700" fill="#2a78d6" text-anchor="middle">最大2兆ドル</text>
+  <text x="589" y="142" font-size="10.5" fill="#898781" text-anchor="middle">マーケ開始は10月中旬に後ろ倒し</text>
+
+  <rect x="28" y="172" width="664" height="82" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="46" y="196" font-size="12.5" font-weight="700" fill="#0b0b0b">OpenAI「自動化された研究インターン」目標達成（9/6発表）</text>
+  <text x="46" y="218" font-size="11.5" fill="#52514e">人間研究者1稼働日あたり、AIエージェントが</text>
+  <text x="270" y="218" font-size="13" font-weight="700" fill="#2a78d6">3.1日分</text>
+  <text x="320" y="218" font-size="11.5" fill="#52514e">の作業をこなす水準に到達</text>
+  <text x="46" y="238" font-size="11.5" fill="#52514e">4〜8時間規模の成功タスクでも、半数超は依然として人間の介入が必要</text>
+
+  <rect x="28" y="266" width="664" height="24" rx="6" fill="none"/>
+  <text x="28" y="284" font-size="11" fill="#898781">出典: Anthropic公式・SiliconANGLE・CNBC・Engadget（2026/9/1-6）</text>
+</svg>
