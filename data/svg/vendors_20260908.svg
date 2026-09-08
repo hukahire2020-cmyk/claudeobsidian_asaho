@@ -1,0 +1,25 @@
+<svg viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="298" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">国内AIベンダーの動き</text>
+  <text x="28" y="58" font-size="12" fill="#52514e">新規事業スピンアウトとバーティカルAI、2つのルート</text>
+
+  <rect x="24" y="80" width="326" height="112" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="102" font-size="12.5" font-weight="700" fill="#0b0b0b">RebateX（NTTドコモ発）</text>
+  <text x="42" y="122" font-size="11" fill="#52514e">2026年9月1日 スピンアウト</text>
+  <text x="42" y="142" font-size="11.5" fill="#0b0b0b">リベート照合をAIで自動化</text>
+  <text x="42" y="160" font-size="11.5" fill="#0b0b0b">請求書・見積書・納品書の</text>
+  <text x="42" y="176" font-size="11.5" fill="#0b0b0b">整合性をAIが確認</text>
+
+  <rect x="368" y="80" width="328" height="112" rx="8" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="386" y="102" font-size="12.5" font-weight="700" fill="#0b0b0b">Skillnoteエージェント</text>
+  <text x="386" y="122" font-size="11" fill="#52514e">2026年9月3日発表・10月提供開始</text>
+  <text x="386" y="142" font-size="11.5" fill="#0b0b0b">製造業特化バーティカルAI</text>
+  <text x="386" y="160" font-size="11.5" fill="#0b0b0b">既存導入 <tspan font-weight="700" fill="#2a78d6">300社</tspan> のスキルデータを活用</text>
+  <text x="386" y="176" font-size="11.5" fill="#0b0b0b">2028年までに<tspan font-weight="700" fill="#2a78d6">50社</tspan>導入目標</text>
+
+  <rect x="24" y="204" width="672" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="226" font-size="12.5" font-weight="700" fill="#0b0b0b">共通する動き</text>
+  <text x="42" y="248" font-size="11.5" fill="#52514e">「社内新規事業からのAIスピンアウト」と「業界特化データを持つSaaSのバーティカルAI化」——ニッチだが実データに基づくAI</text>
+
+  <text x="28" y="286" font-size="11" fill="#898781">出典: ★NTTドコモ公式 (9/1) / ★Skillnote公式 (9/3)</text>
+</svg>

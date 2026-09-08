@@ -1,0 +1,39 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">停戦交渉のさなかに製油所攻撃</text>
+  <text x="28" y="58" font-size="12" fill="#52514e">米特使のシャトル外交と、ウクライナの継続的な圧力が併走</text>
+
+  <line x1="40" y1="100" x2="680" y2="100" stroke="#c3c2b7" stroke-width="2"/>
+  <g font-size="11" text-anchor="middle">
+    <circle cx="90" cy="100" r="5" fill="#2a78d6"/>
+    <text x="90" y="122" fill="#52514e">9/5(土)</text>
+    <text x="90" y="136" fill="#0b0b0b">米特使、モスクワで</text>
+    <text x="90" y="149" fill="#0b0b0b">プーチン氏と会談</text>
+
+    <circle cx="290" cy="100" r="5" fill="#2a78d6"/>
+    <text x="290" y="122" fill="#52514e">9/6(日)</text>
+    <text x="290" y="136" fill="#0b0b0b">米特使、キーウで</text>
+    <text x="290" y="149" fill="#0b0b0b">ウクライナ側と協議</text>
+
+    <circle cx="500" cy="100" r="6" fill="#d03b3b"/>
+    <text x="500" y="122" fill="#d03b3b" font-weight="700">9/6夜〜9/7未明</text>
+    <text x="500" y="136" fill="#d03b3b" font-weight="700">ウクライナが</text>
+    <text x="500" y="149" fill="#d03b3b" font-weight="700">露製油所3カ所を攻撃</text>
+
+    <circle cx="660" cy="100" r="5" fill="#898781"/>
+    <text x="660" y="122" fill="#52514e">継続中</text>
+    <text x="660" y="136" fill="#0b0b0b">停戦の具体案は</text>
+    <text x="660" y="149" fill="#0b0b0b">未発表</text>
+  </g>
+
+  <rect x="24" y="184" width="668" height="90" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="206" font-size="12.5" font-weight="700" fill="#0b0b0b">攻撃対象（ゼレンスキー氏がSNSで公表）</text>
+  <text x="42" y="228" font-size="11.5" fill="#0b0b0b">・リャザン州の製油所（長距離部隊による攻撃）</text>
+  <text x="42" y="246" font-size="11.5" fill="#0b0b0b">・ペルミ地方／タタールスタン共和国の製油所</text>
+  <text x="42" y="264" font-size="11.5" fill="#0b0b0b">・クルスク州のドローン集積・発射拠点</text>
+
+  <rect x="24" y="284" width="668" height="34" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="306" font-size="11.5" fill="#52514e">両国は特使訪問中、互いの首都への攻撃は控える調整をしていたとされる——首都以外への圧力は継続</text>
+
+  <text x="28" y="330" font-size="11" fill="#898781">出典: ☆Kyiv Independent (9/7) / ☆Kyiv Post (9/7) / ☆Just The News (9/7)</text>
+</svg>

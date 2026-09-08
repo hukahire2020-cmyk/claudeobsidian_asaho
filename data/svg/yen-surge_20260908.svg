@@ -1,0 +1,49 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">ドル円、1週間で160円台→152円台へ急伸</text>
+  <text x="28" y="58" font-size="12" fill="#52514e">円キャリートレードの巻き戻しが加速</text>
+
+  <!-- timeline -->
+  <line x1="40" y1="100" x2="680" y2="100" stroke="#c3c2b7" stroke-width="2"/>
+  <g font-size="11" text-anchor="middle">
+    <circle cx="70" cy="100" r="5" fill="#898781"/>
+    <text x="70" y="122" fill="#52514e">8/30</text>
+    <text x="70" y="136" fill="#0b0b0b">ベッセント氏</text>
+    <text x="70" y="149" fill="#0b0b0b">植田総裁と会談</text>
+
+    <circle cx="240" cy="100" r="5" fill="#898781"/>
+    <text x="240" y="122" fill="#52514e">9/2</text>
+    <text x="240" y="136" fill="#0b0b0b">高田審議委員</text>
+    <text x="240" y="149" fill="#0b0b0b">「機動的利上げ」表明</text>
+
+    <circle cx="430" cy="100" r="5" fill="#898781"/>
+    <text x="430" y="122" fill="#52514e">9/4</text>
+    <text x="430" y="136" fill="#0b0b0b">NY市場</text>
+    <text x="430" y="149" fill="#0b0b0b">155.34円で引け</text>
+
+    <circle cx="640" cy="100" r="6" fill="#d03b3b"/>
+    <text x="640" y="122" fill="#d03b3b" font-weight="700">9/8</text>
+    <text x="640" y="136" fill="#d03b3b" font-weight="700">東京市場</text>
+    <text x="640" y="149" fill="#d03b3b" font-weight="700">152.88円まで下落</text>
+  </g>
+
+  <!-- stat tiles -->
+  <rect x="24" y="184" width="212" height="80" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="130" y="206" font-size="12" fill="#52514e" text-anchor="middle">ドル円（9/2中心相場）</text>
+  <text x="130" y="238" font-size="24" font-weight="700" fill="#0b0b0b" text-anchor="middle">160.25円</text>
+
+  <rect x="254" y="184" width="212" height="80" rx="8" fill="#f9f9f7" stroke="#2a78d6" stroke-width="1.5"/>
+  <text x="360" y="206" font-size="12" fill="#52514e" text-anchor="middle">ドル円（9/8午前）</text>
+  <text x="360" y="238" font-size="24" font-weight="700" fill="#2a78d6" text-anchor="middle">152.88円</text>
+
+  <rect x="484" y="184" width="212" height="80" rx="8" fill="#f9f9f7" stroke="#d03b3b" stroke-width="1.5"/>
+  <text x="590" y="206" font-size="12" fill="#52514e" text-anchor="middle">日経平均（9/8終値）</text>
+  <text x="590" y="234" font-size="19" font-weight="700" fill="#d03b3b" text-anchor="middle">65,269円33銭</text>
+  <text x="590" y="252" font-size="13" font-weight="700" fill="#d03b3b" text-anchor="middle">▲1,130円51銭（-1.70%）</text>
+
+  <rect x="24" y="284" width="672" height="56" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="306" font-size="12.5" font-weight="700" fill="#0b0b0b">背景</text>
+  <text x="42" y="324" font-size="11.5" fill="#52514e">日銀の利上げ観測の高まりで円売りポジション（キャリートレード）の解消が急速に進行、輸出関連株への売りに波及</text>
+
+  <text x="28" y="366" font-size="11" fill="#898781">出典: 日銀高田審議委員講演資料(★9/2)・日本経済新聞・Bloomberg・財経新聞（2026/8/30-9/8）</text>
+</svg>

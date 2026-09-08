@@ -1,0 +1,38 @@
+<svg viewBox="0 0 720 340" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="338" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="28" y="38" font-size="17" font-weight="700" fill="#0b0b0b">米中、初のAI安全保障対話へ</text>
+  <text x="28" y="58" font-size="12" fill="#52514e">トランプ政権下で初、9/24習近平氏訪米を前に</text>
+
+  <line x1="40" y1="100" x2="680" y2="100" stroke="#c3c2b7" stroke-width="2"/>
+  <g font-size="11" text-anchor="middle">
+    <circle cx="80" cy="100" r="5" fill="#898781"/>
+    <text x="80" y="122" fill="#52514e">2026年5月</text>
+    <text x="80" y="136" fill="#0b0b0b">トランプ氏訪中で</text>
+    <text x="80" y="149" fill="#0b0b0b">AI対話の実施に合意</text>
+
+    <circle cx="270" cy="100" r="5" fill="#898781"/>
+    <text x="270" y="122" fill="#52514e">7/21</text>
+    <text x="270" y="136" fill="#0b0b0b">9月開催の見通しを</text>
+    <text x="270" y="149" fill="#0b0b0b">ロイターが報道</text>
+
+    <circle cx="470" cy="100" r="6" fill="#2a78d6"/>
+    <text x="470" y="122" fill="#2a78d6" font-weight="700">9月中旬</text>
+    <text x="470" y="136" fill="#2a78d6" font-weight="700">米中AI安全保障対話</text>
+    <text x="470" y="149" fill="#2a78d6" font-weight="700">（トランプ政権下で初）</text>
+
+    <circle cx="650" cy="100" r="6" fill="#d03b3b"/>
+    <text x="650" y="122" fill="#d03b3b" font-weight="700">9/24</text>
+    <text x="650" y="136" fill="#d03b3b" font-weight="700">トランプ・習近平</text>
+    <text x="650" y="149" fill="#d03b3b" font-weight="700">ワシントン会談</text>
+  </g>
+
+  <rect x="24" y="184" width="668" height="60" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="206" font-size="12.5" font-weight="700" fill="#0b0b0b">想定議題</text>
+  <text x="42" y="228" font-size="11.5" fill="#0b0b0b">犯罪・テロ組織によるAI悪用への共通懸念／フロンティアモデルの管理／半導体・高帯域幅メモリの輸出規制</text>
+
+  <rect x="24" y="254" width="668" height="64" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="42" y="276" font-size="12.5" font-weight="700" fill="#0b0b0b">代表団（報道ベース）</text>
+  <text x="42" y="298" font-size="11.5" fill="#52514e">米: ベッセント財務長官が代表団を率いる案 ／ 中: 何立峰・国務院副総理が中心となる案（日程は流動的、確定情報ではない）</text>
+
+  <text x="28" y="332" font-size="11" fill="#898781">出典: ☆CNBC (7/21, 9/5) / ☆Washington Times (7/21)</text>
+</svg>
