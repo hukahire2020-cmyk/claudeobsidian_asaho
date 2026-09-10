@@ -1,0 +1,44 @@
+<svg viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="378" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">円高が継続、日経平均は3日続落・原油も高止まり</text>
+  <text x="30" y="58" font-size="12" fill="#898781">ドル円の推移（9/2〜9/9） ／ 日経平均・原油は9/9時点</text>
+
+  <!-- Dollar-yen line chart -->
+  <text x="40" y="90" font-size="12.5" font-weight="700" fill="#0b0b0b">ドル円の推移</text>
+  <line x1="80" y1="185" x2="640" y2="185" stroke="#e1e0d9"/>
+  <line x1="80" y1="105" x2="80" y2="185" stroke="#e1e0d9"/>
+  <text x="70" y="112" font-size="10" fill="#898781" text-anchor="end">160円</text>
+  <text x="70" y="188" font-size="10" fill="#898781" text-anchor="end">150円</text>
+
+  <!-- points: 9/2=160.25 (y=110), 9/4=155.34 (y=143), 9/8=152.88 (y=161), 9/9=152.94 (y=160) -->
+  <polyline points="120,110 280,143 480,161 600,160" fill="none" stroke="#2a78d6" stroke-width="3"/>
+  <circle cx="120" cy="110" r="5" fill="#2a78d6"/>
+  <circle cx="280" cy="143" r="5" fill="#2a78d6"/>
+  <circle cx="480" cy="161" r="5" fill="#2a78d6"/>
+  <circle cx="600" cy="160" r="6" fill="#d03b3b"/>
+
+  <text x="120" y="98" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">160.25円</text>
+  <text x="120" y="200" font-size="10.5" fill="#898781" text-anchor="middle">9/2</text>
+
+  <text x="280" y="131" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">155.34円</text>
+  <text x="280" y="200" font-size="10.5" fill="#898781" text-anchor="middle">9/4</text>
+
+  <text x="480" y="150" font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="700">152.88円</text>
+  <text x="480" y="200" font-size="10.5" fill="#898781" text-anchor="middle">9/8</text>
+
+  <text x="600" y="145" font-size="11.5" fill="#d03b3b" text-anchor="middle" font-weight="700">152.94円</text>
+  <text x="600" y="200" font-size="10.5" fill="#898781" text-anchor="middle">9/9</text>
+
+  <!-- Nikkei & Oil tiles -->
+  <rect x="40" y="230" width="300" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="60" y="255" font-size="12.5" font-weight="700" fill="#0b0b0b">日経平均（9/9終値）</text>
+  <text x="60" y="295" font-size="24" font-weight="700" fill="#d03b3b">65,142.78円</text>
+  <text x="60" y="320" font-size="12" fill="#52514e">前日比 -126.55円（-0.19%）・3日続落</text>
+
+  <rect x="380" y="230" width="300" height="120" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="400" y="255" font-size="12.5" font-weight="700" fill="#0b0b0b">NY原油（WTI, 9/9）</text>
+  <text x="400" y="295" font-size="24" font-weight="700" fill="#2a78d6">94.04ドル</text>
+  <text x="400" y="320" font-size="12" fill="#52514e">中東情勢の緊張継続を背景に高止まり</text>
+
+  <text x="360" y="368" font-size="10.5" fill="#898781" text-anchor="middle">出典: 財経新聞(9/9 為替・日経平均・原油) ／ 日本証券新聞(9/2)</text>
+</svg>

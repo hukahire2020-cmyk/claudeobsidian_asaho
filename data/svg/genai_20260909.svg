@@ -1,0 +1,26 @@
+<svg viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="318" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">OpenAI「ChatGPT Images 2.5」（9/8発表）</text>
+  <text x="30" y="58" font-size="12" fill="#898781">生成速度と編集の一貫性を両立、新機能「Sketch」も追加</text>
+
+  <rect x="40" y="80" width="200" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="140" y="120" font-size="26" font-weight="700" fill="#2a78d6" text-anchor="middle">最大50%</text>
+  <text x="140" y="145" font-size="12" fill="#52514e" text-anchor="middle">生成の待ち時間を短縮</text>
+  <text x="140" y="162" font-size="10.5" fill="#898781" text-anchor="middle">（Images 2.0比）</text>
+
+  <rect x="260" y="80" width="200" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="360" y="115" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">改善点</text>
+  <text x="360" y="138" font-size="11.5" fill="#52514e" text-anchor="middle">自然な光・質感の向上</text>
+  <text x="360" y="156" font-size="11.5" fill="#52514e" text-anchor="middle">複数回の編集でも被写体を維持</text>
+  <text x="360" y="174" font-size="11.5" fill="#52514e" text-anchor="middle">手描きラフ「Sketch」機能を追加</text>
+
+  <rect x="480" y="80" width="200" height="110" rx="8" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="580" y="112" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle">APIモデル</text>
+  <text x="580" y="136" font-size="11.5" fill="#52514e" text-anchor="middle">Flare：高品質・低遅延</text>
+  <text x="580" y="154" font-size="11.5" fill="#52514e" text-anchor="middle">Sunburst：高精度・低速</text>
+  <text x="580" y="176" font-size="10.5" fill="#898781" text-anchor="middle">ChatGPT/Work/Codex 全プラン提供</text>
+
+  <text x="360" y="230" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="600">テキスト・コーディングに続き、画像生成でも「速度×一貫性」が競争軸に</text>
+
+  <text x="360" y="290" font-size="10.5" fill="#898781" text-anchor="middle">出典: OpenAI公式デベロッパーコミュニティ (2026/9/8) ／ 9to5Mac (9/8)</text>
+</svg>

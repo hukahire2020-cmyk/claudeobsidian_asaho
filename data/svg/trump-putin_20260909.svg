@@ -1,0 +1,49 @@
+<svg viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="358" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">ウクライナ和平交渉——特使訪問から首脳電話会談へ</text>
+  <text x="30" y="58" font-size="12" fill="#898781">米特使のモスクワ・キーウ訪問（9/5〜6）を経て、9/8にトランプ・プーチン電話会談</text>
+
+  <!-- timeline base -->
+  <line x1="60" y1="180" x2="660" y2="180" stroke="#c3c2b7" stroke-width="2"/>
+
+  <!-- node 1: 9/5 Moscow -->
+  <circle cx="120" cy="180" r="8" fill="#2a78d6"/>
+  <text x="120" y="150" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">9月5日</text>
+  <text x="120" y="168" font-size="11" fill="#52514e" text-anchor="middle">モスクワ</text>
+  <rect x="45" y="200" width="150" height="72" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="120" y="220" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="600">特使ウィトコフ氏</text>
+  <text x="120" y="235" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="600">クシュナー氏</text>
+  <text x="120" y="252" font-size="11" fill="#52514e" text-anchor="middle">プーチン氏と3時間超会談</text>
+  <text x="120" y="266" font-size="10.5" fill="#898781" text-anchor="middle">「実質的で建設的」</text>
+
+  <!-- node 2: 9/6 Kyiv -->
+  <circle cx="330" cy="180" r="8" fill="#2a78d6"/>
+  <text x="330" y="150" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle">9月6日</text>
+  <text x="330" y="168" font-size="11" fill="#52514e" text-anchor="middle">キーウ</text>
+  <rect x="255" y="200" width="150" height="72" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="330" y="220" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="600">両特使、キーウへ移動</text>
+  <text x="330" y="238" font-size="11" fill="#52514e" text-anchor="middle">ウクライナ側と協議</text>
+  <text x="330" y="256" font-size="10.5" fill="#898781" text-anchor="middle">「実質的（substantive）」</text>
+
+  <!-- node 3: 9/8 call -->
+  <circle cx="560" cy="180" r="10" fill="#d03b3b"/>
+  <text x="560" y="150" font-size="14" font-weight="700" fill="#0b0b0b" text-anchor="middle">9月8日</text>
+  <text x="560" y="168" font-size="11" fill="#52514e" text-anchor="middle">電話会談・約1時間</text>
+  <rect x="470" y="200" width="180" height="90" rx="6" fill="#f9f9f7" stroke="#d03b3b"/>
+  <text x="560" y="222" font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="700">トランプ氏 ⇔ プーチン氏</text>
+  <text x="560" y="240" font-size="11" fill="#52514e" text-anchor="middle">特使訪問の結果を協議</text>
+  <text x="560" y="256" font-size="11" fill="#52514e" text-anchor="middle">「欧州攻撃の計画はない」</text>
+  <text x="560" y="272" font-size="11" fill="#52514e" text-anchor="middle">（プーチン氏）</text>
+  <text x="560" y="286" font-size="10.5" fill="#898781" text-anchor="middle">具体的停戦条件は今回も不明</text>
+
+  <!-- arrows -->
+  <path d="M195 180 L253 180" stroke="#c3c2b7" stroke-width="2" marker-end="url(#arrow1)"/>
+  <path d="M405 180 L462 180" stroke="#c3c2b7" stroke-width="2" marker-end="url(#arrow1)"/>
+  <defs>
+    <marker id="arrow1" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#898781"/>
+    </marker>
+  </defs>
+
+  <text x="360" y="330" font-size="10.5" fill="#898781" text-anchor="middle">出典: 産経新聞・中央日報・テレビ朝日（各Yahoo!ニュース経由, 9/8）／時事ドットコム（9/8）</text>
+</svg>

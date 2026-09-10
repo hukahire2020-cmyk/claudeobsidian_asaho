@@ -1,0 +1,43 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,'Segoe UI',sans-serif">
+  <rect x="1" y="1" width="718" height="398" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+  <text x="30" y="38" font-size="17" font-weight="700" fill="#0b0b0b">半導体を巡り、米中双方から圧力</text>
+  <text x="30" y="58" font-size="12" fill="#898781">日本の半導体材料メーカーとAI関連機器の調達側が、二正面のリスクにさらされる</text>
+
+  <!-- center divider -->
+  <line x1="360" y1="75" x2="360" y2="330" stroke="#e1e0d9" stroke-width="1.5"/>
+
+  <!-- LEFT: China -->
+  <rect x="35" y="80" width="290" height="26" rx="6" fill="#d03b3b"/>
+  <text x="180" y="98" font-size="13" font-weight="700" fill="#fcfcfb" text-anchor="middle">🇨🇳 中国商務部 → 日本の材料メーカー</text>
+
+  <rect x="35" y="118" width="290" height="130" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="50" y="140" font-size="11.5" fill="#52514e">対象: 半導体材料「ジクロロシラン」</text>
+  <text x="50" y="158" font-size="11.5" fill="#0b0b0b" font-weight="600">初歩裁定: 9月7日発表</text>
+  <text x="50" y="176" font-size="11.5" fill="#0b0b0b" font-weight="600">暫定関税: 9月8日から実施</text>
+  <text x="50" y="200" font-size="11" fill="#52514e">・信越化学工業: 99.2%</text>
+  <text x="50" y="218" font-size="11" fill="#52514e">・デナールシラン（デンカ子会社）: 80.8%</text>
+  <text x="50" y="238" font-size="10.5" fill="#898781">保証金方式の臨時反ダンピング措置</text>
+
+  <rect x="35" y="260" width="290" height="60" rx="6" fill="#fff" stroke="#e1e0d9"/>
+  <text x="180" y="280" font-size="11" fill="#52514e" text-anchor="middle">調査開始: 2026年1月7日</text>
+  <text x="180" y="298" font-size="11" fill="#52514e" text-anchor="middle">（8カ月かけて初歩裁定へ）</text>
+
+  <!-- RIGHT: US -->
+  <rect x="395" y="80" width="290" height="26" rx="6" fill="#2a78d6"/>
+  <text x="540" y="98" font-size="13" font-weight="700" fill="#fcfcfb" text-anchor="middle">🇺🇸 トランプ政権 → PC・AIサーバー等</text>
+
+  <rect x="395" y="118" width="290" height="130" rx="6" fill="#f9f9f7" stroke="#e1e0d9"/>
+  <text x="410" y="140" font-size="11.5" fill="#52514e">対象拡大を検討: 8月27日判明</text>
+  <text x="410" y="160" font-size="11" fill="#0b0b0b" font-weight="600">・ノートPC</text>
+  <text x="410" y="178" font-size="11" fill="#0b0b0b" font-weight="600">・家庭用ゲーム機</text>
+  <text x="410" y="196" font-size="11" fill="#0b0b0b" font-weight="600">・データセンター向けAIサーバー</text>
+  <text x="410" y="218" font-size="10.5" fill="#898781">国内生産への無関税枠等も協議中</text>
+  <text x="410" y="234" font-size="10.5" fill="#898781">対象・税率・時期は未確定</text>
+
+  <rect x="395" y="260" width="290" height="60" rx="6" fill="#fff" stroke="#e1e0d9"/>
+  <text x="540" y="280" font-size="11" fill="#52514e" text-anchor="middle">既存措置: 2026年1月14日発動</text>
+  <text x="540" y="298" font-size="11" fill="#52514e" text-anchor="middle">（先端ロジック半導体に25%関税）</text>
+
+  <text x="360" y="352" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle">→ 半導体サプライチェーンは「一国リスク」では語れない局面に</text>
+  <text x="360" y="378" font-size="10.5" fill="#898781" text-anchor="middle">出典: 中国商務部公告2026年第37号(9/7) ／ 日本経済新聞(9/7・8/28) ／ 財経新聞(8/28)</text>
+</svg>
